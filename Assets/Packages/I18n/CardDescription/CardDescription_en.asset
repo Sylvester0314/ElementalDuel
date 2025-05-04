@@ -1,0 +1,1149 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: CardDescription_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: e2240b25014c9e348b9e15d2867bf957, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 25717752466636809
+    m_Localized: "\u2460<color=#FFFFFF>The character who has this card equipped deals
+      DMG +1.</color>\r\n\u2461<color=#FFFFFF>When the character who has this card
+      equipped uses a Normal Attack: </color>DMG +1. (Once per Round)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752466636803
+    m_Localized: "\u2460<color=#FFFFFF>The character who has this card equipped deals
+      DMG +1.</color>\r\n\u2461<color=#FFFFFF>When the character who has this card
+      equipped uses a Normal Attack: </color>DMG +1. (Once per Round)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752458248199
+    m_Localized: Sacrificial Fragments
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22512262576443406
+    m_Localized: <color=#FFFFFF>The character who has this card equipped deals DMG
+      +1.</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22512262576443405
+    m_Localized: Magic Guide
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752458248198
+    m_Localized: "\u2460<color=#FFFFFF>Roll Phase: </color>2 of the starting Elemental
+      Dice you roll are always guaranteed to be $[K307].\r\n\u2461<color=#FFFFFF>When
+      the character who has this card equipped uses a Skill or you play a <sprite=37>Talent
+      card to this character: </color>Spend 1 less $[K307] Die. (Once per Round)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752466636808
+    m_Localized: Skyward Blade
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752466636807
+    m_Localized: "\u2460<color=#FFFFFF>The character who has this card equipped deals
+      DMG +1.</color>\r\n\u2461<color=#FFFFFF>After the opposing character uses a
+      Skill: </color>If the character who has this card equipped is the active character,
+      heal this character 1 HP. (Max 2 times per Round)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752466636806
+    m_Localized: Aquila Favonia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752466636805
+    m_Localized: "\u2460<color=#FFFFFF>The character who has this card equipped deals
+      DMG +1.</color>\r\n\u2461<color=#FFFFFF>After the character who has this card
+      equipped uses an Elemental Skill: </color>Create 1 Elemental Die of the same
+      Elemental Type as this character. (Once per Round)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752466636801
+    m_Localized: Skyward Pride
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752466636800
+    m_Localized: "\u2460<color=#FFFFFF>The character who has this card equipped deals
+      DMG +1.</color>\r\n\u2461<color=#FFFFFF>When the character who has this card
+      equipped attacks the target whose HP is equal to or less than 6: </color>DMG
+      +2."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22512262576443412
+    m_Localized: <color=#FFFFFF>The character who has this card equipped deals DMG
+      +1.</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22512262576443411
+    m_Localized: White Tassel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25751997436264448
+    m_Localized: "\u2460<color=#FFFFFF>The character who has this card equipped deals
+      DMG +1.</color>\r\n\u2461<color=#FFFFFF>When the character who has this card
+      equipped uses a Normal Attack: </color>DMG +1. (Once per Round)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752466636802
+    m_Localized: Skyward Spine
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22512262576443409
+    m_Localized: White Iron Greatsword
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752458248204
+    m_Localized: "\u2460<color=#FFFFFF>The character who has this card equipped deals
+      DMG +1.</color>\r\n\u2461<color=#FFFFFF>After the character who has this card
+      equipped uses an Elemental Skill: </color>Create 1 Elemental Die of the same
+      Elemental Type as this character. (Once per Round)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752462442497
+    m_Localized: "\u2460<color=#FFFFFF>The character who has this card equipped deals
+      DMG +1.</color>\r\n\u2461<color=#FFFFFF>After the character who has this card
+      equipped uses an Elemental Skill: </color>Create 1 Elemental Die of the same
+      Elemental Type as this character. (Once per Round)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752462442496
+    m_Localized: Sacrificial Greatsword
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752458248206
+    m_Localized: "\u2460<color=#FFFFFF>The character who has this card equipped deals
+      DMG +1.</color>\r\n\u2461<color=#FFFFFF>When the character who has this card
+      equipped uses a Normal Attack: </color>DMG +1. (Once per Round)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752458248203
+    m_Localized: Sacrificial Bow
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752458248205
+    m_Localized: Skyward Harp
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22512262576443410
+    m_Localized: <color=#FFFFFF>The character who has this card equipped deals DMG
+      +1.</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752462442498
+    m_Localized: Wolf's Gravestone
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752454053897
+    m_Localized: '<color=#FFFFFF>When the character who has this card equipped uses
+      a Skill or you play a <sprite=37>Talent card to this character: </color>Spend
+      1 less $[K305] Die. (Once per Round)'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752454053898
+    m_Localized: Viridescent Venerer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22512262576443403
+    m_Localized: Gambler's Earrings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752454053896
+    m_Localized: Viridescent Venerer's Diadem
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752454053895
+    m_Localized: "\u2460<color=#FFFFFF>Roll Phase: </color>2 of the starting Elemental
+      Dice you roll are always guaranteed to be $[K304].\r\n\u2461<color=#FFFFFF>When
+      the character who has this card equipped uses a Skill or you play a <sprite=37>Talent
+      card to this character: </color>Spend 1 less $[K304] Die. (Once per Round)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22512262576443402
+    m_Localized: '<color=#FFFFFF>After the character who has this card equipped uses
+      an Elemental Burst: </color>Heal all your characters for 1 HP. (Once per Round)'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22512262576443399
+    m_Localized: Lucky Dog's Silver Circlet
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22512262576443398
+    m_Localized: '<color=#FFFFFF>After the character who has this card equipped uses
+      a Normal Attack: </color>Heal this character for 1 HP. (Max 3 times per Round)'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22512262576443397
+    m_Localized: Adventurer's Bandana
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752445665283
+    m_Localized: "\u2460<color=#FFFFFF>When you have $[K133] on the field\uFF1A</color>Deal
+      1 $[K104] to the opposing active character.\r\n\u2461<color=#FFFFFF>When you
+      have $[K135] on the field\uFF1A</color>Deal 1 $[K102] to the opposing active
+      character.\r\n\u2462<color=#FFFFFF>When you have $[K134] on the field\uFF1A</color>Deal
+      1 $[K103] to the opposing active character.\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752445665282
+    m_Localized: Grants 3 $[K6] points to your active character.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752445665281
+    m_Localized: "\u2460<color=#FFFFFF>The next time you perform \"Switch Character\":
+      </color>This switch is considered a $[K2], and spend 1 less Elemental Die.\r\n\u2461<color=#FFFFFF>The
+      next time you trigger $[K215]: </color>Deal +1 DMG to all opposing characters
+      except the target."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752445665280
+    m_Localized: Your active character and your next character without maximum Energy
+      gain 1 $[K310].
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752441470983
+    m_Localized: During this Round, the next instance of $[K213] your current active
+      character triggers deals +3 DMG.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22512262572249093
+    m_Localized: Changing Shifts
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22512262572249092
+    m_Localized: "Create $[K411] \xD72."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22512262572249091
+    m_Localized: The Bestest Travel Companion!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752424693764
+    m_Localized: "\u2460<color=#FFFFFF>When played: </color>$[K413] 1 <sprite=33>Food
+      Card.\r\n\u2461<color=#FFFFFF>After playing a <sprite=33>Food Card: </color>$[K413]
+      1 <sprite=33>Food Card. (Once per Round)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752424693763
+    m_Localized: NRE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13754343992795136
+    m_Localized: "<color=#FFFFFF>After either side uses a Skill: </color>If Elemental
+      DMG was dealt, this card gains 1 <color=#FFFFFF>Qualitative Progress</color>.
+      If this card has gained 3 <color=#FFFFFF>Qualitative Progress</color>, create
+      $[K412] \xD73, then discard this card."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13754220961275904
+    m_Localized: 'Parametric Transformer
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752424693762
+    m_Localized: "<color=#FFFFFF>After you switch to a character that lacks Energy:
+      </color>Your active character gains 1 $[K310]. (Once per Round)\r\n<size=2>\u200B</size>\r\n<color=#FFFFFF>$[K3]:
+      </color>2"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5462956027543552
+    m_Localized: Knights of Favonius Library
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3869251343269888
+    m_Localized: "<color=#FFFFFF>End Phase: </color>Draw 2 cards.\r\n<size=2>\u200B</size>\r\n<color=#FFFFFF>$[K3]:
+      </color>2"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26784245807710211
+    m_Localized: 'Shadowsword: Lone Gale'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26784245807710210
+    m_Localized: Maguu Kenki
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8967542046588928
+    m_Localized: Jade Screen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8971178385956864
+    m_Localized: Ningguang
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8368840002035712
+    m_Localized: "The character to which this is attached has their $[K100] dealt
+      converted to $[K103].\r\n<size=2>\u200B</size>\r\n<color=#FFFFFF>$[K4]: </color>2"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8368836940193792
+    m_Localized: Pyro Infusion
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26784245807710209
+    m_Localized: "<color=#FFFFFF>End Phase: </color>Heal all your characters for
+      1 HP and your active character gains $[k202].\r\n<size=2>\u200B</size>\r\n<color=#FFFFFF>$[K3]:
+      </color>2"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26784245807710208
+    m_Localized: Melody Loop
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752433082383
+    m_Localized: 'Elemental Resonance: Woven Ice'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752433082382
+    m_Localized: During this Round, the target character's next 3 times <color=#FFFFFF>Normal
+      Attack</color> costs 1 less $[K309].
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752433082381
+    m_Localized: Minty Meat Rolls
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752433082380
+    m_Localized: Heal the target character for 1 HP. For the next two Rounds, heal
+      this character for 1 HP again at the End Phase.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752458248197
+    m_Localized: Deepwood Memories
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752458248196
+    m_Localized: '<color=#FFFFFF>When the character who has this card equipped uses
+      a Skill or you play a <sprite=37>Talent card to this character: </color>Spend
+      1 less $[K307] Die. (Once per Round)'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752458248195
+    m_Localized: Laurel Coronet
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752458248194
+    m_Localized: "\u2460<color=#FFFFFF>Roll Phase: </color>2 of the starting Elemental
+      Dice you roll are always guaranteed to be $[K306].\r\n\u2461<color=#FFFFFF>When
+      the character who has this card equipped uses a Skill or you play a <sprite=37>Talent
+      card to this character: </color>Spend 1 less $[K306] Die. (Once per Round)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752458248193
+    m_Localized: Archaic Petra
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752458248192
+    m_Localized: '<color=#FFFFFF>When the character who has this card equipped uses
+      a Skill or you play a <sprite=37>Talent card to this character: </color>Spend
+      1 less $[K306] Die. (Once per Round)'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752454053900
+    m_Localized: Mask of Solitude Basalt
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752454053899
+    m_Localized: "\u2460<color=#FFFFFF>Roll Phase: </color>2 of the starting Elemental
+      Dice you roll are always guaranteed to be $[K305].\r\n\u2461<color=#FFFFFF>When
+      the character who has this card equipped uses a Skill or you play a <sprite=37>Talent
+      card to this character: </color>Spend 1 less $[K305] Die. (Once per Round)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752454053894
+    m_Localized: Thundering Fury
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752454053893
+    m_Localized: '<color=#FFFFFF>When the character who has this card equipped uses
+      a Skill or you play a <sprite=37>Talent card to this character: </color>Spend
+      1 less $[K304] Die. (Once per Round)'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752454053892
+    m_Localized: Thunder Summoner's Crown
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752454053891
+    m_Localized: "\u2460<color=#FFFFFF>Roll Phase: </color>2 of the starting Elemental
+      Dice you roll are always guaranteed to be $[K303].\r\n\u2461<color=#FFFFFF>When
+      the character who has this card equipped uses a Skill or you play a <sprite=37>Talent
+      card to this character: </color>Spend 1 less $[K303] Die. (Once per Round)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752454053890
+    m_Localized: Crimson Witch of Flames
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752454053889
+    m_Localized: '<color=#FFFFFF>When the character who has this card equipped uses
+      a Skill or you play a <sprite=37>Talent card to this character: </color>Spend
+      1 less $[K303] Die. (Once per Round)'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752454053888
+    m_Localized: Witch's Scorching Hat
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752449859593
+    m_Localized: "\u2460<color=#FFFFFF>Roll Phase: </color>2 of the starting Elemental
+      Dice you roll are always guaranteed to be $[K302].\r\n\u2461<color=#FFFFFF>When
+      the character who has this card equipped uses a Skill or you play a <sprite=37>Talent
+      card to this character: </color>Spend 1 less $[K302] Die. (Once per Round)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752449859592
+    m_Localized: Heart of Depth
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752449859591
+    m_Localized: '<color=#FFFFFF>When the character who has this card equipped uses
+      a Skill or you play a <sprite=37>Talent card to this character: </color>Spend
+      1 less $[K302] Die. (Once per Round)'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752449859590
+    m_Localized: Wine-Stained Tricorne
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752449859589
+    m_Localized: "\u2460<color=#FFFFFF>Roll Phase: </color>2 of the starting Elemental
+      Dice you roll are always guaranteed to be $[K301].\r\n\u2461<color=#FFFFFF>When
+      the character who has this card equipped uses a Skill or you play a <sprite=37>Talent
+      card to this character: </color>Spend 1 less $[K301] Die. (Once per Round)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752449859588
+    m_Localized: Blizzard Strayer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752449859587
+    m_Localized: '<color=#FFFFFF>When the character who has this card equipped uses
+      a Skill or you play a <sprite=37>Talent card to this character: </color>Spend
+      1 less $[K301] Die. (Once per Round)'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752449859586
+    m_Localized: Broken Rime's Echo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752449859585
+    m_Localized: '<color=#FFFFFF>After the character who has this card equipped uses
+      an Elemental Burst: </color>All your characters on standby gain 1 $[K310].
+      (Once per Round)'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752449859584
+    m_Localized: Exile's Circlet
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752445665285
+    m_Localized: '<color=#FFFFFF>After the character who has this card equipped uses
+      a Skill: </color>If an <color=#FFFFFF>Elemental Reaction</color> was triggered,
+      create 1 Elemental Die of the same Elemental Type as this character. (Max 3
+      times per Round)'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752445665284
+    m_Localized: Instructor's Cap
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22512262576443404
+    m_Localized: "<color=#FFFFFF>After an opposing character is defeated: </color>If
+      the character who has this card equipped is the active character, create $[K411]
+      \xD72. (Max 3 times this Match)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22512262576443401
+    m_Localized: Traveling Doctor's Handkerchief
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22512262576443400
+    m_Localized: '<color=#FFFFFF>After the character who has this card equipped uses
+      an Elemental Skill: </color>Heal this character for 2 HP. (Once per Round)'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752441470982
+    m_Localized: Heal your active character for 2 HP and all your characters on standby
+      for 1 HP.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752441470981
+    m_Localized: During this Round, your current active character will deal +2 DMG
+      for the next instance.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752441470980
+    m_Localized: 'Elemental Resonance: Sprawling Greenery'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752441470979
+    m_Localized: 'Elemental Resonance: Enduring Rock'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752441470978
+    m_Localized: 'Elemental Resonance: Impetuous Winds'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752441470977
+    m_Localized: 'Elemental Resonance: High Voltage'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752441470976
+    m_Localized: 'Elemental Resonance: Fervent Flames'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752437276682
+    m_Localized: 'Elemental Resonance: Soothing Water'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752437276681
+    m_Localized: 'Elemental Resonance: Shattering Ice'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752437276680
+    m_Localized: Create 1 $[K307].
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752437276679
+    m_Localized: Create 1 $[K306].
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752437276678
+    m_Localized: Create 1 $[K305].
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752437276677
+    m_Localized: Create 1 $[K304].
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752437276676
+    m_Localized: Create 1 $[K303].
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752437276675
+    m_Localized: Create 1 $[K302].
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752437276674
+    m_Localized: Create 1 $[K301].
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752437276673
+    m_Localized: 'Elemental Resonance: Woven Weeds'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752437276672
+    m_Localized: 'Elemental Resonance: Woven Stone'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752433082387
+    m_Localized: 'Elemental Resonance: Woven Winds'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752433082386
+    m_Localized: 'Elemental Resonance: Woven Thunder'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752433082385
+    m_Localized: 'Elemental Resonance: Woven Flames'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752433082384
+    m_Localized: 'Elemental Resonance: Woven Waters'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752433082379
+    m_Localized: Mushroom Pizza
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752433082378
+    m_Localized: Heal the target character for 2 HP.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752433082377
+    m_Localized: Mondstadt Hash Brown
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752433082376
+    m_Localized: Heal the target character for 1 HP.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752433082375
+    m_Localized: Sweet Madame
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752433082374
+    m_Localized: During this Round, the target character's next <color=#FFFFFF>Normal
+      Attack</color> costs 1 less $[K309].
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752433082373
+    m_Localized: Northern Smoked Chicken
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752433082372
+    m_Localized: During this Round, the target character takes DMG -3 the next time.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752433082371
+    m_Localized: Lotus Flower Crisp
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22521650280239106
+    m_Localized: During this Round, the target character's next deals <color=#FFFFFF>Elemental
+      Burst</color> DMG +3.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22521650280239105
+    m_Localized: Adeptus' Temptation
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22521650280239104
+    m_Localized: During this Round, the target character's next deals <color=#FFFFFF>Normal
+      Attack</color> DMG +1.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22521650276044800
+    m_Localized: Jueyun Guoba
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752433082370
+    m_Localized: Summon 1 random <color=#FFFFFF>$[K1001]</color>.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752433082369
+    m_Localized: Abyssal Summons
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752433082368
+    m_Localized: Discard all Summons on both sides.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752428888072
+    m_Localized: Guardian's Oath
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752428888071
+    m_Localized: Choose one Summon on the opposing side and cause it to lose 2 $[K3].
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752428888070
+    m_Localized: Send Off
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752428888069
+    m_Localized: Choose one Summon on your side and grant it +1 $[K3].
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752428888068
+    m_Localized: Quick Knit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752428888067
+    m_Localized: Choose one of your characters that has a <sprite=30>Artifact equipped,
+      and shift the equipped <sprite=30>Artifact card to another one of your characters,
+      and reset the "usages per Round" limit on its effects.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752428888066
+    m_Localized: Blessing of the Divine Relic's Installation
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752428888065
+    m_Localized: Choose one of your characters that has a <sprite=20>Weapon equipped,
+      and shift the equipped <sprite=20>Weapon card to another one of your characters
+      with the same Weapon Type, and reset the "usages per Round" limit on its effects.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752428888064
+    m_Localized: Master of Weaponry
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752424693774
+    m_Localized: Shift 1 $[K310] from at most 2 of your characters on standby to
+      your active character.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752424693773
+    m_Localized: Calx's Arts
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752424693772
+    m_Localized: Your active character gains 1 $[K310].
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752424693771
+    m_Localized: Starsigns
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752424693770
+    m_Localized: '<color=#FFFFFF>The next time you use a Skill: </color>Switch your
+      next character in to be the active character.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752424693769
+    m_Localized: When the Crane Returned
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752424693768
+    m_Localized: '<color=#FFFFFF>The next time you perform "Switch Character": </color>This
+      switch is considered a $[K2].'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752424693767
+    m_Localized: Leave It to Me!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752424693766
+    m_Localized: "<color=#FFFFFF>You can only play this card if your character was
+      defeated this Round.</color>\r\n<color=#FFFFFF>You can only play 1 card with
+      this name per Round.</color>\r\n<size=2>\u200B</size>\r\nCreates $[K411] \xD71,
+      your active character gains 1 $[K310]."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752424693765
+    m_Localized: I Haven't Lost Yet!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22512262576443396
+    m_Localized: Draw 2 cards.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22512262576443395
+    m_Localized: Strategize
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22512262576443394
+    m_Localized: Perform the "Reroll" 2 times.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22512262576443393
+    m_Localized: Toss-Up
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22512262576443392
+    m_Localized: '<color=#FFFFFF>The next time you perform "Switch Character": </color>Spend
+      1 less Elemental Die.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752424693761
+    m_Localized: Liu Su
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752424693760
+    m_Localized: "<color=#FFFFFF>End Phase: </color>One of your characters without
+      maximum Energy gains 1 $[K310].\r\n<size=2>\u200B</size>\r\n<color=#FFFFFF>$[K3]:
+      </color>2"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752420499471
+    m_Localized: Iron Tongue Tian
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752420499470
+    m_Localized: '<color=#FFFFFF>When your character uses a Skill: </color>If this
+      skill has been used in this round, spend 1 less Elemental Die. (Once per Round)'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752420499469
+    m_Localized: Ellin
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752420499468
+    m_Localized: '<color=#FFFFFF>After either side uses a Skill: </color>If $[K100]
+      or $[K5] was dealt, or an <color=#FFFFFF>Elemental Reaction</color> was triggered,
+      this card gains 1 <color=#FFFFFF>Inspiration</color>. If this card has gained
+      3 <color=#FFFFFF>Inspiration</color>, draw 2 cards, then discard this card.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752420499467
+    m_Localized: Chang the Ninth
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752420499466
+    m_Localized: "\u2460<color=#FFFFFF>End Phase: </color>Collect your unused Elemental
+      Dice of different types, for each type collected, this card gains 1 <color=#FFFFFF>Marvelous
+      Reward</color>. (Up to 3)\r\n\u2461<color=#FFFFFF>When Action Phase begins:
+      </color>If this card has gained 3 <color=#FFFFFF>Marvelous Rewards</color>,
+      draw 2 cards and create $[K411] \xD72, then discard this card."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752420499465
+    m_Localized: Liben
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752420499464
+    m_Localized: "<color=#FFFFFF>When played and Action Phase begins: </color>This
+      card gains 1 <color=#FFFFFF>Pigeon</color>. When this card gains 3 <color=#FFFFFF>Pigeons</color>,
+      draw 1 card and create $[k411] \xD71, then discard this card."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752420499463
+    m_Localized: Timmie
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752420499462
+    m_Localized: '<color=#FFFFFF>When playing a <sprite=35>Location Card: </color>Spend
+      2 less Elemental Dice. (Once per Round)'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752420499461
+    m_Localized: Tubby
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752420499460
+    m_Localized: '<color=#FFFFFF>After playing a <sprite=33>Food Card: </color>Create
+      $[K412]. (Once per Round) $[K413] 1 <sprite=33>Food Card. (Once this Match)'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752420499459
+    m_Localized: Chef Mao
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752420499458
+    m_Localized: "\u2460<color=#FFFFFF>When played: </color>Comes with 2 <color=#FFFFFF>Forging
+      Billets</color>. If your deck originally includes at least 3 different types
+      of <sprite=20>Weapons, $[K413] 1 <sprite=20>Weapon Card.\r\n\u2461<color=#FFFFFF>End
+      Phase: </color>This card will gain 1 <color=#FFFFFF>Forging Billet</color>.\r\n<size=2>\u200B</size>\r\n\u2462<color=#FFFFFF>When
+      playing an <sprite=20>Weapon Card: </color>If possible, spend <color=#FFFFFF>Forging
+      Billets</color> equal to the total cost of the <sprite=20>Weapon and equip
+      this <sprite=20>Weapon for free. (Once per Round)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752420499457
+    m_Localized: Wagner
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752420499456
+    m_Localized: "\u2460<color=#FFFFFF>When played: </color>Comes with 2 <color=#FFFFFF>Transmutation
+      Materials</color>. If your deck originally includes at least 6 <sprite=30>Artifact
+      cards, $[K413] 1 <sprite=30>Artifact Card.\r\n\u2461<color=#FFFFFF>End Phase:
+      </color>This card will gain 1 <color=#FFFFFF>Transmutation Material</color>.\r\n<size=2>\u200B</size>\r\n\u2462<color=#FFFFFF>When
+      playing an <sprite=30>Artifact Card: </color>If possible, spend <color=#FFFFFF>Transmutation
+      Materials</color> equal to the total cost of the <sprite=30>Artifact and equip
+      this <sprite=30>Artifact for free. (Once per Round)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752416305159
+    m_Localized: Timaeus
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13754246089351168
+    m_Localized: '<color=#FFFFFF>When you perform "Switch Character": </color>This
+      switch is considered a $[K2]. (Once per Round)'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13754107186585600
+    m_Localized: Katheryne
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13754222701912064
+    m_Localized: "<color=#FFFFFF>When Action Phase begins: </color>Create $[K411]
+      \xD72.\r\n<size=2>\u200B</size>\r\n<color=#FFFFFF>$[K3]: </color>2"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13754102484770816
+    m_Localized: Paimon
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752416305158
+    m_Localized: "<color=#FFFFFF>End Phase: </color>Heals your active character for
+      2 HP.\r\n<size=2>\u200B</size>\r\n<color=#FFFFFF>$[K3]: </color>2"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752416305157
+    m_Localized: Favonius Cathedral
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752416305156
+    m_Localized: "<color=#FFFFFF>End Phase: </color>Heal the most injured character
+      on standby for 2 HP.\r\n<size=2>\u200B</size>\r\n<color=#FFFFFF>$[K3]: </color>2"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752416305155
+    m_Localized: Wangshu Inn
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752416305154
+    m_Localized: '<color=#FFFFFF>When you perform "Switch Character": </color>Spend
+      1 less Elemental Die. (Max 2 times per Round)'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752416305153
+    m_Localized: Dawn Winery
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752416305152
+    m_Localized: "\u2460<color=#FFFFFF>Roll Phase: </color>2 of the starting Elemental
+      Dice you roll are always guaranteed to be the same Elemental type as your active
+      character.\r\n\u2461<color=#FFFFFF>When Action Phase begins: </color>If you
+      have no more than 3 cards in your Hand, create 1 $[K411] and discard this card."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752365973504
+    m_Localized: Jade Chamber
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5462958871281664
+    m_Localized: "\u2460<color=#FFFFFF>When played:</color> Select any Elemental
+      Dice to reroll.\r\n\u2461<color=#FFFFFF>Roll Phase: </color>Gain another chance
+      to reroll."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3868991883624448
+    m_Localized: Liyue Harbor Wharf
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26784245811904514
+    m_Localized: "<color=#FFFFFF>End Phase: </color>Deal 1 $[K101].\r\n<size=2>\u200B</size>\r\n<color=#FFFFFF>$[K3]:
+      </color>2"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26784245811904513
+    m_Localized: 'Shadowsword: Galloping Frost'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26784245811904512
+    m_Localized: "<color=#FFFFFF>End Phase: </color>Deal 1 $[K105].\r\n<size=2>\u200B</size>\r\n<color=#FFFFFF>$[K3]:
+      </color>2"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8967755977064448
+    m_Localized: "<color=#FFFFFF>End Phase: </color>Deal 2 $[K107].\r\n<size=2>\u200B</size>\r\n<color=#FFFFFF>$[K3]:
+      </color>2"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8967542663151616
+    m_Localized: Cuilein-Anbar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8971183784026112
+    m_Localized: Collei
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8967755415027712
+    m_Localized: "<color=#FFFFFF>When your active character receives DMG: </color>If
+      the DMG is at least 2, decrease DMG taken by 1.\r\n<size=2>\u200B</size>\r\n<color=#FFFFFF>$[K3]\uFF1A</color>2"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8967754878156800
+    m_Localized: "\u2460<color=#FFFFFF>End Phase: </color>Deal 2 $[K105].\r\n\u2461<color=#FFFFFF>After
+      you trigger a Swirl reaction: </color>If the Elemental Type of this card is
+      <sprite=12><color=#80FFD7>Anemo</color>, it will be converted into the element
+      Swirled.\r\n<size=2>\u200B</size>\r\n<color=#FFFFFF>$[K3]: </color>3"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8967541442609152
+    m_Localized: Large Wind Spirit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8971177073139712
+    m_Localized: Sucrose
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8365773542187008
+    m_Localized: "<color=#FFFFFF>End Phase: </color>Deal 1 $[K104].\r\n<size=2>\u200B</size>\r\n<color=#FFFFFF>$[K3]:
+      </color>2"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8365747814326272
+    m_Localized: Oz
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8372286344192000
+    m_Localized: Diluc
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5375527161856
+    m_Localized: Diona
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26784245748989952
+    m_Localized: Barbara
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7462911463186432
+    m_Localized: "<color=#FFFFFF>End Phase: </color>Deal 1 $[K101], deal 1 $[K5]
+      to all opposing characters on standby.\r\n<size=2>\u200B</size>\r\n<color=#FFFFFF>$[K3]:
+      </color>2"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7462884523171840
+    m_Localized: "<color=#FFFFFF>When your active character receives DMG: </color>Decreases
+      DMG taken by 1.\r\n<size=2>\u200B</size>\r\n<color=#FFFFFF>$[K3]: </color>2"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7461795673464832
+    m_Localized: Sacred Cryo Pearl
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7461789730136064
+    m_Localized: Ice Lotus
+    m_Metadata:
+      m_Items: []
+  - m_Id: 182873952256
+    m_Localized: Ganyu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8372287891890176
+    m_Localized: Fischl
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752466636804
+    m_Localized: Sacrificial Sword
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22512262576443414
+    m_Localized: <color=#FFFFFF>The character who has this card equipped deals DMG
+      +1.</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22512262576443413
+    m_Localized: Traveler's Handy Sword
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22512262576443408
+    m_Localized: <color=#FFFFFF>The character who has this card equipped deals DMG
+      +1.</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22512262576443407
+    m_Localized: Raven Bow
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752458248202
+    m_Localized: "\u2460<color=#FFFFFF>The character who has this card equipped deals
+      DMG +1.</color>\r\n\u2461<color=#FFFFFF>When the character who has this card
+      equipped uses a Normal Attack: </color>DMG +1. (Once per Round)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752458248201
+    m_Localized: Skyward Atlas
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752458248200
+    m_Localized: "\u2460<color=#FFFFFF>The character who has this card equipped deals
+      DMG +1.</color>\r\n\u2461<color=#FFFFFF>After the character who has this card
+      equipped uses an Elemental Skill: </color>Create 1 Elemental Die of the same
+      Elemental Type as this character. (Once per Round)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43613764120084480
+    m_Localized: Satiated
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43613764195581952
+    m_Localized: Jueyun Guoba (In Effect)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43613764195581953
+    m_Localized: Adeptus' Temptation (In Effect)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43613764195581954
+    m_Localized: Lotus Flower Crisp (In Effect)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43613764195581955
+    m_Localized: Northern Smoked Chicken (In Effect)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43613764195581956
+    m_Localized: Mushroom Pizza (In Effect)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43613764195581957
+    m_Localized: Minty Meat Rolls (In Effect)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43613764195581958
+    m_Localized: During this Round, this character's next deals <color=#FFFFFF>Normal
+      Attack</color> DMG +1.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43613764199776256
+    m_Localized: During this Round, this character's next deals <color=#FFFFFF>Elemental
+      Burst</color> DMG +3.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43613764199776257
+    m_Localized: During this Round, this character takes DMG -3 the next time.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43613764199776258
+    m_Localized: During this Round, this character's next <color=#FFFFFF>Normal Attack</color>
+      costs 1 less $[K309].
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43613764199776259
+    m_Localized: "<color=#FFFFFF>End Phase: </color>Heals this character for 1 HP.\r\n<size=2>\u200B</size>\r\n<color=#FFFFFF>$[K3]:
+      </color>2"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43613764199776260
+    m_Localized: "During this Round, this character's <color=#FFFFFF>Normal Attack</color>
+      costs 1 less $[K309].\r\n<size=2>\u200B</size>\r\n<color=#FFFFFF>$[K3]: </color>3"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43613764199776261
+    m_Localized: 'Elemental Resonance: Shattering Ice (In Effect)'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43613764199776262
+    m_Localized: 'Elemental Resonance: Fervent Flames (In Effect)'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43613764199776263
+    m_Localized: 'Elemental Resonance: Impetuous Winds (In Effect)'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43613764199776264
+    m_Localized: 'Elemental Resonance: Enduring Rock (In Effect)'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43613764199776265
+    m_Localized: 'Elemental Resonance: Sprawling Greenery (In Effect)'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43613764199776266
+    m_Localized: During this Round, this character will deal +2 DMG for the next
+      instance.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43613764199776267
+    m_Localized: During this Round, this character will deal +3 DMG for the next
+      instance of $[K213] triggered.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43615999889637376
+    m_Localized: During this Round, you cannot play the <sprite=33>Food Card to this
+      character.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43619497347776512
+    m_Localized: Burning Flame
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43619497347776513
+    m_Localized: "<color=#FFFFFF>End Phase: </color>Deal 1 $[K103].\r\n<size=2>\u200B</size>\r\n<color=#FFFFFF>$[K3]:
+      </color>1 (Can stack. Max 2 stacks.)"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

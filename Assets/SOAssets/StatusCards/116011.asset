@@ -1,0 +1,92 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d3cef5a20b3e471a9cdcf438e52536bf, type: 3}
+  m_Name: 116011
+  m_EditorClassIdentifier: 
+  statusName: card_name_116011
+  description: card_description_116011
+  displayImage: {fileID: 21300000, guid: c2e390d326f558f4389a13f57368c9fe, type: 3}
+  hintValueField: usage
+  showHintIcon: 0
+  hintTypeIcon: {fileID: 0}
+  showEventType: 0
+  eventTypeIcon: {fileID: 0}
+  eventTypeValue: 1
+  type: 1
+  relatedCard: {fileID: 0}
+  properties: 
+  mode: 4
+  autoDiscard: 1
+  canOverride: 0
+  usages:
+    enable: 0
+    stackable: 0
+    initial: 2
+    max: 2
+    repeat: 0
+    remaining: 0
+  durations:
+    enable: 0
+    stackable: 0
+    initial: 1
+    max: 2
+    repeat: 0
+    remaining: 0
+  restrictTriggerPerRound: 0
+  maxTriggersPerRound: 1
+  variables:
+    m_Keys: []
+    m_Values: 
+  handlers:
+  - timing: 208
+    effects:
+    - condition:
+        evaluation: 2
+        count: 0
+        preposedIndex: 0
+        factors:
+        - rid: 2824340843667390470
+        - rid: 4558414278857326612
+      subEffects:
+      - rid: 4558414278857326611
+  references:
+    version: 2
+    RefIds:
+    - rid: 2824340843667390470
+      type: {class: ActiveOnlyCondition, ns: Shared.Logic.Condition, asm: Assembly-CSharp}
+      data:
+        type: 0
+    - rid: 4558414278857326611
+      type: {class: ModifyDamageEffect, ns: Shared.Logic.Event, asm: Assembly-CSharp}
+      data:
+        autoConsume: 1
+        modifier: 2
+        value: 1
+        originalElement: 0
+        convertedElement: 0
+    - rid: 4558414278857326612
+      type: {class: DamageAttributeCondition, ns: Shared.Logic.Condition, asm: Assembly-CSharp}
+      data:
+        restrictDamageSource: 1
+        sourceSite: 1
+        sourceTypes: 0
+        restrictDamageTarget: 0
+        targetType: 0
+        restrictElementType: 0
+        elementType: 0
+        restrictDamageAmount: 1
+        compareOperator: 5
+        amount: 2
+        restrictDamageTypes: 0
+        damageTypes: 0
+        restrictReactionTypes: 0
+        reactions: 

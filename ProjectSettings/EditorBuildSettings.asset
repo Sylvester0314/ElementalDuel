@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/GameScene.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/LobbyScene.unity
+    guid: 5eeeb6167b6738045b1ec56caccb37a0
+  - enabled: 1
+    path: Assets/Scenes/RoomScene.unity
+    guid: fa123e3ab912dad40b1131c4349df7fa
+  - enabled: 1
+    path: Assets/Scenes/DeckScene.unity
+    guid: 8054c959a878bde42b4927ce34cbc2c3
+  - enabled: 1
+    path: Assets/Scenes/BuildScene.unity
+    guid: 2a139d8390ac75647a932ac1a36539be
+  - enabled: 1
+    path: Assets/Scenes/RerollScene.unity
+    guid: b5044f5337cf844419ff51e5d792a6a8
+  - enabled: 1
+    path: Assets/Scenes/ServerScene.unity
+    guid: f2a942424c98af04bbf0dacd5423997d
+  m_configObjects:
+    com.unity.addressableassets: {fileID: 11400000, guid: 51e4376506bd79144bb721a24d4dd6ee,
+      type: 2}
+    com.unity.localization.settings: {fileID: 11400000, guid: 20944f5920898ef4a8f9a8067bdb66a0,
+      type: 2}

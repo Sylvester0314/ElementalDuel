@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b7573eb496a745778d8917f2fd458576, type: 3}
+  m_Name: 333005
+  m_EditorClassIdentifier: 
+  cardName: card_name_333005
+  description: card_description_333005
+  bannerHint: use_food_card_banner
+  cardSnapshot: {fileID: 21300000, guid: 097eb999e637874488d2ff8f4e937740, type: 3}
+  cardImage: {fileID: 21300000, guid: 123a8b24f6544074ebcc641b59cb041e, type: 3}
+  cardType: 2
+  buildCondition:
+  - rid: 37412325134696536
+  properties: 22000000
+  costs:
+  - type: 9
+    count: 0
+  useCondition:
+    evaluation: 0
+    count: 0
+    preposedIndex: 0
+    factors: []
+  effects:
+  - condition:
+      evaluation: 0
+      count: 0
+      preposedIndex: 0
+      factors: []
+    subEffects:
+    - rid: 4558414278857326636
+  isValid: 0
+  references:
+    version: 2
+    RefIds:
+    - rid: 37412325134696536
+      type: {class: EmptyBuildCondition, ns: Client.Logic.BuildCondition, asm: Assembly-CSharp}
+      data:
+        conditionDescription: build_limit_food
+    - rid: 4558414278857326636
+      type: {class: HealEffect, ns: Shared.Logic.Effect, asm: Assembly-CSharp}
+      data:
+        site: 0
+        mode: 3
+        target: 1
+        mustStandby: 0
+        filters:
+        - rid: 4558414278857326637
+        healAmount: 1
+    - rid: 4558414278857326637
+      type: {class: AttributeFilter, ns: Shared.Logic.CharacterFilter, asm: Assembly-CSharp}
+      data:
+        attributeType: 0
+        attributeMode: 2
+        compareOperator: 5
+        compareValue: 1

@@ -1,0 +1,7 @@
+{
+    "serverScheme": "http",
+    "serverHost": "127.0.0.1",
+    "serverPort": 7350,
+    "socketServerKey": "weirdinvokationkey",
+    "httpKey": "weirdhttpkey"
+}

@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b7573eb496a745778d8917f2fd458576, type: 3}
+  m_Name: 322011
+  m_EditorClassIdentifier: 
+  cardName: card_name_322011
+  description: card_description_322011
+  cardType: 0
+  properties: 1e000000
+  cardImage: {fileID: 21300000, guid: 9183a48ea7fa36144be0416115ad4f38, type: 3}
+  cardSnapshot: {fileID: 21300000, guid: f72c6167f461dfa47a3b8583a6e835c4, type: 3}
+  bannerHint: 
+  isValid: 0
+  buildCondition: []
+  costs:
+  - type: 10
+    count: 2
+  effect:
+    condition:
+      evaluation: 0
+      factors: []
+    subEffects: []
+  references:
+    version: 2
+    RefIds: []

@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b7573eb496a745778d8917f2fd458576, type: 3}
+  m_Name: 331602
+  m_EditorClassIdentifier: 
+  cardName: card_name_331602
+  description: card_description_331602
+  cardType: 2
+  properties: 26000000
+  cardImage: {fileID: 21300000, guid: 7a877bcf4e8f25740869f4b9e8f829ef, type: 3}
+  cardSnapshot: {fileID: 21300000, guid: cbb09384926b1044d96bd1aea9d61dfe, type: 3}
+  bannerHint: 
+  isValid: 0
+  buildCondition:
+  - rid: 37412325134696526
+  costs:
+  - type: 4
+    count: 1
+  effect:
+    condition:
+      evaluation: 0
+      factors: []
+    subEffects: []
+  references:
+    version: 2
+    RefIds:
+    - rid: 37412325134696526
+      type: {class: PropertyBuildCondition, ns: Client.Logic.BuildCondition, asm: Assembly-CSharp}
+      data:
+        conditionDescription: build_limit_geo
+        property: 4
+        amountLimit: 2

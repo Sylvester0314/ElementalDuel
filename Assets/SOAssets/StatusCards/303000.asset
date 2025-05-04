@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d3cef5a20b3e471a9cdcf438e52536bf, type: 3}
+  m_Name: 303000
+  m_EditorClassIdentifier: 
+  statusName: card_name_303000
+  description: card_description_303000
+  displayImage: {fileID: 21300000, guid: 85ab3ecce6f1ab64ba402239b04132f2, type: 3}
+  hintValueField: 
+  showHintIcon: 0
+  hintTypeIcon: {fileID: 0}
+  showEventType: 0
+  eventTypeIcon: {fileID: 0}
+  type: 0
+  relatedCard: {fileID: 0}
+  properties: 
+  mode: 8
+  autoDiscard: 1
+  canOverride: 0
+  stacks:
+    enable: 0
+    stackable: 0
+    initial: 1
+    max: 2
+    repeat: 0
+    remaining: 0
+  usages:
+    enable: 0
+    stackable: 0
+    initial: 1
+    max: 2
+    repeat: 0
+    remaining: 0
+  durations:
+    enable: 0
+    stackable: 0
+    initial: 1
+    max: 2
+    repeat: 0
+    remaining: 0
+  restrictTriggerPerRound: 0
+  maxTriggersPerRound: 1
+  variables:
+    m_Keys: []
+    m_Values: 
+  handlers: []
+  references:
+    version: 2
+    RefIds: []

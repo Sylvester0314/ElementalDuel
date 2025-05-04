@@ -1,0 +1,2595 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: UIText Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: UIText
+  m_TableCollectionNameGuidString: 143ba8b19672b4e40bbee4f51bf5d306
+  m_Entries:
+  - m_Id: 253916659712
+    m_Key: ui_exchange_card
+    m_Metadata:
+      m_Items:
+      - rid: 4610249507908616194
+  - m_Id: 2634668321845248
+    m_Key: action_card_name_type_support
+    m_Metadata:
+      m_Items:
+      - rid: 4610249507908616195
+  - m_Id: 2634670863593472
+    m_Key: action_card_name_type_equipment
+    m_Metadata:
+      m_Items:
+      - rid: 4610249507908616196
+  - m_Id: 2634673199820800
+    m_Key: action_card_name_type_event
+    m_Metadata:
+      m_Items:
+      - rid: 4610249507908616197
+  - m_Id: 38254822426804224
+    m_Key: action_card_name_type_summon
+    m_Metadata:
+      m_Items:
+      - rid: 4558414179259645957
+  - m_Id: 21411247397871616
+    m_Key: property_nation_mondstadt
+    m_Metadata:
+      m_Items:
+      - rid: 37412237485801474
+  - m_Id: 21411247460786176
+    m_Key: property_nation_liyue
+    m_Metadata:
+      m_Items:
+      - rid: 37412237485801475
+  - m_Id: 21411247460786177
+    m_Key: property_nation_inazuma
+    m_Metadata:
+      m_Items:
+      - rid: 37412237485801476
+  - m_Id: 21411247460786178
+    m_Key: property_nation_sumeru
+    m_Metadata:
+      m_Items:
+      - rid: 37412237485801477
+  - m_Id: 21411247460786179
+    m_Key: property_nation_fontaine
+    m_Metadata:
+      m_Items:
+      - rid: 37412237485801478
+  - m_Id: 21411247460786180
+    m_Key: property_nation_natlan
+    m_Metadata:
+      m_Items:
+      - rid: 37412237485801479
+  - m_Id: 21411247460786181
+    m_Key: property_nation_snezhnaya
+    m_Metadata:
+      m_Items:
+      - rid: 37412237485801480
+  - m_Id: 21411247464980480
+    m_Key: property_camp_fatui
+    m_Metadata:
+      m_Items:
+      - rid: 37412237485801481
+  - m_Id: 21411247464980481
+    m_Key: property_camp_monster
+    m_Metadata:
+      m_Items:
+      - rid: 37412237485801482
+  - m_Id: 21411247464980482
+    m_Key: property_camp_sacread
+    m_Metadata:
+      m_Items:
+      - rid: 37412237485801483
+  - m_Id: 21411247464980483
+    m_Key: property_camp_hilichurl
+    m_Metadata:
+      m_Items:
+      - rid: 37412237485801484
+  - m_Id: 21411247464980484
+    m_Key: property_camp_eremite
+    m_Metadata:
+      m_Items:
+      - rid: 37412237485801485
+  - m_Id: 21411247464980485
+    m_Key: property_camp_kairagi
+    m_Metadata:
+      m_Items:
+      - rid: 37412237485801486
+  - m_Id: 21411247464980486
+    m_Key: property_arkhe_ousia
+    m_Metadata:
+      m_Items:
+      - rid: 37412237485801487
+  - m_Id: 21411247464980487
+    m_Key: property_arkhe_pneuma
+    m_Metadata:
+      m_Items:
+      - rid: 37412237485801488
+  - m_Id: 21411247464980488
+    m_Key: property_weapon_bow
+    m_Metadata:
+      m_Items:
+      - rid: 37412237485801489
+  - m_Id: 21411247464980489
+    m_Key: property_weapon_sword
+    m_Metadata:
+      m_Items:
+      - rid: 37412237485801490
+  - m_Id: 21411247464980490
+    m_Key: property_weapon_pole
+    m_Metadata:
+      m_Items:
+      - rid: 37412237485801491
+  - m_Id: 21411247464980491
+    m_Key: property_weapon_claymore
+    m_Metadata:
+      m_Items:
+      - rid: 37412237485801492
+  - m_Id: 21411247464980492
+    m_Key: property_weapon_catalyst
+    m_Metadata:
+      m_Items:
+      - rid: 37412237485801493
+  - m_Id: 21411247464980493
+    m_Key: property_weapon_none
+    m_Metadata:
+      m_Items:
+      - rid: 37412237485801494
+  - m_Id: 21411247464980494
+    m_Key: property_card_talent
+    m_Metadata:
+      m_Items:
+      - rid: 37412237485801495
+  - m_Id: 21411247464980495
+    m_Key: property_card_ally
+    m_Metadata:
+      m_Items:
+      - rid: 37412237485801496
+  - m_Id: 21411247464980496
+    m_Key: property_card_location
+    m_Metadata:
+      m_Items:
+      - rid: 37412237485801497
+  - m_Id: 21411247464980497
+    m_Key: property_card_action
+    m_Metadata:
+      m_Items:
+      - rid: 37412237485801498
+  - m_Id: 21411247464980498
+    m_Key: property_card_item
+    m_Metadata:
+      m_Items:
+      - rid: 37412237485801499
+  - m_Id: 21411247464980499
+    m_Key: property_card_food
+    m_Metadata:
+      m_Items:
+      - rid: 37412237485801500
+  - m_Id: 21411247464980500
+    m_Key: property_card_legend
+    m_Metadata:
+      m_Items:
+      - rid: 37412237485801501
+  - m_Id: 21411247464980501
+    m_Key: property_card_relic
+    m_Metadata:
+      m_Items:
+      - rid: 37412237485801502
+  - m_Id: 21411247464980502
+    m_Key: property_card_weapon
+    m_Metadata:
+      m_Items:
+      - rid: 37412237485801503
+  - m_Id: 21411247464980503
+    m_Key: property_card_sync
+    m_Metadata:
+      m_Items:
+      - rid: 37412237485801504
+  - m_Id: 37942225425006592
+    m_Key: reaction_melt
+    m_Metadata:
+      m_Items:
+      - rid: 4558414166887235586
+  - m_Id: 37942225471143936
+    m_Key: reaction_superconduct
+    m_Metadata:
+      m_Items:
+      - rid: 4558414166887235587
+  - m_Id: 37942225471143937
+    m_Key: reaction_frozen
+    m_Metadata:
+      m_Items:
+      - rid: 4558414166887235588
+  - m_Id: 37942225471143938
+    m_Key: reaction_caporize
+    m_Metadata:
+      m_Items:
+      - rid: 4558414166887235589
+  - m_Id: 37942225471143939
+    m_Key: reaction_electro_charged
+    m_Metadata:
+      m_Items:
+      - rid: 4558414166887235590
+  - m_Id: 37942225471143940
+    m_Key: reaction_bloom
+    m_Metadata:
+      m_Items:
+      - rid: 4558414166887235591
+  - m_Id: 37942225471143941
+    m_Key: reaction_overloaded
+    m_Metadata:
+      m_Items:
+      - rid: 4558414166887235592
+  - m_Id: 37942225471143942
+    m_Key: reaction_burning
+    m_Metadata:
+      m_Items:
+      - rid: 4558414166887235593
+  - m_Id: 37942225471143943
+    m_Key: reaction_quicken
+    m_Metadata:
+      m_Items:
+      - rid: 4558414166887235594
+  - m_Id: 37942225471143944
+    m_Key: reaction_cryo_swirl
+    m_Metadata:
+      m_Items:
+      - rid: 4558414166887235595
+  - m_Id: 37942225471143945
+    m_Key: reaction_hydro_swirl
+    m_Metadata:
+      m_Items:
+      - rid: 4558414166887235596
+  - m_Id: 37942225471143946
+    m_Key: reaction_pyro_swirl
+    m_Metadata:
+      m_Items:
+      - rid: 4558414166887235597
+  - m_Id: 37942225471143947
+    m_Key: reaction_electro_swirl
+    m_Metadata:
+      m_Items:
+      - rid: 4558414166887235598
+  - m_Id: 37942225471143948
+    m_Key: reaction_cryo_crystallize
+    m_Metadata:
+      m_Items:
+      - rid: 4558414166887235599
+  - m_Id: 37942225471143949
+    m_Key: reaction_hydro_crystallize
+    m_Metadata:
+      m_Items:
+      - rid: 4558414166887235600
+  - m_Id: 37942225471143950
+    m_Key: reaction_pyro_crystallize
+    m_Metadata:
+      m_Items:
+      - rid: 4558414166887235601
+  - m_Id: 37942225475338240
+    m_Key: reaction_electro_crystallize
+    m_Metadata:
+      m_Items:
+      - rid: 4558414166887235602
+  - m_Id: 22910243829841920
+    m_Key: build_limit_bow
+    m_Metadata:
+      m_Items:
+      - rid: 37412325134696463
+  - m_Id: 22910243838230528
+    m_Key: build_limit_sword
+    m_Metadata:
+      m_Items:
+      - rid: 37412325134696464
+  - m_Id: 22910243838230529
+    m_Key: build_limit_pole
+    m_Metadata:
+      m_Items:
+      - rid: 37412325134696465
+  - m_Id: 22910243838230530
+    m_Key: build_limit_claymore
+    m_Metadata:
+      m_Items:
+      - rid: 37412325134696466
+  - m_Id: 22910243838230531
+    m_Key: build_limit_catalyst
+    m_Metadata:
+      m_Items:
+      - rid: 37412325134696467
+  - m_Id: 22910243838230532
+    m_Key: build_limit_cryo
+    m_Metadata:
+      m_Items:
+      - rid: 37412325134696468
+  - m_Id: 22910243838230533
+    m_Key: build_limit_hydro
+    m_Metadata:
+      m_Items:
+      - rid: 37412325134696469
+  - m_Id: 22910243838230534
+    m_Key: build_limit_pyro
+    m_Metadata:
+      m_Items:
+      - rid: 37412325134696470
+  - m_Id: 22910243838230535
+    m_Key: build_limit_electro
+    m_Metadata:
+      m_Items:
+      - rid: 37412325134696471
+  - m_Id: 22910243838230536
+    m_Key: build_limit_anemo
+    m_Metadata:
+      m_Items:
+      - rid: 37412325134696472
+  - m_Id: 22910243838230537
+    m_Key: build_limit_geo
+    m_Metadata:
+      m_Items:
+      - rid: 37412325134696473
+  - m_Id: 22910243838230538
+    m_Key: build_limit_dendro
+    m_Metadata:
+      m_Items:
+      - rid: 37412325134696474
+  - m_Id: 22910243838230539
+    m_Key: build_limit_monster
+    m_Metadata:
+      m_Items:
+      - rid: 37412325134696475
+  - m_Id: 22910243838230540
+    m_Key: build_limit_fatui
+    m_Metadata:
+      m_Items:
+      - rid: 37412325134696476
+  - m_Id: 22910243842424832
+    m_Key: build_limit_relic
+    m_Metadata:
+      m_Items:
+      - rid: 37412325134696477
+  - m_Id: 22910243842424833
+    m_Key: build_limit_technique
+    m_Metadata:
+      m_Items:
+      - rid: 37412325134696478
+  - m_Id: 22910243842424834
+    m_Key: build_limit_legend
+    m_Metadata:
+      m_Items:
+      - rid: 37412325134696479
+  - m_Id: 22910243842424835
+    m_Key: build_limit_food
+    m_Metadata:
+      m_Items:
+      - rid: 37412325134696480
+  - m_Id: 2635679795032064
+    m_Key: rule_explanation
+    m_Metadata:
+      m_Items:
+      - rid: 4610249507908616198
+  - m_Id: 6495873855479808
+    m_Key: gained_equipment
+    m_Metadata:
+      m_Items:
+      - rid: 4610249507908616199
+  - m_Id: 6496010627538944
+    m_Key: gained_statuses
+    m_Metadata:
+      m_Items:
+      - rid: 4610249507908616200
+  - m_Id: 6496036527366144
+    m_Key: team_statuses
+    m_Metadata:
+      m_Items:
+      - rid: 4610249507908616201
+  - m_Id: 3589365049647104
+    m_Key: skill_name_type_normal_attack
+    m_Metadata:
+      m_Items:
+      - rid: 4610249507908616202
+  - m_Id: 3589367008387072
+    m_Key: skill_name_type_elemental_skill
+    m_Metadata:
+      m_Items:
+      - rid: 4610249507908616203
+  - m_Id: 3589369034235904
+    m_Key: skill_name_type_elemental_burst
+    m_Metadata:
+      m_Items:
+      - rid: 4610249507908616204
+  - m_Id: 15989327732539392
+    m_Key: skill_name_type_passive_skill
+    m_Metadata:
+      m_Items:
+      - rid: 4610249507908616205
+  - m_Id: 23021624935710720
+    m_Key: skill_name_type_elemental_burst_nu
+    m_Metadata:
+      m_Items:
+      - rid: 37412337841864708
+  - m_Id: 23021624939905024
+    m_Key: skill_name_type_passive_skill_nu
+    m_Metadata:
+      m_Items:
+      - rid: 37412337841864709
+  - m_Id: 30491424385531904
+    m_Key: choose_active_character
+    m_Metadata:
+      m_Items:
+      - rid: 4558413695656919042
+  - m_Id: 30517619063914496
+    m_Key: must_choose_one_character
+    m_Metadata:
+      m_Items:
+      - rid: 4558413695656919044
+  - m_Id: 4816961968955392
+    m_Key: warning_hint_energy
+    m_Metadata:
+      m_Items:
+      - rid: 4610249507908616206
+  - m_Id: 4816964225490944
+    m_Key: warning_hint_dice
+    m_Metadata:
+      m_Items:
+      - rid: 4610249507908616207
+  - m_Id: 5058868227432448
+    m_Key: warning_hint_turn
+    m_Metadata:
+      m_Items:
+      - rid: 4610249507908616208
+  - m_Id: 5905360597680128
+    m_Key: switch_active_hint
+    m_Metadata:
+      m_Items:
+      - rid: 4610249507908616209
+  - m_Id: 8993379276402700
+    m_Key: pay_dice_hint
+    m_Metadata:
+      m_Items:
+      - rid: 4610249507908616210
+  - m_Id: 6962264979668992
+    m_Key: cryo_name
+    m_Metadata:
+      m_Items:
+      - rid: 4610249507908616211
+  - m_Id: 6962267815018496
+    m_Key: hydro_name
+    m_Metadata:
+      m_Items:
+      - rid: 4610249507908616212
+  - m_Id: 6962268620324864
+    m_Key: pyro_name
+    m_Metadata:
+      m_Items:
+      - rid: 4610249507908616213
+  - m_Id: 6962269446602752
+    m_Key: electro_name
+    m_Metadata:
+      m_Items:
+      - rid: 4610249507908616214
+  - m_Id: 6962270222548992
+    m_Key: geo_name
+    m_Metadata:
+      m_Items:
+      - rid: 4610249507908616215
+  - m_Id: 6962270939774976
+    m_Key: dendro_name
+    m_Metadata:
+      m_Items:
+      - rid: 4610249507908616216
+  - m_Id: 6962273892564992
+    m_Key: anemo_name
+    m_Metadata:
+      m_Items:
+      - rid: 4610249507908616217
+  - m_Id: 8993379276402697
+    m_Key: same_name
+    m_Metadata:
+      m_Items:
+      - rid: 4610249507908616218
+  - m_Id: 8993379276402698
+    m_Key: diff_name
+    m_Metadata:
+      m_Items:
+      - rid: 4610249507908616219
+  - m_Id: 31307621409107968
+    m_Key: declare_end_round
+    m_Metadata:
+      m_Items:
+      - rid: 4558413748654571522
+  - m_Id: 31307621472022528
+    m_Key: ending_my_round
+    m_Metadata:
+      m_Items:
+      - rid: 4558413748654571523
+  - m_Id: 31307621472022529
+    m_Key: banner_your_turn
+    m_Metadata:
+      m_Items:
+      - rid: 4558413748654571524
+  - m_Id: 31307621472022530
+    m_Key: banner_oppo_turn
+    m_Metadata:
+      m_Items:
+      - rid: 4558413748654571525
+  - m_Id: 24794949135499264
+    m_Key: you_start_first
+    m_Metadata:
+      m_Items:
+      - rid: 37412445593534466
+  - m_Id: 31307621472022531
+    m_Key: oppo_start_first
+    m_Metadata:
+      m_Items:
+      - rid: 4558413748654571526
+  - m_Id: 32722269066362880
+    m_Key: your_turn_continue
+    m_Metadata:
+      m_Items:
+      - rid: 4558413838374404098
+  - m_Id: 32722269133471744
+    m_Key: oppo_turn_continue
+    m_Metadata:
+      m_Items:
+      - rid: 4558413838374404099
+  - m_Id: 31307621472022532
+    m_Key: banner_roll_phase
+    m_Metadata:
+      m_Items:
+      - rid: 4558413748654571527
+  - m_Id: 31307621472022533
+    m_Key: banner_action_phase
+    m_Metadata:
+      m_Items:
+      - rid: 4558413748654571528
+  - m_Id: 31307621472022534
+    m_Key: banner_end_phase
+    m_Metadata:
+      m_Items:
+      - rid: 4558413748654571529
+  - m_Id: 25619470587396096
+    m_Key: select_first_active_character
+    m_Metadata:
+      m_Items:
+      - rid: 37412500595277826
+  - m_Id: 30517619068108800
+    m_Key: select_new_active_character
+    m_Metadata:
+      m_Items:
+      - rid: 4558413695656919045
+  - m_Id: 30886395244576768
+    m_Key: waiting_opponent_select_first_active
+    m_Metadata:
+      m_Items:
+      - rid: 4558413723371044866
+  - m_Id: 38688117413249024
+    m_Key: waiting_opponent_select_active
+    m_Metadata:
+      m_Items:
+      - rid: 4558414207957336069
+  - m_Id: 8993379117019136
+    m_Key: switch_active_banner
+    m_Metadata:
+      m_Items:
+      - rid: 4610249507908616220
+  - m_Id: 8993379276402696
+    m_Key: switch_active
+    m_Metadata:
+      m_Items:
+      - rid: 4610249507908616221
+  - m_Id: 5905268566261760
+    m_Key: pay_dice_extend
+    m_Metadata:
+      m_Items:
+      - rid: 4610249507908616222
+  - m_Id: 5906100103806976
+    m_Key: play_card_banner
+    m_Metadata:
+      m_Items:
+      - rid: 4610249507908616223
+  - m_Id: 6495871288565760
+    m_Key: elemental_tuning_banner
+    m_Metadata:
+      m_Items:
+      - rid: 4610249507908616224
+  - m_Id: 39784479110332416
+    m_Key: use_food_card_banner
+    m_Metadata:
+      m_Items:
+      - rid: 4558414278857326626
+  - m_Id: 8993379272208384
+    m_Key: use_equipment_card_banner
+    m_Metadata:
+      m_Items:
+      - rid: 4610249507908616225
+  - m_Id: 8993379272208385
+    m_Key: equip_talent_banner
+    m_Metadata:
+      m_Items:
+      - rid: 4610249507908616226
+  - m_Id: 8993379272208386
+    m_Key: use_talent_card_banner
+    m_Metadata:
+      m_Items:
+      - rid: 4610249507908616227
+  - m_Id: 8993379272208387
+    m_Key: affect_action_talent_banner
+    m_Metadata:
+      m_Items:
+      - rid: 4610249507908616228
+  - m_Id: 32097940817444864
+    m_Key: affect_selected_character
+    m_Metadata:
+      m_Items:
+      - rid: 4558413792848904195
+  - m_Id: 38959089676582912
+    m_Key: effect_on_your_active_character
+    m_Metadata:
+      m_Items:
+      - rid: 4558414226612551695
+  - m_Id: 32097940867776512
+    m_Key: summon_usage_subtract
+    m_Metadata:
+      m_Items:
+      - rid: 4558413792848904196
+  - m_Id: 32097940867776513
+    m_Key: summon_usage_restore
+    m_Metadata:
+      m_Items:
+      - rid: 4558413792848904197
+  - m_Id: 32097940867776514
+    m_Key: sunyata_flower_banner
+    m_Metadata:
+      m_Items:
+      - rid: 4558413792848904198
+  - m_Id: 8773872435965952
+    m_Key: support_full_banner
+    m_Metadata:
+      m_Items:
+      - rid: 4610249507908616229
+  - m_Id: 31307621472022535
+    m_Key: round_you_start_first
+    m_Metadata:
+      m_Items:
+      - rid: 4558413748654571530
+  - m_Id: 31307621472022536
+    m_Key: round_oppo_start_first
+    m_Metadata:
+      m_Items:
+      - rid: 4558413748654571531
+  - m_Id: 31307621472022537
+    m_Key: hint_you_start_first
+    m_Metadata:
+      m_Items:
+      - rid: 4558413748654571532
+  - m_Id: 31307621472022538
+    m_Key: hint_oppo_start_first
+    m_Metadata:
+      m_Items:
+      - rid: 4558413748654571533
+  - m_Id: 31307621472022539
+    m_Key: round_number
+    m_Metadata:
+      m_Items:
+      - rid: 4558413748654571534
+  - m_Id: 38712484377526272
+    m_Key: game_lose
+    m_Metadata:
+      m_Items:
+      - rid: 4558414207957336070
+  - m_Id: 38712484377526273
+    m_Key: game_win
+    m_Metadata:
+      m_Items:
+      - rid: 4558414207957336071
+  - m_Id: 31307621472022540
+    m_Key: get_first_next_round
+    m_Metadata:
+      m_Items:
+      - rid: 4558413748654571535
+  - m_Id: 38712484381720576
+    m_Key: back_to_room
+    m_Metadata:
+      m_Items:
+      - rid: 4558414207957336072
+  - m_Id: 31307621472022541
+    m_Key: end_round
+    m_Metadata:
+      m_Items:
+      - rid: 4558413748654571536
+  - m_Id: 6495868746817536
+    m_Key: play_card
+    m_Metadata:
+      m_Items:
+      - rid: 4610249507908616230
+  - m_Id: 6495870059634688
+    m_Key: elemental_tuning
+    m_Metadata:
+      m_Items:
+      - rid: 4610249507908616231
+  - m_Id: 8993379276402695
+    m_Key: confirm
+    m_Metadata:
+      m_Items:
+      - rid: 4610249507908616232
+  - m_Id: 24794949135499264
+    m_Key: you_start_first
+    m_Metadata:
+      m_Items:
+      - rid: 37412445593534466
+  - m_Id: 24794949202608128
+    m_Key: your_oppo_start_first
+    m_Metadata:
+      m_Items:
+      - rid: 37412445593534467
+  - m_Id: 24794949202608129
+    m_Key: waiting_oppo_switch
+    m_Metadata:
+      m_Items:
+      - rid: 37412445593534468
+  - m_Id: 25619470646116352
+    m_Key: roll_complete
+    m_Metadata:
+      m_Items:
+      - rid: 37412500595277827
+  - m_Id: 30491424444252160
+    m_Key: roll_times
+    m_Metadata:
+      m_Items:
+      - rid: 4558413695656919043
+  - m_Id: 24794949202608130
+    m_Key: header_starting_hand
+    m_Metadata:
+      m_Items:
+      - rid: 37412445593534469
+  - m_Id: 24794949202608131
+    m_Key: header_switch_hand
+    m_Metadata:
+      m_Items:
+      - rid: 37412445593534470
+  - m_Id: 25619470646116353
+    m_Key: header_reroll
+    m_Metadata:
+      m_Items:
+      - rid: 37412500595277828
+  - m_Id: 25619470646116354
+    m_Key: header_roll_result
+    m_Metadata:
+      m_Items:
+      - rid: 37412500595277829
+  - m_Id: 25619470646116355
+    m_Key: header_select_reroll
+    m_Metadata:
+      m_Items:
+      - rid: 37412500595277830
+  - m_Id: 24794949202608132
+    m_Key: header_select
+    m_Metadata:
+      m_Items:
+      - rid: 37412445593534471
+  - m_Id: 8762305753493504
+    m_Key: cannot_used_for_tuning
+    m_Metadata:
+      m_Items:
+      - rid: 4610249507908616233
+  - m_Id: 32843972815749120
+    m_Key: select_dice_transform
+    m_Metadata:
+      m_Items:
+      - rid: 4558413845326200834
+  - m_Id: 8762307267637248
+    m_Key: no_dice_can_be_converted
+    m_Metadata:
+      m_Items:
+      - rid: 4610249507908616234
+  - m_Id: 8762375559294976
+    m_Key: prerequisite_not_met
+    m_Metadata:
+      m_Items:
+      - rid: 4610249507908616235
+  - m_Id: 8769225562370048
+    m_Key: not_enough_dice
+    m_Metadata:
+      m_Items:
+      - rid: 4610249507908616236
+  - m_Id: 8769583030317056
+    m_Key: no_valid_target
+    m_Metadata:
+      m_Items:
+      - rid: 4610249507908616237
+  - m_Id: 8993379276402699
+    m_Key: legend_cannot_play_again
+    m_Metadata:
+      m_Items:
+      - rid: 4610249507908616238
+  - m_Id: 13601033417785344
+    m_Key: login_authentication
+    m_Metadata:
+      m_Items:
+      - rid: 4610249507908616239
+  - m_Id: 9453969078837248
+    m_Key: create_room
+    m_Metadata:
+      m_Items:
+      - rid: 4610249507908616240
+  - m_Id: 14524492352192512
+    m_Key: lobby
+    m_Metadata:
+      m_Items:
+      - rid: 4610249507908616241
+  - m_Id: 14596725099409408
+    m_Key: setting_operation
+    m_Metadata:
+      m_Items:
+      - rid: 4610249507908616242
+  - m_Id: 15679827251167232
+    m_Key: setting_general
+    m_Metadata:
+      m_Items:
+      - rid: 4610249507908616243
+  - m_Id: 14668188938612736
+    m_Key: device_detecting
+    m_Metadata:
+      m_Items:
+      - rid: 4610249507908616244
+  - m_Id: 14668342664048640
+    m_Key: account_detected
+    m_Metadata:
+      m_Items:
+      - rid: 4610249507908616245
+  - m_Id: 14667762759577600
+    m_Key: use_other_account
+    m_Metadata:
+      m_Items:
+      - rid: 4610249507908616246
+  - m_Id: 14669043460943872
+    m_Key: no_account_detected
+    m_Metadata:
+      m_Items:
+      - rid: 4610249507908616247
+  - m_Id: 14899177829040128
+    m_Key: create_new_account
+    m_Metadata:
+      m_Items:
+      - rid: 4610249507908616248
+  - m_Id: 14672636066869248
+    m_Key: reg_enter_username
+    m_Metadata:
+      m_Items:
+      - rid: 4610249507908616249
+  - m_Id: 14672636830232576
+    m_Key: reg_enter_password
+    m_Metadata:
+      m_Items:
+      - rid: 4610249507908616250
+  - m_Id: 14672637589401600
+    m_Key: enter_uid
+    m_Metadata:
+      m_Items:
+      - rid: 4610249507908616251
+  - m_Id: 15622203818246144
+    m_Key: enter_password
+    m_Metadata:
+      m_Items:
+      - rid: 4610249507908616252
+  - m_Id: 15625648319102976
+    m_Key: login_game
+    m_Metadata:
+      m_Items:
+      - rid: 4610249507908616253
+  - m_Id: 15691217873534976
+    m_Key: log_out
+    m_Metadata:
+      m_Items:
+      - rid: 4610249507908616254
+  - m_Id: 13843203286499328
+    m_Key: join_room
+    m_Metadata:
+      m_Items:
+      - rid: 4610249507908616255
+  - m_Id: 16058788711890944
+    m_Key: loading_room
+    m_Metadata:
+      m_Items:
+      - rid: 4610249507908616297
+  - m_Id: 13843204850974720
+    m_Key: room_name_suffix
+    m_Metadata:
+      m_Items:
+      - rid: 4610249507908616256
+  - m_Id: 15787992009539584
+    m_Key: no_active_room
+    m_Metadata:
+      m_Items:
+      - rid: 4610249507908616257
+  - m_Id: 16020993284898816
+    m_Key: enter_roomid
+    m_Metadata:
+      m_Items:
+      - rid: 4610249507908616292
+  - m_Id: 15989327820619776
+    m_Key: rih_card_pool_preset_weird
+    m_Metadata:
+      m_Items:
+      - rid: 4610249507908616258
+  - m_Id: 15989327820619777
+    m_Key: rih_card_pool_preset_official
+    m_Metadata:
+      m_Items:
+      - rid: 4610249507908616259
+  - m_Id: 15989327820619778
+    m_Key: rih_dice_mode_standard
+    m_Metadata:
+      m_Items:
+      - rid: 4610249507908616260
+  - m_Id: 15989327820619779
+    m_Key: rih_dice_mode_no_roll_four_plus_four
+    m_Metadata:
+      m_Items:
+      - rid: 4610249507908616261
+  - m_Id: 15989327824814080
+    m_Key: rih_dice_mode_all_omni
+    m_Metadata:
+      m_Items:
+      - rid: 4610249507908616262
+  - m_Id: 15989327824814081
+    m_Key: rih_game_mode_standard
+    m_Metadata:
+      m_Items:
+      - rid: 4610249507908616263
+  - m_Id: 15989327824814082
+    m_Key: rih_game_mode_arena
+    m_Metadata:
+      m_Items:
+      - rid: 4610249507908616264
+  - m_Id: 15989327824814083
+    m_Key: rih_game_mode_draft
+    m_Metadata:
+      m_Items:
+      - rid: 4610249507908616265
+  - m_Id: 15989327824814084
+    m_Key: rih_banned_cards
+    m_Metadata:
+      m_Items:
+      - rid: 4610249507908616266
+  - m_Id: 14153358012186624
+    m_Key: creating_room
+    m_Metadata:
+      m_Items:
+      - rid: 4610249507908616267
+  - m_Id: 13944842521542656
+    m_Key: card_pool_preset
+    m_Metadata:
+      m_Items:
+      - rid: 4610249507908616268
+  - m_Id: 13944956292038656
+    m_Key: card_pool_preset_weird
+    m_Metadata:
+      m_Items:
+      - rid: 4610249507908616269
+  - m_Id: 13945002790092800
+    m_Key: card_pool_preset_official
+    m_Metadata:
+      m_Items:
+      - rid: 4610249507908616270
+  - m_Id: 13949310063476736
+    m_Key: dice_mode
+    m_Metadata:
+      m_Items:
+      - rid: 4610249507908616271
+  - m_Id: 13949311346933760
+    m_Key: dice_mode_standard
+    m_Metadata:
+      m_Items:
+      - rid: 4610249507908616272
+  - m_Id: 13949509502631936
+    m_Key: dice_mode_no_roll_four_plus_four
+    m_Metadata:
+      m_Items:
+      - rid: 4610249507908616273
+  - m_Id: 13949898071343104
+    m_Key: dice_mode_all_omni
+    m_Metadata:
+      m_Items:
+      - rid: 4610249507908616274
+  - m_Id: 13971928762155008
+    m_Key: thinking_time
+    m_Metadata:
+      m_Items:
+      - rid: 4610249507908616275
+  - m_Id: 13972008340684800
+    m_Key: thinking_time_capped_70_plus_25
+    m_Metadata:
+      m_Items:
+      - rid: 4610249507908616276
+  - m_Id: 14125566822318080
+    m_Key: thinking_time_120_plus_10
+    m_Metadata:
+      m_Items:
+      - rid: 4610249507908616277
+  - m_Id: 14127886960295936
+    m_Key: thinking_time_20_plus_5
+    m_Metadata:
+      m_Items:
+      - rid: 4610249507908616278
+  - m_Id: 14135533734330368
+    m_Key: thinking_time_fixed_240
+    m_Metadata:
+      m_Items:
+      - rid: 4610249507908616279
+  - m_Id: 14240944881795072
+    m_Key: game_mode
+    m_Metadata:
+      m_Items:
+      - rid: 4610249507908616280
+  - m_Id: 14240956382576640
+    m_Key: game_mode_standard
+    m_Metadata:
+      m_Items:
+      - rid: 4610249507908616281
+  - m_Id: 14241128193851392
+    m_Key: game_mode_arena
+    m_Metadata:
+      m_Items:
+      - rid: 4610249507908616282
+  - m_Id: 14241241112903680
+    m_Key: game_mode_draft
+    m_Metadata:
+      m_Items:
+      - rid: 4610249507908616283
+  - m_Id: 15989327829008384
+    m_Key: banned_cards
+    m_Metadata:
+      m_Items:
+      - rid: 4610249507908616284
+  - m_Id: 15636836729880576
+    m_Key: pop_hint
+    m_Metadata:
+      m_Items:
+      - rid: 4610249507908616285
+  - m_Id: 15636878966521856
+    m_Key: pop_error
+    m_Metadata:
+      m_Items:
+      - rid: 4610249507908616286
+  - m_Id: 22251161796083712
+    m_Key: edit_deck_name
+    m_Metadata:
+      m_Items:
+      - rid: 37412277693186054
+  - m_Id: 22475441678974976
+    m_Key: exit_editor
+    m_Metadata:
+      m_Items:
+      - rid: 37412304599908355
+  - m_Id: 22475441683169280
+    m_Key: deck_not_meet_requirements
+    m_Metadata:
+      m_Items:
+      - rid: 37412304599908356
+  - m_Id: 22114593898889216
+    m_Key: pop_confirm
+    m_Metadata:
+      m_Items:
+      - rid: 37412277693186052
+  - m_Id: 22114593903083520
+    m_Key: pop_cancel
+    m_Metadata:
+      m_Items:
+      - rid: 37412277693186053
+  - m_Id: 22475441683169281
+    m_Key: save_changes
+    m_Metadata:
+      m_Items:
+      - rid: 37412304599908357
+  - m_Id: 22475441683169282
+    m_Key: discard_changes
+    m_Metadata:
+      m_Items:
+      - rid: 37412304599908358
+  - m_Id: 22475441683169283
+    m_Key: change_and_exit_or_not
+    m_Metadata:
+      m_Items:
+      - rid: 37412304599908359
+  - m_Id: 22475441683169284
+    m_Key: this_deck_not_meet_requirements
+    m_Metadata:
+      m_Items:
+      - rid: 37412304599908360
+  - m_Id: 22475441683169285
+    m_Key: deck_must_contain_3_char
+    m_Metadata:
+      m_Items:
+      - rid: 37412304599908361
+  - m_Id: 22475441683169286
+    m_Key: deck_must_contain_30_action
+    m_Metadata:
+      m_Items:
+      - rid: 37412304599908362
+  - m_Id: 22475441683169287
+    m_Key: deck_contain_unplayed_card
+    m_Metadata:
+      m_Items:
+      - rid: 37412304599908363
+  - m_Id: 22987166639587328
+    m_Key: confirm_delete_deck
+    m_Metadata:
+      m_Items:
+      - rid: 37412337841864706
+  - m_Id: 22255934511382528
+    m_Key: enter_deck_name
+    m_Metadata:
+      m_Items:
+      - rid: 37412277693186055
+  - m_Id: 22462641816600576
+    m_Key: deck_name_cannot_be_empty
+    m_Metadata:
+      m_Items:
+      - rid: 37412304599908354
+  - m_Id: 15636057587580928
+    m_Key: password_length_limit
+    m_Metadata:
+      m_Items:
+      - rid: 4610249507908616287
+  - m_Id: 15642640660955136
+    m_Key: account_registered
+    m_Metadata:
+      m_Items:
+      - rid: 4610249507908616288
+  - m_Id: 15656033581137920
+    m_Key: wrong_uid_or_password
+    m_Metadata:
+      m_Items:
+      - rid: 4610249507908616289
+  - m_Id: 15657618180800512
+    m_Key: not_exist_account
+    m_Metadata:
+      m_Items:
+      - rid: 4610249507908616290
+  - m_Id: 16796037301035008
+    m_Key: not_existing_room
+    m_Metadata:
+      m_Items:
+      - rid: 4610249558485893122
+  - m_Id: 16796037355560960
+    m_Key: network_connection_exception
+    m_Metadata:
+      m_Items:
+      - rid: 37412065761296386
+  - m_Id: 18649103100907520
+    m_Key: cannot_leave_from_not_joined_room
+    m_Metadata:
+      m_Items:
+      - rid: 37412065761296387
+  - m_Id: 16112323453386752
+    m_Key: room_full_now
+    m_Metadata:
+      m_Items:
+      - rid: 4610249507908616298
+  - m_Id: 18782357426638848
+    m_Key: have_player_not_ready_for_game
+    m_Metadata:
+      m_Items:
+      - rid: 37412065761296394
+  - m_Id: 23703533797900288
+    m_Key: game_already_started
+    m_Metadata:
+      m_Items:
+      - rid: 37412379288928258
+  - m_Id: 19806190040334336
+    m_Key: cannot_change_when_preparing
+    m_Metadata:
+      m_Items:
+      - rid: 37412138239393794
+  - m_Id: 19819500655689728
+    m_Key: room_info_copied_to_clipboard
+    m_Metadata:
+      m_Items:
+      - rid: 37412138239393799
+  - m_Id: 15691161820856320
+    m_Key: save_setting
+    m_Metadata:
+      m_Items:
+      - rid: 4610249507908616291
+  - m_Id: 18782357430833152
+    m_Key: start_game
+    m_Metadata:
+      m_Items:
+      - rid: 37412065761296395
+  - m_Id: 18782357430833153
+    m_Key: preparing_for_game
+    m_Metadata:
+      m_Items:
+      - rid: 37412065761296396
+  - m_Id: 18782357430833154
+    m_Key: prepared_for_game
+    m_Metadata:
+      m_Items:
+      - rid: 37412065761296397
+  - m_Id: 18718311184699392
+    m_Key: deck_building
+    m_Metadata:
+      m_Items:
+      - rid: 37412065761296388
+  - m_Id: 23714878006099968
+    m_Key: namebar_status_starting
+    m_Metadata:
+      m_Items:
+      - rid: 37412379288928259
+  - m_Id: 18729314693779456
+    m_Key: namebar_status_waiting_player
+    m_Metadata:
+      m_Items:
+      - rid: 37412065761296389
+  - m_Id: 18729314697973760
+    m_Key: namebar_status_preparing
+    m_Metadata:
+      m_Items:
+      - rid: 37412065761296390
+  - m_Id: 18782357430833155
+    m_Key: namebar_status_prepared
+    m_Metadata:
+      m_Items:
+      - rid: 37412065761296398
+  - m_Id: 18729314697973761
+    m_Key: namebar_status_now_waiting
+    m_Metadata:
+      m_Items:
+      - rid: 37412065761296391
+  - m_Id: 18729314697973762
+    m_Key: namebar_status_now_acting
+    m_Metadata:
+      m_Items:
+      - rid: 37412065761296392
+  - m_Id: 18729314697973763
+    m_Key: namebar_status_end_phase
+    m_Metadata:
+      m_Items:
+      - rid: 37412065761296393
+  - m_Id: 30517619076497408
+    m_Key: namebar_choosing
+    m_Metadata:
+      m_Items:
+      - rid: 4558413695656919046
+  - m_Id: 38910956145868800
+    m_Key: namebar_game_over
+    m_Metadata:
+      m_Items:
+      - rid: 4558414226612551682
+  - m_Id: 31307621480411136
+    m_Key: declared_end_round
+    m_Metadata:
+      m_Items:
+      - rid: 4558413748654571537
+  - m_Id: 33166761556836352
+    m_Key: not_used_legend
+    m_Metadata:
+      m_Items:
+      - rid: 4558413864165441538
+  - m_Id: 33166761619750912
+    m_Key: already_used_legend
+    m_Metadata:
+      m_Items:
+      - rid: 4558413864165441539
+  - m_Id: 19448712926076928
+    m_Key: deck_list
+    m_Metadata:
+      m_Items:
+      - rid: 37412109711835138
+  - m_Id: 19448712984797184
+    m_Key: create_new_desk
+    m_Metadata:
+      m_Items:
+      - rid: 37412109711835139
+  - m_Id: 19871082232082432
+    m_Key: initial_deck_key
+    m_Metadata:
+      m_Items:
+      - rid: 37412138239393801
+  - m_Id: 22259955720650752
+    m_Key: default_deck_key
+    m_Metadata:
+      m_Items:
+      - rid: 37412277693186056
+  - m_Id: 20665015798464512
+    m_Key: empty_build_deck_hint
+    m_Metadata:
+      m_Items:
+      - rid: 37412191436275714
+  - m_Id: 20671328968376320
+    m_Key: selected_action_card_hint
+    m_Metadata:
+      m_Items:
+      - rid: 37412191436275715
+  - m_Id: 20671328972570624
+    m_Key: selected_character_card_hint
+    m_Metadata:
+      m_Items:
+      - rid: 37412191436275716
+  - m_Id: 22944641186922496
+    m_Key: invalid_deck_card
+    m_Metadata:
+      m_Items:
+      - rid: 37412325134696547
+  - m_Id: 19448712984797185
+    m_Key: exit_room
+    m_Metadata:
+      m_Items:
+      - rid: 37412138239393795
+  - m_Id: 19806190090665984
+    m_Key: invite_room
+    m_Metadata:
+      m_Items:
+      - rid: 37412138239393796
+  - m_Id: 19806190090665985
+    m_Key: current_room_setting
+    m_Metadata:
+      m_Items:
+      - rid: 37412138239393797
+  - m_Id: 19806190090665986
+    m_Key: check_rules
+    m_Metadata:
+      m_Items:
+      - rid: 37412138239393798
+  - m_Id: 19818118401835008
+    m_Key: copy_buffer_pattern_room
+    m_Metadata:
+      m_Items:
+      - rid: 37412138239393800
+  - m_Id: 20986771256188928
+    m_Key: identical_card_can_only_have_2
+    m_Metadata:
+      m_Items:
+      - rid: 37412211741687810
+  - m_Id: 20986771310714880
+    m_Key: card_limited_exceeded
+    m_Metadata:
+      m_Items:
+      - rid: 37412211741687811
+  - m_Id: 20986771310714881
+    m_Key: legend_card_can_only_have_1
+    m_Metadata:
+      m_Items:
+      - rid: 37412211741687812
+  - m_Id: 20986771310714882
+    m_Key: invalid_card_can_not_add
+    m_Metadata:
+      m_Items:
+      - rid: 37412211741687813
+  - m_Id: 20986771310714883
+    m_Key: character_card_can_only_have_1
+    m_Metadata:
+      m_Items:
+      - rid: 37412211741687814
+  - m_Id: 22790189008158720
+    m_Key: deck_saved
+    m_Metadata:
+      m_Items:
+      - rid: 37412325134696450
+  - m_Id: 22853580326305792
+    m_Key: already_set_as_active_deck
+    m_Metadata:
+      m_Items:
+      - rid: 37412325134696456
+  - m_Id: 22853580330500096
+    m_Key: set_as_active_deck_success
+    m_Metadata:
+      m_Items:
+      - rid: 37412325134696457
+  - m_Id: 22859339537711104
+    m_Key: deck_condition_not_met
+    m_Metadata:
+      m_Items:
+      - rid: 37412325134696458
+  - m_Id: 22871027708198912
+    m_Key: deck_copied
+    m_Metadata:
+      m_Items:
+      - rid: 37412325134696481
+  - m_Id: 22965321433481216
+    m_Key: return_invalid_chosen_deck
+    m_Metadata:
+      m_Items:
+      - rid: 37412325134696548
+  - m_Id: 23017125957468160
+    m_Key: cannot_delete_last_deck
+    m_Metadata:
+      m_Items:
+      - rid: 37412337841864707
+  - m_Id: 22793481574547456
+    m_Key: set_as_active_deck
+    m_Metadata:
+      m_Items:
+      - rid: 37412325134696451
+  - m_Id: 22251161796083712
+    m_Key: edit_deck_name
+    m_Metadata:
+      m_Items:
+      - rid: 37412277693186054
+  - m_Id: 22793481574547457
+    m_Key: deck_design_settings
+    m_Metadata:
+      m_Items:
+      - rid: 37412325134696452
+  - m_Id: 22793481574547458
+    m_Key: preview_deck
+    m_Metadata:
+      m_Items:
+      - rid: 37412325134696453
+  - m_Id: 22793481574547459
+    m_Key: copy_deck
+    m_Metadata:
+      m_Items:
+      - rid: 37412325134696454
+  - m_Id: 22793481574547460
+    m_Key: delete_deck
+    m_Metadata:
+      m_Items:
+      - rid: 37412325134696455
+  - m_Id: 22091086649491456
+    m_Key: deck_save
+    m_Metadata:
+      m_Items:
+      - rid: 37412277693186050
+  - m_Id: 22091086695628800
+    m_Key: deck_clear
+    m_Metadata:
+      m_Items:
+      - rid: 37412277693186051
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 8768544991599394818
+  references:
+    version: 2
+    RefIds:
+    - rid: 37412065761296386
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "PopUps Content \u5B57\u6BB5"
+    - rid: 37412065761296387
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "PopUps Content \u5B57\u6BB5"
+    - rid: 37412065761296388
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "PrepareRoom \u64CD\u4F5C\u5B57\u6BB5"
+    - rid: 37412065761296389
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "NameBar Status\u5B57\u6BB5"
+    - rid: 37412065761296390
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "NameBar Status\u5B57\u6BB5"
+    - rid: 37412065761296391
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "NameBar Status\u5B57\u6BB5"
+    - rid: 37412065761296392
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "NameBar Status\u5B57\u6BB5"
+    - rid: 37412065761296393
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "NameBar Status\u5B57\u6BB5"
+    - rid: 37412065761296394
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "PopUps Content \u5B57\u6BB5"
+    - rid: 37412065761296395
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "PrepareRoom \u64CD\u4F5C\u5B57\u6BB5"
+    - rid: 37412065761296396
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "PrepareRoom \u64CD\u4F5C\u5B57\u6BB5"
+    - rid: 37412065761296397
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "PrepareRoom \u64CD\u4F5C\u5B57\u6BB5"
+    - rid: 37412065761296398
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "NameBar Status\u5B57\u6BB5"
+    - rid: 37412109711835138
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "Deck List \u5B57\u6BB5"
+    - rid: 37412109711835139
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "Deck List \u5B57\u6BB5"
+    - rid: 37412138239393794
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "PopUps Content \u5B57\u6BB5"
+    - rid: 37412138239393795
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "Dropdown Setting List \u6309\u94AE\u5B57\u6BB5"
+    - rid: 37412138239393796
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "Dropdown Setting List \u6309\u94AE\u5B57\u6BB5"
+    - rid: 37412138239393797
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "Dropdown Setting List \u6309\u94AE\u5B57\u6BB5"
+    - rid: 37412138239393798
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "Dropdown Setting List \u6309\u94AE\u5B57\u6BB5"
+    - rid: 37412138239393799
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "PopUps Content \u5B57\u6BB5"
+    - rid: 37412138239393800
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "\u526A\u5207\u677F\u590D\u5236\u6A21\u7248"
+    - rid: 37412138239393801
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "Deck List \u5B57\u6BB5 - \u521D\u59CB\u724C\u7EC4"
+    - rid: 37412191436275714
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "Build Deck \u63D0\u793A\u5B57\u6BB5"
+    - rid: 37412191436275715
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "Build Deck \u63D0\u793A\u5B57\u6BB5"
+    - rid: 37412191436275716
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "Build Deck \u63D0\u793A\u5B57\u6BB5"
+    - rid: 37412211741687810
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "Deck Hint Banner \u63D0\u793A\u5B57\u6BB5"
+    - rid: 37412211741687811
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "Deck Hint Banner \u63D0\u793A\u5B57\u6BB5"
+    - rid: 37412211741687812
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "Deck Hint Banner \u63D0\u793A\u5B57\u6BB5"
+    - rid: 37412211741687813
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "Deck Hint Banner \u63D0\u793A\u5B57\u6BB5"
+    - rid: 37412211741687814
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "Deck Hint Banner \u63D0\u793A\u5B57\u6BB5"
+    - rid: 37412237485801474
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "Property Tag \u5B57\u6BB5"
+    - rid: 37412237485801475
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "Property Tag \u5B57\u6BB5"
+    - rid: 37412237485801476
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "Property Tag \u5B57\u6BB5"
+    - rid: 37412237485801477
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "Property Tag \u5B57\u6BB5"
+    - rid: 37412237485801478
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "Property Tag \u5B57\u6BB5"
+    - rid: 37412237485801479
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "Property Tag \u5B57\u6BB5"
+    - rid: 37412237485801480
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "Property Tag \u5B57\u6BB5"
+    - rid: 37412237485801481
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "Property Tag \u5B57\u6BB5"
+    - rid: 37412237485801482
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "Property Tag \u5B57\u6BB5"
+    - rid: 37412237485801483
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "Property Tag \u5B57\u6BB5"
+    - rid: 37412237485801484
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "Property Tag \u5B57\u6BB5"
+    - rid: 37412237485801485
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "Property Tag \u5B57\u6BB5"
+    - rid: 37412237485801486
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "Property Tag \u5B57\u6BB5"
+    - rid: 37412237485801487
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "Property Tag \u5B57\u6BB5"
+    - rid: 37412237485801488
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "Property Tag \u5B57\u6BB5"
+    - rid: 37412237485801489
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "Property Tag \u5B57\u6BB5"
+    - rid: 37412237485801490
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "Property Tag \u5B57\u6BB5"
+    - rid: 37412237485801491
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "Property Tag \u5B57\u6BB5"
+    - rid: 37412237485801492
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "Property Tag \u5B57\u6BB5"
+    - rid: 37412237485801493
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "Property Tag \u5B57\u6BB5"
+    - rid: 37412237485801494
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "Property Tag \u5B57\u6BB5"
+    - rid: 37412237485801495
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "Property Tag \u5B57\u6BB5"
+    - rid: 37412237485801496
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "Property Tag \u5B57\u6BB5"
+    - rid: 37412237485801497
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "Property Tag \u5B57\u6BB5"
+    - rid: 37412237485801498
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "Property Tag \u5B57\u6BB5"
+    - rid: 37412237485801499
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "Property Tag \u5B57\u6BB5"
+    - rid: 37412237485801500
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "Property Tag \u5B57\u6BB5"
+    - rid: 37412237485801501
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "Property Tag \u5B57\u6BB5"
+    - rid: 37412237485801502
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "Property Tag \u5B57\u6BB5"
+    - rid: 37412237485801503
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "Property Tag \u5B57\u6BB5"
+    - rid: 37412237485801504
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "Property Tag \u5B57\u6BB5"
+    - rid: 37412277693186050
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "Build Deck \u64CD\u4F5C\u5B57\u6BB5"
+    - rid: 37412277693186051
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "Build Deck \u64CD\u4F5C\u5B57\u6BB5"
+    - rid: 37412277693186052
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "PopUps \u64CD\u4F5C\u5B57\u6BB5"
+    - rid: 37412277693186053
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "PopUps \u64CD\u4F5C\u5B57\u6BB5"
+    - rid: 37412277693186054
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "DeckItem Dropdown List \u6309\u94AE\u5B57\u6BB5"
+    - rid: 37412277693186055
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "PopUps Content \u5B57\u6BB5"
+    - rid: 37412277693186056
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "Deck List \u5B57\u6BB5 - \u9ED8\u8BA4\u724C\u7EC4"
+    - rid: 37412304599908354
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "PopUps Content \u5B57\u6BB5"
+    - rid: 37412304599908355
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "PopUps Title \u5B57\u6BB5"
+    - rid: 37412304599908356
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "PopUps Title \u5B57\u6BB5"
+    - rid: 37412304599908357
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "PopUps \u64CD\u4F5C\u5B57\u6BB5"
+    - rid: 37412304599908358
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "PopUps \u64CD\u4F5C\u5B57\u6BB5"
+    - rid: 37412304599908359
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "PopUps \u64CD\u4F5C\u5B57\u6BB5"
+    - rid: 37412304599908360
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "PopUps \u64CD\u4F5C\u5B57\u6BB5"
+    - rid: 37412304599908361
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "PopUps \u64CD\u4F5C\u5B57\u6BB5"
+    - rid: 37412304599908362
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "PopUps \u64CD\u4F5C\u5B57\u6BB5"
+    - rid: 37412304599908363
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "PopUps \u64CD\u4F5C\u5B57\u6BB5"
+    - rid: 37412325134696450
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "Deck Hint Banner \u63D0\u793A\u5B57\u6BB5"
+    - rid: 37412325134696451
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "DeckItem Dropdown List \u6309\u94AE\u5B57\u6BB5"
+    - rid: 37412325134696452
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "DeckItem Dropdown List \u6309\u94AE\u5B57\u6BB5"
+    - rid: 37412325134696453
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "DeckItem Dropdown List \u6309\u94AE\u5B57\u6BB5"
+    - rid: 37412325134696454
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "DeckItem Dropdown List \u6309\u94AE\u5B57\u6BB5"
+    - rid: 37412325134696455
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "DeckItem Dropdown List \u6309\u94AE\u5B57\u6BB5"
+    - rid: 37412325134696456
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "Deck Hint Banner \u63D0\u793A\u5B57\u6BB5"
+    - rid: 37412325134696457
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "Deck Hint Banner \u63D0\u793A\u5B57\u6BB5"
+    - rid: 37412325134696458
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "Deck Hint Banner \u63D0\u793A\u5B57\u6BB5"
+    - rid: 37412325134696463
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "Play Condition Desctiption \u5B57\u6BB5"
+    - rid: 37412325134696464
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "Play Condition Desctiption \u5B57\u6BB5"
+    - rid: 37412325134696465
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "Play Condition Desctiption \u5B57\u6BB5"
+    - rid: 37412325134696466
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "Play Condition Desctiption \u5B57\u6BB5"
+    - rid: 37412325134696467
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "Play Condition Desctiption \u5B57\u6BB5"
+    - rid: 37412325134696468
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "Play Condition Desctiption \u5B57\u6BB5"
+    - rid: 37412325134696469
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "Play Condition Desctiption \u5B57\u6BB5"
+    - rid: 37412325134696470
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "Play Condition Desctiption \u5B57\u6BB5"
+    - rid: 37412325134696471
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "Play Condition Desctiption \u5B57\u6BB5"
+    - rid: 37412325134696472
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "Play Condition Desctiption \u5B57\u6BB5"
+    - rid: 37412325134696473
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "Play Condition Desctiption \u5B57\u6BB5"
+    - rid: 37412325134696474
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "Play Condition Desctiption \u5B57\u6BB5"
+    - rid: 37412325134696475
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "Play Condition Desctiption \u5B57\u6BB5"
+    - rid: 37412325134696476
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "Play Condition Desctiption \u5B57\u6BB5"
+    - rid: 37412325134696477
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "Play Condition Desctiption \u5B57\u6BB5"
+    - rid: 37412325134696478
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "Play Condition Desctiption \u5B57\u6BB5"
+    - rid: 37412325134696479
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "Play Condition Desctiption \u5B57\u6BB5"
+    - rid: 37412325134696480
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "Play Condition Desctiption \u5B57\u6BB5"
+    - rid: 37412325134696481
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "Deck Hint Banner \u63D0\u793A\u5B57\u6BB5"
+    - rid: 37412325134696547
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "Build Deck \u63D0\u793A\u5B57\u6BB5"
+    - rid: 37412325134696548
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "Deck Hint Banner \u63D0\u793A\u5B57\u6BB5"
+    - rid: 37412337841864706
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "PopUps Content \u5B57\u6BB5"
+    - rid: 37412337841864707
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "Deck Hint Banner \u63D0\u793A\u5B57\u6BB5"
+    - rid: 37412337841864708
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "CharacterSkill Type \u63D0\u793A\u5B57\u6BB5"
+    - rid: 37412337841864709
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "CharacterSkill Type \u63D0\u793A\u5B57\u6BB5"
+    - rid: 37412379288928258
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "PopUps Content \u5B57\u6BB5"
+    - rid: 37412379288928259
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "NameBar Status\u5B57\u6BB5"
+    - rid: 37412445593534466
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "\u5148\u540E\u624B\u6307\u793A\u6587\u672C"
+    - rid: 37412445593534467
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "\u5148\u540E\u624B\u6307\u793A\u6587\u672C"
+    - rid: 37412445593534468
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "Prompt Signal \u6587\u672C\u5B57\u6BB5"
+    - rid: 37412445593534469
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "Prompt Header \u6587\u672C\u5B57\u6BB5"
+    - rid: 37412445593534470
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "Prompt Header \u6587\u672C\u5B57\u6BB5"
+    - rid: 37412445593534471
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "Prompt Header \u6587\u672C\u5B57\u6BB5"
+    - rid: 37412500595277826
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "Banner \u63D0\u793A\u5B57\u6BB5"
+    - rid: 37412500595277827
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "Prompt Signal \u6587\u672C\u5B57\u6BB5"
+    - rid: 37412500595277828
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "Prompt Header \u6587\u672C\u5B57\u6BB5"
+    - rid: 37412500595277829
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "Prompt Header \u6587\u672C\u5B57\u6BB5"
+    - rid: 37412500595277830
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "Prompt Header \u6587\u672C\u5B57\u6BB5"
+    - rid: 4558413695656919042
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "ChooseActiveButton \u63D0\u793A\u5B57\u6BB5"
+    - rid: 4558413695656919043
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "Prompt Signal \u6587\u672C\u5B57\u6BB5"
+    - rid: 4558413695656919044
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "ChooseActiveButton \u63D0\u793A\u5B57\u6BB5"
+    - rid: 4558413695656919045
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "Banner \u63D0\u793A\u5B57\u6BB5"
+    - rid: 4558413695656919046
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "NameBar Status\u5B57\u6BB5"
+    - rid: 4558413723371044866
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "Banner \u63D0\u793A\u5B57\u6BB5"
+    - rid: 4558413748654571522
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "Banner \u7279\u6B8A\u6837\u5F0F\u5B57\u6BB5"
+    - rid: 4558413748654571523
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "Banner \u7279\u6B8A\u6837\u5F0F\u5B57\u6BB5"
+    - rid: 4558413748654571524
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "Banner \u7279\u6B8A\u6837\u5F0F\u5B57\u6BB5"
+    - rid: 4558413748654571525
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "Banner \u7279\u6B8A\u6837\u5F0F\u5B57\u6BB5"
+    - rid: 4558413748654571526
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "Banner \u7279\u6B8A\u6837\u5F0F\u5B57\u6BB5"
+    - rid: 4558413748654571527
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "Banner \u63D0\u793A\u5B57\u6BB5"
+    - rid: 4558413748654571528
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "Banner \u63D0\u793A\u5B57\u6BB5"
+    - rid: 4558413748654571529
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "Banner \u63D0\u793A\u5B57\u6BB5"
+    - rid: 4558413748654571530
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "\u56DE\u5408\u5F00\u59CB\u63D0\u793A\u5B57\u6BB5"
+    - rid: 4558413748654571531
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "\u56DE\u5408\u5F00\u59CB\u63D0\u793A\u5B57\u6BB5"
+    - rid: 4558413748654571532
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "RoundHintter \u4E3B\u5B57\u6BB5"
+    - rid: 4558413748654571533
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "RoundHintter \u4E3B\u5B57\u6BB5"
+    - rid: 4558413748654571534
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "RoundHintter \u6307\u793A\u5B57\u6BB5"
+    - rid: 4558413748654571535
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "ConfirmButton+RoundManager\u63D0\u793A\u5B57\u6BB5"
+    - rid: 4558413748654571536
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "ConfirmButton \u6587\u672C\u5B57\u6BB5"
+    - rid: 4558413748654571537
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "NameBar Message\u5B57\u6BB5"
+    - rid: 4558413792848904195
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "Banner \u63D0\u793A\u5B57\u6BB5"
+    - rid: 4558413792848904196
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "Banner \u63D0\u793A\u5B57\u6BB5"
+    - rid: 4558413792848904197
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "Banner \u63D0\u793A\u5B57\u6BB5"
+    - rid: 4558413792848904198
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "Banner \u63D0\u793A\u5B57\u6BB5"
+    - rid: 4558413838374404098
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "Banner \u63D0\u793A\u5B57\u6BB5"
+    - rid: 4558413838374404099
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "Banner \u63D0\u793A\u5B57\u6BB5"
+    - rid: 4558413845326200834
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "Dialog \u63D0\u793A\u5B57\u6BB5"
+    - rid: 4558413864165441538
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "NameBar Message\u5B57\u6BB5"
+    - rid: 4558413864165441539
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "NameBar Message\u5B57\u6BB5"
+    - rid: 4558414166887235586
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "\u5143\u7D20\u53CD\u5E94"
+    - rid: 4558414166887235587
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "\u5143\u7D20\u53CD\u5E94"
+    - rid: 4558414166887235588
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "\u5143\u7D20\u53CD\u5E94"
+    - rid: 4558414166887235589
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "\u5143\u7D20\u53CD\u5E94"
+    - rid: 4558414166887235590
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "\u5143\u7D20\u53CD\u5E94"
+    - rid: 4558414166887235591
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "\u5143\u7D20\u53CD\u5E94"
+    - rid: 4558414166887235592
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "\u5143\u7D20\u53CD\u5E94"
+    - rid: 4558414166887235593
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "\u5143\u7D20\u53CD\u5E94"
+    - rid: 4558414166887235594
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "\u5143\u7D20\u53CD\u5E94"
+    - rid: 4558414166887235595
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "\u5143\u7D20\u53CD\u5E94"
+    - rid: 4558414166887235596
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "\u5143\u7D20\u53CD\u5E94"
+    - rid: 4558414166887235597
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "\u5143\u7D20\u53CD\u5E94"
+    - rid: 4558414166887235598
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "\u5143\u7D20\u53CD\u5E94"
+    - rid: 4558414166887235599
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "\u5143\u7D20\u53CD\u5E94"
+    - rid: 4558414166887235600
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "\u5143\u7D20\u53CD\u5E94"
+    - rid: 4558414166887235601
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "\u5143\u7D20\u53CD\u5E94"
+    - rid: 4558414166887235602
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "\u5143\u7D20\u53CD\u5E94"
+    - rid: 4558414179259645957
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "ActionCard Type \u63D0\u793A\u5B57\u6BB5"
+    - rid: 4558414207957336069
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "Banner \u63D0\u793A\u5B57\u6BB5"
+    - rid: 4558414207957336070
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "GameOver \u5B57\u6BB5"
+    - rid: 4558414207957336071
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "ConfirmButton \u6587\u672C\u5B57\u6BB5"
+    - rid: 4558414207957336072
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "ConfirmButton \u6587\u672C\u5B57\u6BB5"
+    - rid: 4558414226612551682
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "NameBar Status\u5B57\u6BB5"
+    - rid: 4558414226612551695
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "Banner \u63D0\u793A\u5B57\u6BB5"
+    - rid: 4558414278857326626
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "Banner \u63D0\u793A\u5B57\u6BB5"
+    - rid: 4610249507908616194
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "\u6362\u724C\u9636\u6BB5\u70B9\u51FB DeckCard \u65F6\u7684\u63D0\u793A\u5B57\u6BB5"
+    - rid: 4610249507908616195
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "ActionCard Type \u63D0\u793A\u5B57\u6BB5"
+    - rid: 4610249507908616196
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "ActionCard Type \u63D0\u793A\u5B57\u6BB5"
+    - rid: 4610249507908616197
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "ActionCard Type \u63D0\u793A\u5B57\u6BB5"
+    - rid: 4610249507908616198
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "InformationUI Title \u5B57\u6BB5"
+    - rid: 4610249507908616199
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "InformationUI Title \u5B57\u6BB5"
+    - rid: 4610249507908616200
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "InformationUI Title \u5B57\u6BB5"
+    - rid: 4610249507908616201
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "InformationUI Title \u5B57\u6BB5"
+    - rid: 4610249507908616202
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "CharacterSkill Type \u63D0\u793A\u5B57\u6BB5"
+    - rid: 4610249507908616203
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "CharacterSkill Type \u63D0\u793A\u5B57\u6BB5"
+    - rid: 4610249507908616204
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "CharacterSkill Type \u63D0\u793A\u5B57\u6BB5"
+    - rid: 4610249507908616205
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "CharacterSkill Type \u63D0\u793A\u5B57\u6BB5"
+    - rid: 4610249507908616206
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "UseSkillButton \u70B9\u51FB\u63D0\u793A\u5B57\u6BB5"
+    - rid: 4610249507908616207
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "UseSkillButton \u70B9\u51FB\u63D0\u793A\u5B57\u6BB5"
+    - rid: 4610249507908616208
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "UseSkillButton \u70B9\u51FB\u63D0\u793A\u5B57\u6BB5"
+    - rid: 4610249507908616209
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "UseSkillButton \u70B9\u51FB\u63D0\u793A\u5B57\u6BB5"
+    - rid: 4610249507908616210
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "Banner \u63D0\u793A\u9AB0\u5B50\u652F\u4ED8\u5B57\u6BB5"
+    - rid: 4610249507908616211
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "Banner \u63D0\u793A\u9AB0\u5B50\u652F\u4ED8\u5B57\u6BB5"
+    - rid: 4610249507908616212
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "Banner \u63D0\u793A\u9AB0\u5B50\u652F\u4ED8\u5B57\u6BB5"
+    - rid: 4610249507908616213
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "Banner \u63D0\u793A\u9AB0\u5B50\u652F\u4ED8\u5B57\u6BB5"
+    - rid: 4610249507908616214
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "Banner \u63D0\u793A\u9AB0\u5B50\u652F\u4ED8\u5B57\u6BB5"
+    - rid: 4610249507908616215
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "Banner \u63D0\u793A\u9AB0\u5B50\u652F\u4ED8\u5B57\u6BB5"
+    - rid: 4610249507908616216
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "Banner \u63D0\u793A\u9AB0\u5B50\u652F\u4ED8\u5B57\u6BB5"
+    - rid: 4610249507908616217
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "Banner \u63D0\u793A\u9AB0\u5B50\u652F\u4ED8\u5B57\u6BB5"
+    - rid: 4610249507908616218
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "Banner \u63D0\u793A\u9AB0\u5B50\u652F\u4ED8\u5B57\u6BB5"
+    - rid: 4610249507908616219
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "Banner \u63D0\u793A\u9AB0\u5B50\u652F\u4ED8\u5B57\u6BB5"
+    - rid: 4610249507908616220
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "Banner \u63D0\u793A\u5B57\u6BB5"
+    - rid: 4610249507908616221
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "Banner \u63D0\u793A\u5B57\u6BB5"
+    - rid: 4610249507908616222
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "Banner \u63D0\u793A\u5B57\u6BB5"
+    - rid: 4610249507908616223
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "Banner \u63D0\u793A\u5B57\u6BB5"
+    - rid: 4610249507908616224
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "Banner \u63D0\u793A\u5B57\u6BB5"
+    - rid: 4610249507908616225
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "Banner \u63D0\u793A\u5B57\u6BB5"
+    - rid: 4610249507908616226
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "Banner \u63D0\u793A\u5B57\u6BB5"
+    - rid: 4610249507908616227
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "Banner \u63D0\u793A\u5B57\u6BB5"
+    - rid: 4610249507908616228
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "Banner \u63D0\u793A\u5B57\u6BB5"
+    - rid: 4610249507908616229
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "Banner \u63D0\u793A\u5B57\u6BB5"
+    - rid: 4610249507908616230
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "ConfirmButton \u6587\u672C\u5B57\u6BB5"
+    - rid: 4610249507908616231
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "ConfirmButton \u6587\u672C\u5B57\u6BB5"
+    - rid: 4610249507908616232
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "ConfirmButton \u6587\u672C\u5B57\u6BB5"
+    - rid: 4610249507908616233
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "Dialog \u63D0\u793A\u5B57\u6BB5"
+    - rid: 4610249507908616234
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "Dialog \u63D0\u793A\u5B57\u6BB5"
+    - rid: 4610249507908616235
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "Dialog \u63D0\u793A\u5B57\u6BB5"
+    - rid: 4610249507908616236
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "Dialog \u63D0\u793A\u5B57\u6BB5"
+    - rid: 4610249507908616237
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "Dialog \u63D0\u793A\u5B57\u6BB5"
+    - rid: 4610249507908616238
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "Dialog \u63D0\u793A\u5B57\u6BB5"
+    - rid: 4610249507908616239
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "LobbyBookmark \u5B57\u6BB5"
+    - rid: 4610249507908616240
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "LobbyBookmark \u5B57\u6BB5"
+    - rid: 4610249507908616241
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "LobbyBookmark \u5B57\u6BB5"
+    - rid: 4610249507908616242
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "LobbyBookmark \u5B57\u6BB5"
+    - rid: 4610249507908616243
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "LobbyBookmark \u5B57\u6BB5"
+    - rid: 4610249507908616244
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "UserAuthentication \u64CD\u4F5C\u5B57\u6BB5"
+    - rid: 4610249507908616245
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "UserAuthentication \u64CD\u4F5C\u5B57\u6BB5"
+    - rid: 4610249507908616246
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "UserAuthentication \u64CD\u4F5C\u5B57\u6BB5"
+    - rid: 4610249507908616247
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "UserAuthentication \u64CD\u4F5C\u5B57\u6BB5"
+    - rid: 4610249507908616248
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "UserAuthentication \u64CD\u4F5C\u5B57\u6BB5"
+    - rid: 4610249507908616249
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "UserAuthentication \u64CD\u4F5C\u5B57\u6BB5"
+    - rid: 4610249507908616250
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "UserAuthentication \u64CD\u4F5C\u5B57\u6BB5"
+    - rid: 4610249507908616251
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "UserAuthentication \u64CD\u4F5C\u5B57\u6BB5"
+    - rid: 4610249507908616252
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "UserAuthentication \u64CD\u4F5C\u5B57\u6BB5"
+    - rid: 4610249507908616253
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "UserAuthentication \u64CD\u4F5C\u5B57\u6BB5"
+    - rid: 4610249507908616254
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "UserAuthentication \u64CD\u4F5C\u5B57\u6BB5"
+    - rid: 4610249507908616255
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "RoomList \u64CD\u4F5C\u5B57\u6BB5"
+    - rid: 4610249507908616256
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "RoomList \u64CD\u4F5C\u5B57\u6BB5"
+    - rid: 4610249507908616257
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "RoomList \u63D0\u793A\u5B57\u6BB5"
+    - rid: 4610249507908616258
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "RoomItem \u7C7B\u578B\u63D0\u793A\u5B57\u6BB5"
+    - rid: 4610249507908616259
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "RoomItem \u7C7B\u578B\u63D0\u793A\u5B57\u6BB5"
+    - rid: 4610249507908616260
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "RoomItem \u7C7B\u578B\u63D0\u793A\u5B57\u6BB5"
+    - rid: 4610249507908616261
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "RoomItem \u7C7B\u578B\u63D0\u793A\u5B57\u6BB5"
+    - rid: 4610249507908616262
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "RoomItem \u7C7B\u578B\u63D0\u793A\u5B57\u6BB5"
+    - rid: 4610249507908616263
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "RoomItem \u7C7B\u578B\u63D0\u793A\u5B57\u6BB5"
+    - rid: 4610249507908616264
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "RoomItem \u7C7B\u578B\u63D0\u793A\u5B57\u6BB5"
+    - rid: 4610249507908616265
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "RoomItem \u7C7B\u578B\u63D0\u793A\u5B57\u6BB5"
+    - rid: 4610249507908616266
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "RoomItem \u7C7B\u578B\u63D0\u793A\u5B57\u6BB5"
+    - rid: 4610249507908616267
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "CreareRoom \u64CD\u4F5C\u5B57\u6BB5"
+    - rid: 4610249507908616268
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "CreateRoom \u8BBE\u7F6E\u5B57\u6BB5 - \u9884\u8BBE"
+    - rid: 4610249507908616269
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "CreateRoom \u8BBE\u7F6E\u5B57\u6BB5 - \u9884\u8BBE"
+    - rid: 4610249507908616270
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "CreateRoom \u8BBE\u7F6E\u5B57\u6BB5 - \u9884\u8BBE"
+    - rid: 4610249507908616271
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "CreateRoom \u8BBE\u7F6E\u5B57\u6BB5 - \u9AB0\u5B50"
+    - rid: 4610249507908616272
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "CreateRoom \u8BBE\u7F6E\u5B57\u6BB5 - \u9AB0\u5B50"
+    - rid: 4610249507908616273
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "CreateRoom \u8BBE\u7F6E\u5B57\u6BB5 - \u9AB0\u5B50"
+    - rid: 4610249507908616274
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "CreateRoom \u8BBE\u7F6E\u5B57\u6BB5 - \u9AB0\u5B50"
+    - rid: 4610249507908616275
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "CreateRoom \u8BBE\u7F6E\u5B57\u6BB5 - \u957F\u8003"
+    - rid: 4610249507908616276
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "CreateRoom \u8BBE\u7F6E\u5B57\u6BB5 - \u957F\u8003"
+    - rid: 4610249507908616277
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "CreateRoom \u8BBE\u7F6E\u5B57\u6BB5 - \u957F\u8003"
+    - rid: 4610249507908616278
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "CreateRoom \u8BBE\u7F6E\u5B57\u6BB5 - \u957F\u8003"
+    - rid: 4610249507908616279
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "CreateRoom \u8BBE\u7F6E\u5B57\u6BB5 - \u957F\u8003"
+    - rid: 4610249507908616280
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "CreateRoom \u8BBE\u7F6E\u5B57\u6BB5 - \u6A21\u5F0F"
+    - rid: 4610249507908616281
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "CreateRoom \u8BBE\u7F6E\u5B57\u6BB5 - \u6A21\u5F0F"
+    - rid: 4610249507908616282
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "CreateRoom \u8BBE\u7F6E\u5B57\u6BB5 - \u6A21\u5F0F"
+    - rid: 4610249507908616283
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "CreateRoom \u8BBE\u7F6E\u5B57\u6BB5 - \u6A21\u5F0F"
+    - rid: 4610249507908616284
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "CreateRoom \u8BBE\u7F6E\u5B57\u6BB5 - \u7981\u5361"
+    - rid: 4610249507908616285
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "PopUps Title \u5B57\u6BB5"
+    - rid: 4610249507908616286
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "PopUps Title \u5B57\u6BB5"
+    - rid: 4610249507908616287
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "PopUps Content \u5B57\u6BB5"
+    - rid: 4610249507908616288
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "PopUps Content \u5B57\u6BB5"
+    - rid: 4610249507908616289
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "PopUps Content \u5B57\u6BB5"
+    - rid: 4610249507908616290
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "PopUps Content \u5B57\u6BB5"
+    - rid: 4610249507908616291
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "SettingPage \u64CD\u4F5C\u5B57\u6BB5"
+    - rid: 4610249507908616292
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "RoomList \u63D0\u793A\u5B57\u6BB5"
+    - rid: 4610249507908616297
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "RoomList \u64CD\u4F5C\u5B57\u6BB5"
+    - rid: 4610249507908616298
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "PopUps Content \u5B57\u6BB5"
+    - rid: 4610249558485893122
+      type: {class: Comment, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_CommentText: "PopUps Content \u5B57\u6BB5"
+    - rid: 8768544991599394818
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables,
+        asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1736575357247

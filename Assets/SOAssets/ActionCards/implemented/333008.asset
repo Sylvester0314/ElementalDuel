@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b7573eb496a745778d8917f2fd458576, type: 3}
+  m_Name: 333008
+  m_EditorClassIdentifier: 
+  cardName: card_name_333008
+  description: card_description_333008
+  bannerHint: use_food_card_banner
+  cardSnapshot: {fileID: 21300000, guid: 2d7f3587eadf16a46bc369d96c9af53f, type: 3}
+  cardImage: {fileID: 21300000, guid: c5f1a3b77b0fb944092ae1e678cfa756, type: 3}
+  cardType: 2
+  buildCondition:
+  - rid: 37412325134696533
+  properties: 22000000
+  costs:
+  - type: 9
+    count: 1
+  useCondition:
+    evaluation: 0
+    count: 0
+    preposedIndex: 0
+    factors: []
+  effects:
+  - condition:
+      evaluation: 0
+      count: 0
+      preposedIndex: 0
+      factors: []
+    subEffects:
+    - rid: 4558414278857326640
+  isValid: 0
+  references:
+    version: 2
+    RefIds:
+    - rid: 37412325134696533
+      type: {class: EmptyBuildCondition, ns: Client.Logic.BuildCondition, asm: Assembly-CSharp}
+      data:
+        conditionDescription: build_limit_food
+    - rid: 4558414278857326640
+      type: {class: GenerateStatusEffect, ns: Shared.Logic.Effect, asm: Assembly-CSharp}
+      data:
+        site: 0
+        mode: 3
+        target: 1
+        mustStandby: 0
+        filters: []
+        statusAsset: {fileID: 11400000, guid: 398dcc11ac0c1b84693dad76ee4171fb, type: 2}
+        stacks:
+          enable: 0
+          stackable: 0
+          initial: 1
+          max: 2
+          repeat: 0
+          remaining: 0
+        usages:
+          enable: 0
+          stackable: 0
+          initial: 1
+          max: 2
+          repeat: 0
+          remaining: 0
+        durations:
+          enable: 0
+          stackable: 0
+          initial: 1
+          max: 2
+          repeat: 0
+          remaining: 0

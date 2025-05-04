@@ -1,0 +1,52 @@
+﻿namespace Shared.Enums
+{
+    public enum Property
+    {
+        ElementCryo,
+        ElementHydro,
+        ElementPyro,
+        ElementElectro,
+        ElementGeo,
+        ElementDendro,
+        ElementAnemo,
+        Physical,
+        NationMondstadt,
+        NationLiyue,
+        NationInazuma,
+        NationSumeru,
+        NationFontaine,
+        NationNatlan,
+        NationSnezhnaya,
+        CampFatui,
+        CampMonster,
+        CampSacread,
+        CampHilichurl,
+        CampEremite,
+        CampKairagi,
+        ArkheOusia,
+        ArkhePneuma,
+        WeaponBow,
+        WeaponSword,
+        WeaponPole,
+        WeaponClaymore,
+        WeaponCatalyst,
+        WeaponNone,
+        CardTalent,
+        CardAlly,
+        CardLocation,
+        CardAction,
+        CardItem,
+        CardFood,
+        CardLegend,
+        CardRelic,
+        CardWeapon,
+        CardSync,
+        CardTechnique,
+
+        TuningDisable = 101,
+        All = 102,
+        
+        DendroConstruct = 201,
+        Shield = 202
+    }
+}

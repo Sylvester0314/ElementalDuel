@@ -1,0 +1,81 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ee2bde0dea7f8764481803fd5bfd9dcb, type: 3}
+  m_Name: 11012
+  m_EditorClassIdentifier: 
+  skillName: skill_name_11012
+  description: skill_description_11012
+  icon: {fileID: 21300000, guid: cdc8b27f266f936498fac3bc615ade7f, type: 3}
+  hide: 0
+  chargeable: 1
+  skillType: 1
+  element: 1
+  damage: 1
+  costs:
+  - type: 0
+    count: 3
+  useCondition:
+    evaluation: 0
+    count: 0
+    preposedIndex: 0
+    factors: []
+  effects:
+  - condition:
+      evaluation: 0
+      count: 0
+      preposedIndex: 0
+      factors: []
+    subEffects:
+    - rid: 4610249147956330503
+    - rid: 4558414278857326609
+  references:
+    version: 2
+    RefIds:
+    - rid: 4558414278857326609
+      type: {class: GenerateStatusEffect, ns: Shared.Logic.Effect, asm: Assembly-CSharp}
+      data:
+        site: 0
+        mode: 0
+        target: 0
+        mustStandby: 0
+        statusAsset: {fileID: 11400000, guid: c69ab1b672b0699459205241be8aab6d, type: 2}
+        stacks:
+          enable: 0
+          stackable: 0
+          initial: 1
+          max: 2
+          repeat: 0
+          remaining: 0
+        usages:
+          enable: 0
+          stackable: 0
+          initial: 1
+          max: 2
+          repeat: 0
+          remaining: 0
+        durations:
+          enable: 0
+          stackable: 0
+          initial: 1
+          max: 2
+          repeat: 0
+          remaining: 0
+    - rid: 4610249147956330503
+      type: {class: DamageEffect, ns: Shared.Logic.Effect, asm: Assembly-CSharp}
+      data:
+        site: 1
+        mode: 0
+        target: 0
+        mustStandby: 0
+        elementType: 1
+        damageAmount: 1
+        mainTarget: 1

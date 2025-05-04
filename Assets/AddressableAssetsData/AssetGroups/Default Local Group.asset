@@ -1,0 +1,2485 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 311ff5b2169f2e944af5c0962e177e34
+  m_SerializeEntries:
+  - m_GUID: 00df439706efe754babef57abdaee4cc
+    m_Address: Assets/Sources/UI/Costs/Cost_Electro_Outline.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 01b9cbe874cc5774faaa24203054bee2
+    m_Address: Assets/Sources/ActionCards/Action_Card_332004.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 025f4e64896d83f47bb37edf981f1bfb
+    m_Address: Assets/SOAssets/ActionCards/332006.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0337716ba3c6a0e42bdbb2e5a8a8d283
+    m_Address: Assets/Sources/SummonCards/Status_114011.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 03e3e125a2646f94088df15d79e1d02b
+    m_Address: Assets/Sources/CardSnapshots/Action_Card_322009.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 04f0ab7a06beeb64eba4fa08358a2fd7
+    m_Address: Assets/Sources/StatusCards/Status_Common_Special.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 04f5e60d7f36c514caeab063cc1b0ca7
+    m_Address: Assets/SOAssets/ActionCards/117011.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 054e312b9dda99d47bf441142630ad12
+    m_Address: Assets/Sources/CardSnapshots/Action_Card_311304.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 055446e2f0e9463419665f4bbf17abfd
+    m_Address: Assets/Sources/ActionCards/Action_Card_311103.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 05ceb7252eaa33a4bafe52a03987dc37
+    m_Address: Assets/SOAssets/ActionCards/332003.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 05da630d58b7bed40bbe43db0c1aac59
+    m_Address: Assets/SOAssets/StatusCards/301302.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 060e0a65aeaa79b4b9e80ac2261dbde4
+    m_Address: Assets/SOAssets/ActionCards/333002.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0763cd3478c0f0d49a30d9e357d83545
+    m_Address: Assets/SOAssets/ActionCards/115.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 07f50b4090d23ef4389ae516568b976d
+    m_Address: Assets/Sources/UI/Elements/Element_Geo.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 081457668baca64439f4e1dc1b580dd9
+    m_Address: Assets/SOAssets/ActionCards/332007.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 08e812d4c3e379745a2316bd8335cd68
+    m_Address: Assets/Sources/CardSnapshots/Action_Card_331101.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 097eb999e637874488d2ff8f4e937740
+    m_Address: Assets/Sources/CardSnapshots/Action_Card_333005.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 09e920ba9f2a9754baea098e812f6763
+    m_Address: Assets/Sources/ActionCards/Action_Card_323002.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 09ff0516ca034dc42820aba17c0d6ada
+    m_Address: Assets/SOAssets/StatusCards/115011.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0a303a52e8b58db4292c9e161e0cf641
+    m_Address: Assets/SOAssets/ActionCards/333005.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0a30ab5b81eadec479fb3c7f0bb84054
+    m_Address: Assets/Sources/CardSnapshots/Action_Card_333003.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0afc75d36eb9f6a4c8a6d290c5fac2c8
+    m_Address: Assets/SOAssets/ActionCards/311302.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0b5d5f2f442b8474c931480b5cf5860a
+    m_Address: Assets/SOAssets/ActionCards/331402.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0ba872f7b9569d9499f56942f6e7984b
+    m_Address: Assets/Sources/UI/Tags/Nation_Natlan.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0bd60a28f9097a34f9eafa618321a6d6
+    m_Address: Assets/Sources/CardSnapshots/Action_Card_312202.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0c4d6074ad785da41a86410c95c74511
+    m_Address: Assets/SOAssets/ActionCards/332014.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0cc9268d15a5e154fa12077718fcd4dd
+    m_Address: Assets/Sources/ActionCards/Action_Card_332006.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0d291e32b1fb15e429bc5d55385fb260
+    m_Address: Assets/Sources/ActionCards/Action_Card_332009.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0d961e92504716349919d59cc2af4c7a
+    m_Address: Assets/SOAssets/StatusCards/321001.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0d9cf85610f1b9c4dae0acc2adb3ec36
+    m_Address: Assets/Sources/Avatars/Avatar_1601.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 102e0ecbac9e4d842a5522e394a99ac9
+    m_Address: Assets/SOAssets/ActionCards/321002.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 11658f93b30f09a498b2a5c5b2a16741
+    m_Address: Assets/SOAssets/StatusCards/303001.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 123a8b24f6544074ebcc641b59cb041e
+    m_Address: Assets/Sources/ActionCards/Action_Card_333005.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 139c229fcb4949842b31523ab90bc581
+    m_Address: Assets/Sources/UI/Costs/Cost_Hydro.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 13edc65b3b364b34c992e6b1b776a209
+    m_Address: Assets/Sources/ActionCards/Action_Card_312502.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 142fe8a0b8193054c85b851697427e1c
+    m_Address: Assets/SOAssets/ActionCards/312501.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 146db50d434b7f54bbf9d000816dc326
+    m_Address: Assets/Sources/UI/Tags/Card_Weapon.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 151c51aa74a3d1a45a85a2dc58fca522
+    m_Address: Assets/Sources/CardSnapshots/Action_Card_332004.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 15393a1dfcf508b4494b5717a91a6f75
+    m_Address: Assets/Sources/ActionCards/Action_Card_322008.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1662639409d36c242b49b094f500b8bf
+    m_Address: Assets/Sources/ActionCards/Action_Card_312201.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 16b26a76a68d4404e81bf7a834b793a9
+    m_Address: Assets/Sources/ActionCards/Action_Card_311401.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 17b51b9c25c38974eb23a69fbb9cc641
+    m_Address: Assets/SOAssets/ActionCards/332002.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 18f7f21612e42244f879ed705c99037c
+    m_Address: Assets/SOAssets/ActionCards/333007.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 195aa5571aeb10646a27a26106eabc70
+    m_Address: Assets/SOAssets/ActionCards/312101.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 19b95fba4670cd5489b9d04248dea5aa
+    m_Address: Assets/Sources/StatusCards/Status_Catalyzing_Field.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 19d790da3ceab1b4bbadefe8af10a794
+    m_Address: Assets/SOAssets/StatusCards/322001.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 19dbcdfa26652e043b586ae755fa4c9e
+    m_Address: Assets/Sources/ActionCards/Action_Card_311101.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1b869657e43404341b3206485e3ba678
+    m_Address: Assets/Sources/CardSnapshots/Action_Card_332001.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1bb3c2a721884f544a4f1ecab3ac8b69
+    m_Address: Assets/Sources/CardSnapshots/Action_Card_332012.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1bc00ac0297126d408df552857ef6634
+    m_Address: Assets/SOAssets/ActionCards/311303.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1c69f2dff82d25f4a850df496ce6a7fc
+    m_Address: Assets/Sources/UI/Costs/Cost_Legend_Outline.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1c9c9604f7e083a44a196f1c4b7a0c21
+    m_Address: Assets/Sources/UI/Costs/Cost_Any.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1d3b584f144219f438c4af2c3a4a1c63
+    m_Address: Assets/Sources/ActionCards/Action_Card_322005.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1d551315e79b9b0448776e30c791b9d4
+    m_Address: Assets/Sources/ActionCards/Action_Card_333006.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1d5d698e0e3e8334e9e60614f5efcf9d
+    m_Address: Assets/Sources/CardSnapshots/Action_Card_312701.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1ebebb500a44e8d4abf7c2f4986a45a3
+    m_Address: Assets/Sources/UI/Costs/Cost_Diff_Outline.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1efd096f9b7c32c4bbc452c8ee963553
+    m_Address: Assets/Sources/SupportCards/Status_322002.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1f059be647192e8429ce3b6b8562bb43
+    m_Address: Assets/SOAssets/ActionCards/312601.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1f3ce4248c7fdf14397f642d32f07efe
+    m_Address: Assets/SOAssets/StatusCards/111012.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1fb08f156d8d7cd46a28497a751b3170
+    m_Address: Assets/SOAssets/ActionCards/312702.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 200122a39a0521144825fa660afbec7e
+    m_Address: Assets/SOAssets/CharacterCards/1401.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 20a5e66f9761a594a8c0031811ccd581
+    m_Address: Assets/Sources/UI/Tags/Card_Sync.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 20c6b8c8753ce2343b196a5c1e64395a
+    m_Address: Assets/Sources/ActionCards/Action_Card_322010.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 210db95d224a2af40ab322e87708779b
+    m_Address: Assets/Sources/SummonCards/Status_117011.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 221b4be51e769e84697be5f745820aad
+    m_Address: Assets/Sources/CardSnapshots/Action_Card_331702.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 23657b217aa0fae4f8ce6d934e7a3776
+    m_Address: Assets/Sources/CardSnapshots/Action_Card_332010.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 23a555abe6d2ff7479d178b5b2845ff7
+    m_Address: Assets/Sources/UI/Tags/Card_Technique.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 24936282419f8ab49bfda7e307b44c34
+    m_Address: Assets/Sources/UI/Tags/Element_Cryo.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 251a6ee6db7868d4f9706f541a180909
+    m_Address: Assets/Sources/SupportCards/Status_321006.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2539aa5df7a708342ad557b2fa9186af
+    m_Address: Assets/Sources/SupportCards/Status_321001.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2567f2ca05dd9e84c8332d2a090b7ed6
+    m_Address: Assets/Sources/CardSnapshots/Action_Card_332003.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 259f3f5a78cb34f499876ad140be14cc
+    m_Address: Assets/Sources/UI/Costs/Cost_Hydro_Outline.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 25f62c6cf0b0c5c4d93e0b08db580a84
+    m_Address: Assets/Sources/UI/Tags/Element_None.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 26194d4aae64f984c98d9d5ff3d36935
+    m_Address: Assets/Sources/ActionCards/Action_Card_332013.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 26e50bb54aa29524bab2861517e88f74
+    m_Address: Assets/Sources/ActionCards/Action_Card_312601.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2729365481bb8c547809240c685e506d
+    m_Address: Assets/Sources/UI/Costs/Cost_Any_Outline.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 27d80fa90bf02c74bbd5747c5bee1bdf
+    m_Address: Assets/SOAssets/ActionCards/333004.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 27ec6e738488e424db76029cc5dc100d
+    m_Address: Assets/Sources/CardSnapshots/Action_Card_322002.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 294d8bc22d30a014b8dd8b4578e5d97a
+    m_Address: Assets/SOAssets/ActionCards/331601.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2990a459b5ae21f40a2466cf983b3dca
+    m_Address: Assets/SOAssets/ActionCards/312502.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2994e90ea531cdc4f88a78cbd6a04a37
+    m_Address: Assets/Sources/StatusCards/Status_Common_Debuff.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 29a9afed97242d147889e0994f54cd02
+    m_Address: Assets/Sources/ActionCards/Action_Card_311403.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2a6a7744273a5924ea6a9956a0e5c59e
+    m_Address: Assets/SOAssets/StatusCards/303002.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2b4b63c8f768f4f41855406405901792
+    m_Address: Assets/SOAssets/StatusCards/303000.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2b564d5eb6fe27e44b7fc5771c7315b0
+    m_Address: Assets/Sources/ActionCards/Action_Card_322001.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2bb20d9026daef04d9ead9f7e6013b4b
+    m_Address: Assets/Sources/ActionCards/Action_Card_312202.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2c1ab9f11f3770c44894dfc605ae7422
+    m_Address: Assets/Sources/CardSnapshots/Action_Card_321004.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2cec04d4cc1b1b043b4406ec7eba90a4
+    m_Address: Assets/Sources/CardSnapshots/Action_Card_332005.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2d033201c8cd22b4ab25ceb8343e4376
+    m_Address: Assets/Sources/CardSnapshots/Action_Card_311303.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2d03a3c0829ace7478e4f669ae33f47f
+    m_Address: Assets/Sources/UI/Tags/Weapon_Sword.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2d43be7ac22cfae4ca8eeb3e7d0e6e97
+    m_Address: Assets/Sources/CardSnapshots/Action_Card_331301.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2d7f3587eadf16a46bc369d96c9af53f
+    m_Address: Assets/Sources/CardSnapshots/Action_Card_333008.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2e7eaa7708109e14ca6f1ce241c28099
+    m_Address: Assets/Sources/CardSnapshots/Action_Card_312702.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2eaafdc54320f4540b88907195f64b17
+    m_Address: Assets/Sources/UI/Tags/Camp_Fatui.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2ef2703a5455f06499f949c201d544c3
+    m_Address: Assets/SOAssets/StatusCards/125012.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2ef6ef3c6b580a145b97d8c2b0fc749e
+    m_Address: Assets/SOAssets/ActionCards/322008.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2f9ec23186aec9047927503a3f5f2980
+    m_Address: Assets/SOAssets/StatusCards/116011.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2f9f552cd012b0249a782bd87201a46c
+    m_Address: Assets/SOAssets/ActionCards/115011.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2fa9185b50da04c4e985af00a168a401
+    m_Address: Assets/Sources/ActionCards/Action_Card_311304.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2ffed29d26e346a4998d75efd8b53e1c
+    m_Address: Assets/Sources/CardSnapshots/Action_Card_312005.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3176699bb7545874cafe12542395cdb8
+    m_Address: Assets/Sources/UI/Costs/Cost_Same_Outline.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 31972216ae7368649bfc4e6a02512d10
+    m_Address: Assets/Sources/StatusCards/Status_Common_Attack_Up.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 33969d094c9bbe64d9b0f8936c2846fc
+    m_Address: Assets/Sources/CardSnapshots/Action_Card_311401.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 34c412c6471409a41919aef09f5f0e1f
+    m_Address: Assets/Sources/UI/Costs/Cost_Icon_Hydro.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3596edab676dce547932bf96856bd01e
+    m_Address: Assets/Sources/ActionCards/Action_Card_312101.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 362ec58cdfff05142856989ca7b4182b
+    m_Address: Assets/Sources/Avatars/Avatar_1101.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3647aa277f80e72418e824047c4640bf
+    m_Address: Assets/SOAssets/ActionCards/312402.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3675d972c3e38554cae0dfc2ad8a533a
+    m_Address: Assets/SOAssets/Skills/10000.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 36f5a1c5057d63746b490d597634f3cd
+    m_Address: Assets/SOAssets/ActionCards/323001.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 37001f2781cb3d4459ef1012708528b2
+    m_Address: Assets/Sources/UI/Lifes/Hint_Timer.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 371f0ccc80877d04996a6e0c67a6a217
+    m_Address: Assets/SOAssets/ActionCards/312002.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 37231d3441bf60a47a9ccb9713deb08f
+    m_Address: Assets/SOAssets/ActionCards/312003.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 375c737277c0aa7478be2590f9a1edf5
+    m_Address: Assets/Sources/UI/Tags/Empty_Background.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 37b78243b9eb5a34298bda7691fb8c9b
+    m_Address: Assets/Sources/StatusCards/Status_Common_Attack_Special.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 383e366687fe7c54fb65a63633d08561
+    m_Address: Assets/Sources/ActionCards/Action_Card_333007.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 38b54e34f671cc3449bedb80fa9d0879
+    m_Address: Assets/SOAssets/ActionCards/322010.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3929c3b2343219a4b924e629f895bd3f
+    m_Address: Assets/Sources/Characters/Character_Cardface_2501.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3938fbe664313264a84fdebb0d05e6de
+    m_Address: Assets/SOAssets/ActionCards/333006.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 398dcc11ac0c1b84693dad76ee4171fb
+    m_Address: Assets/SOAssets/StatusCards/303008.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 39e27cf67b8e689478b56188acf7577a
+    m_Address: Assets/Sources/UI/Costs/Cost_Same.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3abffaaf17b423f49b6a67d5b123400c
+    m_Address: Assets/Sources/UI/Tags/Weapon_Pole.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3b16419663f178d41b5eca0498ca28cf
+    m_Address: Assets/Sources/CardSnapshots/Action_Card_312101.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3b8249662ba9f2b449330f5c0e865b5b
+    m_Address: Assets/Sources/CardSnapshots/Action_Card_312003.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3b84b49d8606ec740a5ce9d613a6708e
+    m_Address: Assets/Sources/ActionCards/Action_Card_115011.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3d4b2138e7303c742b49ee8eb2cf520c
+    m_Address: Assets/SOAssets/ActionCards/322009.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3ed2521cfb42c354093dbcff42c7ef75
+    m_Address: Assets/SOAssets/ActionCards/322011.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3f6d393495d3e1447b7fba259cf0a7ce
+    m_Address: Assets/SOAssets/ActionCards/312201.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3f886b224e538854ba808ad593931cd5
+    m_Address: Assets/Sources/UI/Lifes/Equip_Relic.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4030fecb64b6eb542804db67eaefd481
+    m_Address: Assets/Sources/CardSnapshots/Action_Card_322005.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4061605dd59d1fa4f9ed5ff2fee799a5
+    m_Address: Assets/Sources/CardSnapshots/Action_Card_312401.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 418a52c97a99cc2489d30a79304a7c8e
+    m_Address: Assets/Sources/CardSnapshots/Action_Card_312006.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 41a469dd3dc00d84d9ccaf696f26ac0d
+    m_Address: Assets/Sources/ActionCards/Action_Card_332011.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 42b1676574a73314697207bcc7e89089
+    m_Address: Assets/Sources/ActionCards/Action_Card_311502.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 43fc9007f9591e84fbc240ee5f7261f8
+    m_Address: Assets/Sources/ActionCards/Action_Card_332001.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 440e0bd52c530e44cb79255455089381
+    m_Address: Assets/SOAssets/CharacterCards/1601.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 445c5edbc31c5d34fa443bf15e9548c9
+    m_Address: Assets/Sources/Avatars/Avatar_1201.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 446428841b9d35246b4499d351a3a66b
+    m_Address: Assets/Sources/ActionCards/Action_Card_312002.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 446551dfe662bb94594e36d991ee04ac
+    m_Address: Assets/Sources/SupportCards/Status_322005.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 45c4b274af5e5b54ba16bca4ff676e27
+    m_Address: Assets/Sources/CardSnapshots/Action_Card_331102.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 45f0a49b5ad2ae04b8670f3e40c1328c
+    m_Address: Assets/Sources/CardSnapshots/Action_Card_311201.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 45f982e8743fc754b916ea05802288e2
+    m_Address: Assets/Sources/UI/Costs/Cost_Electro.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 460a96372aa1a74438f54fe3f62ffaaf
+    m_Address: Assets/Sources/ActionCards/Action_Card_311501.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 463f85c038562be4aa4785962475f461
+    m_Address: Assets/Sources/ActionCards/Action_Card_323001.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 474cdca753bc97448a02413e72b876b7
+    m_Address: Assets/Sources/SupportCards/Status_321002.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 475d0152733aec94f943bb7f27049169
+    m_Address: Assets/Sources/CardSnapshots/Action_Card_311502.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 47add2e55dadc7c468f2fd6ef8515ab3
+    m_Address: Assets/Sources/ActionCards/Action_Card_333002.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 48795a0f8a7acb841896ec6d13918e67
+    m_Address: Assets/Sources/ActionCards/Action_Card_311303.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 49fd51d9cab775247857b9d2d9ee7bd5
+    m_Address: Assets/Sources/UI/Tags/Element_Electro.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4a8e122b7508b6748a0a23c7663ea02e
+    m_Address: Assets/Sources/ActionCards/Action_Card_331302.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4b7d31395e5f0754095a676efdf72ecf
+    m_Address: Assets/Sources/SupportCards/Status_322006.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4ba0c32e36bfd9d4d86185647bf490be
+    m_Address: Assets/Sources/ActionCards/Action_Card_331701.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4c102d8b1f7dc6a44a60523eeae1330b
+    m_Address: Assets/Sources/ActionCards/Action_Card_312302.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4c57ec2b31fde5e4797ac698ef9e07db
+    m_Address: Assets/Sources/UI/Costs/Cost_Pyro_Small.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4da11174b8ba9ab4fbcc9a4b5bc26076
+    m_Address: Assets/Sources/CardSnapshots/Action_Card_312201.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4daf89c325388264199c93173f4b940a
+    m_Address: Assets/Sources/UI/Costs/Cost_Icon_Cryo.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4db3dfb12e3dfa645a4920eb51154bc8
+    m_Address: Assets/Sources/SupportCards/Status_322012.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5130246f95a3c504db526a086cb2c023
+    m_Address: Assets/Sources/ActionCards/Action_Card_312402.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 513d06c0726384b4285271cfc04264c0
+    m_Address: Assets/Sources/CardSnapshots/Action_Card_333006.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 520e0978e03afec4e966f3e8dbb63ece
+    m_Address: Assets/SOAssets/CharacterCards/1201.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 523b59ad6723e474586540477bf8c5c9
+    m_Address: Assets/Sources/UI/Costs/Cost_Dendro.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 52c70d5d8677b1347b6e64c16176a0df
+    m_Address: Assets/SOAssets/ActionCards/322001.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5338895f93ca155499fe39c12d1f924b
+    m_Address: Assets/Sources/UI/Costs/Cost_Pyro_Outline.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 53419a9e3d48ef54d8c60102bb446792
+    m_Address: Assets/Sources/UI/Costs/Cost_Dendro_Small.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 54e18da390bf7ab40b198f9b5cf0febc
+    m_Address: Assets/Sources/CardSnapshots/Action_Card_312402.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 54eebaec778a6f046893519acb904946
+    m_Address: Assets/SOAssets/ActionCards/331702.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 55fb110723948ba44a20665aaf9d0c58
+    m_Address: Assets/Sources/CardSnapshots/Action_Card_331501.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5752afda397d41a49b908d42f108870e
+    m_Address: Assets/Sources/ActionCards/Action_Card_312102.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 58902b8bd0ea3bb45ac735cfeeab554a
+    m_Address: Assets/Sources/UI/Elements/Pure_Dendro.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 58a7438e481233342909907f8b402357
+    m_Address: Assets/SOAssets/ActionCards/312202.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 59912456e0456b14eb207921eb9a7e44
+    m_Address: Assets/Sources/ActionCards/Action_Card_331702.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 59975c813217d4549a67a4c130fb99e3
+    m_Address: Assets/Sources/CardSnapshots/Action_Card_311203.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 59c94802d1b56da4f82fee37c2b8d665
+    m_Address: Assets/Sources/ActionCards/Action_Card_112011.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5a13a06dd7aace74b8773ebeb34248f0
+    m_Address: Assets/Sources/UI/Tags/Camp_Sacred.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5a2ca90a2517f8547b39e1cdc9208250
+    m_Address: Assets/Sources/CardSnapshots/Action_Card_333007.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5a5c58db53403344692482e454ce66c5
+    m_Address: Assets/Sources/CardSnapshots/Action_Card_331302.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5b6ab4d2394df2e489646b00b52330c6
+    m_Address: Assets/SOAssets/ActionCards/332013.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5bcae1b709a133a46b39e11688062cf2
+    m_Address: Assets/Sources/CardSnapshots/Action_Card_332009.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5ccf58c471c7f294c97527ca4cbd63e5
+    m_Address: Assets/Sources/CardSnapshots/Action_Card_332015.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5dc66a50d7eb6c342aa1ca09e14c19d6
+    m_Address: Assets/Sources/UI/Costs/Cost_Icon_Electro.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5e38ba163b406cd438277488af08010c
+    m_Address: Assets/SOAssets/StatusCards/115.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5e8ad0786ee8ffd4a805b941fe98ae68
+    m_Address: Assets/Sources/UI/Lifes/Hint_Barrier.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 60a5882d728fb6041857c7c3af6055b2
+    m_Address: Assets/SOAssets/ActionCards/332004.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 61b581fef601cff47b99ee5570e25d1d
+    m_Address: Assets/Sources/Characters/Character_Cardface_1201.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 61efff3c25e9c224aa2bddbb3c824d5e
+    m_Address: Assets/Sources/UI/Tags/Camp_Hilichurl.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 620f76eb39beb244fb3a562152741cfd
+    m_Address: Assets/SOAssets/ActionCards/322005.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 62a836c095defe44b989ec0a5a647e35
+    m_Address: Assets/SOAssets/ActionCards/332005.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 644b36ee52e2887498774d1f331ce203
+    m_Address: Assets/Sources/Characters/Character_Cardface_1301.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 661cd39fa94dda74d92dc2f318dbe877
+    m_Address: Assets/Sources/UI/Costs/Cost_Hydro_Small.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 66392135f7fa47242ab0c6acd404c9a9
+    m_Address: Assets/Sources/CardSnapshots/Action_Card_312102.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 66b2e4fdc6f68ac4f879446ebfc37514
+    m_Address: Assets/Sources/ActionCards/Action_Card_331601.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 66eaaf931c254fc48b403a0f84402467
+    m_Address: Assets/Sources/StatusCards/Status_Common_Shield.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 66eea305a9c8ddb44ab00d3232525076
+    m_Address: Assets/SOAssets/ActionCards/312301.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 66fce71c890abd84b89052f9b0107539
+    m_Address: Assets/Sources/UI/Tags/Weapon_None.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 675e01297801dae448a0ef8d90d8f1d6
+    m_Address: Assets/Sources/UI/Tags/Weapon_Catalyst.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6794ecb63f2c8f349a064fa91d250210
+    m_Address: Assets/Sources/UI/Costs/Cost_Energy.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 67af6af89d986ef4ea532ff989f99cf3
+    m_Address: Assets/SOAssets/ActionCards/311102.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 67cd2a3fe0d9882458a680ce948f2bf2
+    m_Address: Assets/SOAssets/StatusCards/114011.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 67d255111531bfa41aa77dc1ff29383d
+    m_Address: Assets/Sources/CardSnapshots/Action_Card_312002.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6844aac7cc8988b45a7e53ae742eeece
+    m_Address: Assets/Sources/SupportCards/Status_323001.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 688ef3cc165789f4caf7e7d7388230c3
+    m_Address: Assets/SOAssets/ActionCards/312006.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 692fb68d65925b841bd2fa8ce52a4dc1
+    m_Address: Assets/Sources/ActionCards/Action_Card_111012.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 69741e14e666e1f4f934d7dd1745d47d
+    m_Address: Assets/Sources/UI/Tags/Nation_Inazuma.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 699fb7a00511a6648b288d9a7ed29117
+    m_Address: Assets/Sources/CardSnapshots/Action_Card_331202.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 69dc442d7032b8f43b4f5e84517a28e1
+    m_Address: Assets/Sources/UI/Tags/Camp_Kairagi.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6aeb2ee197cef28478b3c47acd54bda3
+    m_Address: Assets/SOAssets/ActionCards/311203.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6c9ab676bcee34c4db0711ee7b13e811
+    m_Address: Assets/Sources/UI/Costs/Cost_Electro_Small.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6df9d317afcd0184e9cd534a8bbdc4a0
+    m_Address: Assets/SOAssets/ActionCards/321004.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6e8bd1bd6909acd44830a016abf8b5a7
+    m_Address: Assets/SOAssets/ActionCards/333001.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6fc7457ed0ce3d9419a96377d9b793df
+    m_Address: Assets/Sources/CardSnapshots/Action_Card_311503.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6fede4a30b989f84c93c66db11caf633
+    m_Address: Assets/Sources/ActionCards/Action_Card_332014.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7017f7e788f4b0c408b7630e952f18f9
+    m_Address: Assets/SOAssets/StatusCards/321006.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 702ee7a01d0d1e94db7d9028a913dbdf
+    m_Address: Assets/Sources/UI/Tags/Weapon_Claymore.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 70f7980184f89f74fbb82f332909c1b4
+    m_Address: Assets/SOAssets/ActionCards/311301.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 71244832901ae73418a211613a1130eb
+    m_Address: Assets/Sources/SupportCards/Status_322001.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 71ab2100b6689334cbbbceee5cd1787f
+    m_Address: Assets/Sources/Characters/Character_Cardface_1501.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 727e4e11bca2d7f468c0e6f5ef6b824a
+    m_Address: Assets/Sources/CardSnapshots/Action_Card_311501.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 72d9027ecdfee7b4a996b48e5dc23da9
+    m_Address: Assets/Sources/CardSnapshots/Action_Card_331201.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 73c43566eeb542a4f87d47a4aa22009d
+    m_Address: Assets/Sources/UI/Tags/Card_Ally.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 74a357731126bf743bdd212cd585c264
+    m_Address: Assets/SOAssets/ActionCards/332015.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 753fac43685674246b26b93e5208a82e
+    m_Address: Assets/Sources/CardSnapshots/Action_Card_312004.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7604c0f459dd08d41aea561cfed81daa
+    m_Address: Assets/Sources/UI/Elements/Pure_Pyro.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7641982a6b96bd64bb70561d37fbc57d
+    m_Address: Assets/SOAssets/ActionCards/333008.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 768834a8e680bb04aa3c48bbe43190ae
+    m_Address: Assets/Sources/CardSnapshots/Action_Card_311101.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7694e78ac383faf41a4be0a184c20eda
+    m_Address: Assets/Sources/CardSnapshots/Action_Card_331701.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 76a28f53418cdee44b2a7c2199626920
+    m_Address: Assets/Sources/ActionCards/Action_Card_331201.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 771a1c767ceaeb54ab2af4ee56fc345f
+    m_Address: Assets/Sources/CardSnapshots/Action_Card_332006.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7749eaa22ef5af54bb06ebec7addc103
+    m_Address: Assets/Sources/ActionCards/Action_Card_322009.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 78e099ced77bcd7489850f06cf72f8de
+    m_Address: Assets/SOAssets/StatusCards/303003.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 790cc8bb738b3b545b983b69b77327ee
+    m_Address: Assets/Sources/CardSnapshots/Action_Card_332013.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7a877bcf4e8f25740869f4b9e8f829ef
+    m_Address: Assets/Sources/ActionCards/Action_Card_331602.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7b0550420a431dd46bd6c87bf651828d
+    m_Address: Assets/Sources/CardSnapshots/Action_Card_311301.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7b670e7ddc6eea74094877d9563b7659
+    m_Address: Assets/Sources/CardSnapshots/Action_Card_312301.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7b6d25eac4901f6488e9484edcb27bd2
+    m_Address: Assets/Sources/ActionCards/Action_Card_311501 1.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7bcb15f9b8fcb294eb37af54e6962587
+    m_Address: Assets/Sources/SummonCards/Status_115011.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7ca5ff528eb21f24ea707585d019c3da
+    m_Address: Assets/Sources/ActionCards/Action_Card_312501.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7cc15ccc61a07514fa7d643a035585cc
+    m_Address: Assets/Sources/SupportCards/Status_322007.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7d6f97f586959f74c946af8a0289ccd9
+    m_Address: Assets/Sources/UI/Tags/Nation_Sumeru.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 80268b7748550654ba2182d9f0812e1e
+    m_Address: Assets/Sources/UI/Tags/Card_Action.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 811fafe45fe9abb4b8923a946c8bc75e
+    m_Address: Assets/Sources/ActionCards/Action_Card_331102.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 813910e92b1d6cd44a6793e0275023ff
+    m_Address: Assets/Sources/CardSnapshots/Action_Card_311403.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 81b34cd0c5a3c784da67c5c9b12156b8
+    m_Address: Assets/Sources/ActionCards/Action_Card_312005.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 81d4d89d492e2524887b5751e31e3793
+    m_Address: Assets/SOAssets/ActionCards/311103.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 81e7cc17081370c449c30ddef8f27538
+    m_Address: Assets/Sources/ActionCards/Action_Card_312602.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 81ed887a673988f45bb14bce85004f98
+    m_Address: Assets/SOAssets/ActionCards/321005.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8264d4f232e2c3d45a999d10f2cb820b
+    m_Address: Assets/Sources/CardSnapshots/Action_Card_332014.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8289ccbcffbf99b4b8fd412800c0d39f
+    m_Address: Assets/SOAssets/ActionCards/331701.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 830c17326226e6646a6296df28b48514
+    m_Address: Assets/Sources/ActionCards/Action_Card_332007.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 840438748f17a3c4a85b5cefba74a6f2
+    m_Address: Assets/Sources/UI/Tags/Card_Talent.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 85ab3ecce6f1ab64ba402239b04132f2
+    m_Address: Assets/Sources/StatusCards/Status_Common_Satiated.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8601b15e6e7bd3347ad20985b5b581db
+    m_Address: Assets/Sources/Avatars/Avatar_1301.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 860c813854bc7654c86c4481b11f9394
+    m_Address: Assets/Sources/ActionCards/Action_Card_311203.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8641565768b35f646a0aeb8e400e3a8b
+    m_Address: Assets/SOAssets/StatusCards/112011.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 86459cd4e6a6ac24e850c0febdb7316a
+    m_Address: Assets/Sources/CardSnapshots/Action_Card_322001.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 868d0a73b75fa634dba2f9e252fd7f37
+    m_Address: Assets/SOAssets/ActionCards/312004.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 879063dd114fb3d4281eb1b95f56460c
+    m_Address: Assets/Sources/UI/Tags/Card_Location.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 87c83786148b72a409e7e440de62506e
+    m_Address: Assets/SOAssets/ActionCards/322002.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 882afd304ba6f1e4492dff892c482f41
+    m_Address: Assets/Sources/Characters/Character_Cardface_1101.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 882eea055531d864e8a6714cdc73cb4a
+    m_Address: Assets/SOAssets/ActionCards/331201.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 88615191b8f12b94899403f713218362
+    m_Address: Assets/Sources/CardSnapshots/Action_Card_322010.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 889233be4f1a86445a7fd316508c78dd
+    m_Address: Assets/Sources/UI/Costs/Cost_Geo_Outline.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 889b714b9bd7ce04e8691dfb5d9ea298
+    m_Address: Assets/Sources/CardSnapshots/Action_Card_322003.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 89a2e47c74ae26244850ff83ba7ffa81
+    m_Address: Assets/Sources/SummonCards/Status_125012.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 89e7c4ac722a46342adb8f4c1ad51f70
+    m_Address: Assets/Sources/UI/Tags/Card_Shield.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8a407b3229944a7448a52544f35ca67f
+    m_Address: Assets/Sources/UI/Tags/Card_Item.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8a47c498c2fb6bd4f913dca4f3cbec0a
+    m_Address: Assets/Sources/UI/Costs/Cost_Pyro.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8a76751b7027c1d4b81941571f3f3dfc
+    m_Address: Assets/SOAssets/ActionCards/125012.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8ae05f9b2de3c95479fa92e9bf4140a7
+    m_Address: Assets/Sources/ActionCards/Action_Card_321005.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8aedfacfec7e3fa41b876e84d2afe4a6
+    m_Address: Assets/Sources/ActionCards/Action_Card_311301.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8b12dd542ecf35f4080afa532f8a3172
+    m_Address: Assets/Sources/UI/Elements/Pure_Any.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8b2b7673968e86a4f99953ae84d19d56
+    m_Address: Assets/SOAssets/ActionCards/323002.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8b34004cb4076f64094fe664c30c1f5b
+    m_Address: Assets/Sources/UI/Tags/Element_Hydro.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8ece54050b204d749bb551e81857c6c7
+    m_Address: Assets/Sources/UI/Tags/Card_Food.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8f687ef36cf88544b9be6a13905f4b9a
+    m_Address: Assets/SOAssets/ActionCards/311504.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8f7e4c285ae22e445a86416af8daccdd
+    m_Address: Assets/Sources/CardSnapshots/Action_Card_322007.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 90d8074f2054ca743adff0b1bb668af2
+    m_Address: Assets/SOAssets/CharacterCards/1501.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9183a48ea7fa36144be0416115ad4f38
+    m_Address: Assets/Sources/ActionCards/Action_Card_322011.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 92004f9bef63c7c478dc74439a18497a
+    m_Address: Assets/Sources/CardSnapshots/Action_Card_311302.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 92a7f2b4b203f3a4fa49f932193c6d46
+    m_Address: Assets/Sources/UI/Costs/Cost_Dendro_Outline.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9300dea260a832b45a7ce8d64fc77e6a
+    m_Address: Assets/SOAssets/ActionCards/331501.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 93313c90ee37b3946978fd0e9f9f8e5d
+    m_Address: Assets/Sources/CardSnapshots/Action_Card_322008.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9360fd09b4af07d4887cb9bf12540601
+    m_Address: Assets/Sources/CardSnapshots/Action_Card_332002.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9451968e8ca18814d9fb654b43832ee0
+    m_Address: Assets/SOAssets/StatusCards/125011.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 95c81c941bb86dc4382f949352aeeb8d
+    m_Address: Assets/Sources/UI/Costs/Cost_Icon_Pyro.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 98221ff352e8b8b4591b7aad15ed1ae3
+    m_Address: Assets/Sources/ActionCards/Action_Card_331101.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 98474e9693192a6419192f6ac89806e0
+    m_Address: Assets/SOAssets/ActionCards/331302.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 98585cee8eaa06943b1c7c9edbfb8711
+    m_Address: Assets/SOAssets/ActionCards/312102.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 98c6a189b2bc6384583ebe76c210bdbf
+    m_Address: Assets/SOAssets/ActionCards/125011.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9a3ef7342e7d1af4cb0ba183be25d8be
+    m_Address: Assets/Sources/UI/Tags/Element_Dendro.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9a46dc9b988b0874cad56f9d33350e19
+    m_Address: Assets/Sources/UI/Costs/Cost_Energy_Small.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9ddfee070667cb64084d1e7ec257f3c2
+    m_Address: Assets/SOAssets/ActionCards/331101.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9e940a6058979374493bdf525ed241fa
+    m_Address: Assets/Sources/Avatars/Avatar_1401.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9f24a095556fa264fa617ce1b403213d
+    m_Address: Assets/Sources/CardSnapshots/Action_Card_332008.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a10bc49fc8eee964c9dc4e4179e15ca6
+    m_Address: Assets/Sources/ActionCards/Action_Card_311201.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a14514bee0baceb4aaeaff9d00bb923a
+    m_Address: Assets/Sources/UI/Lifes/Equip_Weapon.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a1788389632c96345952ec091efa3463
+    m_Address: Assets/Sources/CardSnapshots/Action_Card_311202.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a1abb1100094fb947a4736b72a007316
+    m_Address: Assets/Sources/ActionCards/Action_Card_332012.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a381b668e30ae974aadb4ae1d05a125e
+    m_Address: Assets/Sources/ActionCards/Action_Card_311503.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a4e195a8b4c5835489be2e4cbfdffdd2
+    m_Address: Assets/Sources/ActionCards/Action_Card_322007.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a4fabadbefde7604f90d8750d0460d18
+    m_Address: Assets/SOAssets/ActionCards/333003.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a516ef1cf750fc54f93bd4eba999e9e3
+    m_Address: Assets/SOAssets/StatusCards/303007.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a52bea99e46088a4c807debfcb605011
+    m_Address: Assets/Sources/ActionCards/Action_Card_312401.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a540de587c1ea784e92f42a78bf5cf9b
+    m_Address: Assets/Sources/CardSnapshots/Action_Card_333004.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a58831f4bcf95bd489fdc9a357155c4a
+    m_Address: Assets/Sources/ActionCards/Action_Card_114011.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a5fe24aeb9a4d234ba5ef0b20da643cd
+    m_Address: Assets/Sources/CardSnapshots/Action_Card_323001.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a65035b270b77e34ab6e2a2206218b6e
+    m_Address: Assets/Sources/UI/Costs/Cost_Geo.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a782068d14c267649903a57a8b6c3ca8
+    m_Address: Assets/SOAssets/ActionCards/311202.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a7db7a5ed90b6794a9474f44b57dc669
+    m_Address: Assets/Sources/UI/Tags/Camp_Monster.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a7f357bae678eca448a324bee0b11685
+    m_Address: Assets/Sources/StatusCards/Status_Common_Buff.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a7fea36489389ae44b29b7bfaddf331f
+    m_Address: Assets/Sources/ActionCards/Action_Card_322012.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a815175236b0aaf4da99a84af13a416b
+    m_Address: Assets/SOAssets/ActionCards/111012.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a8357f724eaedae479b015ad87b95b6c
+    m_Address: Assets/Sources/UI/Costs/Cost_Anemo_Outline.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a8bc9160e64c37640abadf8d79b5cb89
+    m_Address: Assets/SOAssets/ActionCards/331602.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a9e918afbc7f9cc4980e88740779142c
+    m_Address: Assets/Sources/StatusCards/Status_Dendro_Core.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: aa76346ed8ca4654e805a8308995576c
+    m_Address: Assets/Sources/ActionCards/Action_Card_321004.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ab455fef77a8ecf43a685314c1dc5b16
+    m_Address: Assets/Sources/SupportCards/Status_321005.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: acf4aca26355c74499d71a21586b2b78
+    m_Address: Assets/Sources/UI/Costs/Cost_Diff.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ad038a9c90966b042a9f4a5722f55e92
+    m_Address: Assets/Sources/ActionCards/Action_Card_322006.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ad0d8d90d7ef8dd449fae82475593dcf
+    m_Address: Assets/Sources/ActionCards/Action_Card_312301.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ad3709195bdb2e241aa6afc91ed697d1
+    m_Address: Assets/SOAssets/CharacterCards/1101.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ae8b2db3f6b090148b035ba1733cfa95
+    m_Address: Assets/Sources/ActionCards/Action_Card_331202.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b03cbbc9f9f88ae42a7ee2a2ce462cb1
+    m_Address: Assets/SOAssets/ActionCards/322006.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b0932ef3cb943494aa0ee3c634b35cbe
+    m_Address: Assets/Sources/CardSnapshots/Action_Card_312602.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b1b4257683ba9774e8f64b46eae47c18
+    m_Address: Assets/Sources/ActionCards/Action_Card_311302.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b1d3357f0318c1a48891928ba43012a6
+    m_Address: Assets/SOAssets/ActionCards/332011.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b1d86123fc29a4047b75644a0246fe85
+    m_Address: Assets/Sources/ActionCards/Action_Card_321001.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b1e543baa4830db4d992352518fc746f
+    m_Address: Assets/Sources/UI/Elements/Pure_Cryo.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b1ff87078ff8d9c40b0ab96eb2bbed36
+    m_Address: Assets/SOAssets/ActionCards/112011.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b3200b7ccf3bc594f95869dfc958a452
+    m_Address: Assets/SOAssets/StatusCards/117011.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b3f2147886b58cd458086c6e574523fd
+    m_Address: Assets/Sources/SummonCards/Status_125011.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b4351ec5830159542b4ec754ac359a9e
+    m_Address: Assets/SOAssets/ActionCards/321006.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b4b8d8d4b3525db49b6b8d412de0ab87
+    m_Address: Assets/Sources/UI/Tags/Nation_Mondstadt.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b55b71da09d1cdb4bac386c14ef00edd
+    m_Address: Assets/Sources/CardSnapshots/Action_Card_331502.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b567fdab670d5ff4eae60eb431eecff1
+    m_Address: Assets/SOAssets/ActionCards/322003.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b664be1bd284c624081b480ef0cff58e
+    m_Address: Assets/Sources/CardSnapshots/Action_Card_311504.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b6dd46f310389ff49a2773e0d925ea30
+    m_Address: Assets/Sources/CardSnapshots/Action_Card_312601.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b88e7ba2f388b6840aa420e4b71a26b7
+    m_Address: Assets/SOAssets/ActionCards/312701.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b8b402949bf48e543951158b9d360a1d
+    m_Address: Assets/Sources/Characters/Character_Cardface_1701.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b8e6707197f50a546bbad54bcb5fb403
+    m_Address: Assets/Sources/SupportCards/Status_322009.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b9944538ef4505f47b21441119c10b8d
+    m_Address: Assets/Sources/UI/Costs/Cost_Icon_Anemo.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b9d2ed95b300cde4bbb6e4a2e248ce14
+    m_Address: Assets/Sources/StatusCards/Status_Common_More.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b9f1dac90e658a04384a9172d68ac75a
+    m_Address: Assets/SOAssets/ActionCards/311201.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bafa6287987366b4eb7468091605c17a
+    m_Address: Assets/Sources/UI/Costs/Cost_None.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bb23b458de29df843abd0b78fa0e949f
+    m_Address: Assets/Sources/ActionCards/Action_Card_331401.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bb74dc25ca35ed341b0965807d435f3e
+    m_Address: Assets/Sources/UI/Elements/Element_Anemo.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bdb665d7196ee604ab8b0561af42b0f4
+    m_Address: Assets/Sources/ActionCards/Action_Card_322004.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: be3d2b2759c25c247bbe1e2f82896686
+    m_Address: Assets/Sources/UI/Tags/Card_Legend.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: be73bc3fc433c2d4188d65e5f39b46af
+    m_Address: Assets/Sources/CardSnapshots/Action_Card_321001.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c006fb8e46ab77f4bb9ad8d165ce9939
+    m_Address: Assets/Sources/UI/Costs/Cost_Legend_Small.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c0a28d8e8afcefb4091d728b4be4a6bb
+    m_Address: Assets/Sources/ActionCards/Action_Card_332015.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c0bc5e82e3c874f4cbfc0acba87f35eb
+    m_Address: Assets/Sources/SupportCards/Status_322010.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c1aaf93fa7465cb489b9d93b417cbcde
+    m_Address: Assets/SOAssets/ActionCards/322004.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c22e9e9cab5ac934ea2b0f9b984a1754
+    m_Address: Assets/Sources/ActionCards/Action_Card_332003.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c28a7afd8bf64d24c9a87a1b3847ed77
+    m_Address: Assets/Sources/UI/Tags/Card_Relic.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c2db59e85dd71e1408eb028fb057011b
+    m_Address: Assets/Sources/CardSnapshots/Action_Card_321003.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c2e390d326f558f4389a13f57368c9fe
+    m_Address: Assets/Sources/StatusCards/Status_Common_Barrier.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c2ed62dd15385324b9206ef3b7cf66b6
+    m_Address: Assets/Sources/ActionCards/Action_Card_312004.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c2ff83301e5291943adddfa9b4ef50b6
+    m_Address: Assets/SOAssets/ActionCards/332001.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c4687d71d3731174b810e0b9d447991b
+    m_Address: Assets/Sources/UI/Tags/Element_Geo.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c497f6b47e6d5d044a935df60badc722
+    m_Address: Assets/Sources/CardSnapshots/Action_Card_312001.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c53a4ad7f77cfb34ab454977b857fab4
+    m_Address: Assets/Sources/SupportCards/Status_322003.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c5618a66a2fd1a4499e6f3bd86d17319
+    m_Address: Assets/Sources/UI/Costs/Cost_Anemo.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c591200cc3bd0994e8cb2e026c29fc61
+    m_Address: Assets/SOAssets/ActionCards/311304.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c59b1106ad45c2f47bfb55b8ed99a2d2
+    m_Address: Assets/Sources/UI/Costs/Cost_Icon_Any.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c5f1a3b77b0fb944092ae1e678cfa756
+    m_Address: Assets/Sources/ActionCards/Action_Card_333008.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c63952899563ede45a160b0be7ce0d33
+    m_Address: Assets/Sources/CardSnapshots/Action_Card_332007.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c68fc56a8f60760429cfcbf6dca5864a
+    m_Address: Assets/Sources/ActionCards/Action_Card_311202.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c69ab1b672b0699459205241be8aab6d
+    m_Address: Assets/SOAssets/StatusCards/111011.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c7029f73fd4b2f24cbd41ea22ceaab59
+    m_Address: Assets/Sources/ActionCards/Action_Card_125012.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c729b5127d2bf0749b761b16cf04e196
+    m_Address: Assets/Sources/SummonCards/Status_111012.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c938d22957805094e837b691f44a9289
+    m_Address: Assets/Sources/StatusCards/Status_Common_Frozen.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ca3b5383d3b056841a28d25d4d42976e
+    m_Address: Assets/SOAssets/ActionCards/332008.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ca9cfb1497efebe40a39e045065f9ce4
+    m_Address: Assets/SOAssets/ActionCards/311401.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cbb09384926b1044d96bd1aea9d61dfe
+    m_Address: Assets/Sources/CardSnapshots/Action_Card_331602.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ccf0c63673f0ad4418348e4e64fe60fb
+    m_Address: Assets/Sources/SupportCards/Status_321003.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cd7d7204642bac7438e19889d8d02610
+    m_Address: Assets/Sources/Characters/Character_Cardface_1601.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ce58cf6d2b095794387f728bf439555b
+    m_Address: Assets/SOAssets/ActionCards/331502.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ce6d295adea7ccf44ac5839f310dafdf
+    m_Address: Assets/Sources/ActionCards/Action_Card_331502.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ce8bb7671be9dd84f8f117d8a5f1e3bf
+    m_Address: Assets/SOAssets/ActionCards/332009.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cee5ca0ae24e9864894c04fbacdd8719
+    m_Address: Assets/SOAssets/ActionCards/331301.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cf0080e502110b44c9d204ce8bc17824
+    m_Address: Assets/Sources/ActionCards/Action_Card_331501.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cf552512696689c48bdc41ccbb0dc523
+    m_Address: Assets/SOAssets/ActionCards/321001.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d05e4c70f1dd87a4fb601fa950bb4803
+    m_Address: Assets/Sources/ActionCards/Action_Card_322002.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d0d3d714b50cc8d498a88d1f6f760a9a
+    m_Address: Assets/Sources/CardSnapshots/Action_Card_321006.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d0d3e39294750fd4d9cde61775efede9
+    m_Address: Assets/SOAssets/ActionCards/331202.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d10d9674681a9824fbf1fb2c2fabd78d
+    m_Address: Assets/Sources/UI/Elements/Pure_Anemo.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d13281c27ceffe04295b344e5dbb9401
+    m_Address: Assets/Sources/UI/Elements/Element_Cryo.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d14d9ec85304b1742aceaebcd62f3d29
+    m_Address: Assets/SOAssets/ActionCards/312001.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d19011c0749265a48a4ffa1cda9246a4
+    m_Address: Assets/SOAssets/StatusCards/301102.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d23e8e9facf42034bb720d9f90810c70
+    m_Address: Assets/Sources/ActionCards/Action_Card_331301.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d24c34120b0c461499482d29bff2be30
+    m_Address: Assets/Sources/UI/Tags/Nation_Liyue.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d2e2b11479a27364ebc5b96574a6dadc
+    m_Address: Assets/SOAssets/ActionCards/311501.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d2eec5ae75bf13b4e8bd3ff62bd10e5d
+    m_Address: Assets/Sources/UI/Lifes/Equip_Talent.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d3aaab00f77ce4d43904dcfbc795cbbf
+    m_Address: Assets/Sources/CardSnapshots/Action_Card_331601.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d415cec59d00bda40b84275740ba5f1a
+    m_Address: Assets/SOAssets/ActionCards/114011.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d4538cf5cd705134c8c76cfe6b493ed2
+    m_Address: Assets/SOAssets/ActionCards/312602.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d4a24116b3693a04fa9b0cc52f5e45e6
+    m_Address: Assets/SOAssets/ActionCards/311403.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d4ca1483572c3ce45b2fcceda0ce258f
+    m_Address: Assets/Sources/ActionCards/Action_Card_333004.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d55bbc80bf50d1045ad5a73d996ffd95
+    m_Address: Assets/SOAssets/ActionCards/312005.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d694b2c0f935bbe45b79a5b23f1e1698
+    m_Address: Assets/Sources/ActionCards/Action_Card_322003.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d69b40962d4caa6438de95d44da59d73
+    m_Address: Assets/Sources/SupportCards/Status_322011.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d7a5d62521199d54191bc8cbf326be4c
+    m_Address: Assets/Sources/ActionCards/Action_Card_332008.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d81aa05e827e5fd4b85f4f259c5d448b
+    m_Address: Assets/Sources/ActionCards/Action_Card_332010.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d881897957ebe0b4484a60b88e96294b
+    m_Address: Assets/Sources/CardSnapshots/Action_Card_333002.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d8a3ade275091694597115e98d898c47
+    m_Address: Assets/Sources/UI/Elements/Heal.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d8bc144f3c016dc4bb7bfa343a72e661
+    m_Address: Assets/Sources/UI/Costs/Cost_Any_Small.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d8fe4612e48b4b848b22464dc78e0de1
+    m_Address: Assets/Sources/CardSnapshots/Action_Card_312501.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d9002c285feb746478ac6b73118d1b2c
+    m_Address: Assets/SOAssets/StatusCards/303004.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d90c2c1b095a0cd41acae5b7bc303611
+    m_Address: Assets/Sources/CardSnapshots/Action_Card_311103.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d90ed8513e4091840b004586917a375e
+    m_Address: Assets/Sources/CardSnapshots/Action_Card_323002.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d99609d573b272a47a5a976e85a92950
+    m_Address: Assets/Sources/ActionCards/Action_Card_311102.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: da156c056d99ba545bc050d8fa9acd92
+    m_Address: Assets/Sources/UI/Costs/Cost_Diff_Small.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: da803bcd7a9866248b8a629516485213
+    m_Address: Assets/Sources/StatusCards/Status_Common_Heal.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: daaf25f639ddfb14bb945cf0bf618a35
+    m_Address: Assets/Sources/ActionCards/Action_Card_125011.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dbf6343de23154644af359eefe604b8b
+    m_Address: Assets/SOAssets/CardPoolPreset/weird.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dcb0370b9b96a584e89e4854ff240604
+    m_Address: Assets/Sources/CardSnapshots/Action_Card_322006.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: de8978475654a394f9569bf1fea66e5d
+    m_Address: Assets/Sources/UI/Tags/Nation_Fontaine.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: de91c34ab76942243abfdf63d44bd1be
+    m_Address: Assets/Sources/UI/Tags/Arkhe_Pneuma.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: df593cab6c4f33249b9c97efac8131aa
+    m_Address: Assets/Sources/ActionCards/Action_Card_117011.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e02c240294eeabf4a918629b3d6d8c51
+    m_Address: Assets/Sources/CardSnapshots/Action_Card_312502.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e0649cc3c53a69847bedc76ba7453629
+    m_Address: Assets/Sources/Avatars/Avatar_1501.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e0f3bf2463df26b4aa07299068941c25
+    m_Address: Assets/SOAssets/CharacterCards/1701.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e129ed95191c1954b9e520b8a8cb4933
+    m_Address: Assets/Sources/Characters/Character_Cardface_1401.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e24ecdae382409b43916acedbf9d0f0d
+    m_Address: Assets/Sources/ActionCards/Action_Card_332005.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e33017da346499e4ca71c06f1614d297
+    m_Address: Assets/SOAssets/ActionCards/331401.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e3ed3c5d92a7fbb4889987d8bbd40630
+    m_Address: Assets/Sources/UI/Costs/Cost_Cryo_Small.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e40c1946dc36d3247b821775b513b2d3
+    m_Address: Assets/Sources/ActionCards/Action_Card_312006.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e43a362c1d9a95241a8c098e2e707f9f
+    m_Address: Assets/SOAssets/ActionCards/322007.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e4e5250136b99724bbad48fa6e9d0b13
+    m_Address: Assets/Sources/UI/Elements/Pure_Hydro.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e586e95a46c65ac449a867edca1f3d01
+    m_Address: Assets/Sources/UI/Elements/Element_Dendro.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e6611485bf3a0934c87bf1a6e83df9f1
+    m_Address: Assets/Sources/ActionCards/Action_Card_333003.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e6851cc546250ac4fb3086f380fd1fd6
+    m_Address: Assets/Sources/UI/Costs/Cost_Icon_Geo.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e7cf4df980ff2d74585bb18fa9fb7911
+    m_Address: Assets/Sources/SupportCards/Status_322008.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e85205e2308f5654498610e0b52d2925
+    m_Address: Assets/SOAssets/ActionCards/322012.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e873f99c095892f4d89000ae8540e490
+    m_Address: Assets/SOAssets/ActionCards/311101.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e8df892d81ebfb84dbe51b675688607b
+    m_Address: Assets/Sources/ActionCards/Action_Card_312702.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ec45382f4b1353145a3454689b341cbd
+    m_Address: Assets/Sources/UI/Elements/Pure_Electro.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: eca37b4cf21cf9c4cb1b8b01ff0a1281
+    m_Address: Assets/Sources/UI/Costs/Cost_Cryo_Outline.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ecd894efcce69d94f86b2e42768da0bb
+    m_Address: Assets/Sources/CardSnapshots/Action_Card_333001.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ecf77231d110773409b5fba297cd97ca
+    m_Address: Assets/Sources/UI/Elements/Element_Hydro.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ed348b7820f40ef46801809324c4728a
+    m_Address: Assets/Sources/UI/Lifes/Hint_Counter.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ed486bf33515bb54bb2cd1e8e9a10aef
+    m_Address: Assets/Sources/ActionCards/Action_Card_321002.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ed49afc174c0643439675e369a995f4c
+    m_Address: Assets/Sources/CardSnapshots/Action_Card_321002.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ed60181cad6e0064e989b40a87b24eb1
+    m_Address: Assets/SOAssets/ActionCards/312302.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ed8f4803e49fc2349b98a5c80f8eb6bb
+    m_Address: Assets/Sources/UI/Costs/Cost_Same_Small.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ee4b21b266828c04fa193be3c513e0f3
+    m_Address: Assets/Sources/UI/Tags/Arkhe_Ousia.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ee7364974dac4284bb6b8153dc9622d9
+    m_Address: Assets/Sources/UI/Costs/Cost_Anemo_Small.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ef27f5cf0d601504dac86a0a2609a847
+    m_Address: Assets/Sources/UI/Elements/Pure_Geo.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: efca4af54cf35084e8eaf178dd916e85
+    m_Address: Assets/SOAssets/StatusCards/321005.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: eff07360b2fba554d8aabd227cefcd1a
+    m_Address: Assets/Sources/UI/Elements/Physics.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f01eba68777118145b8f200d5595b2fe
+    m_Address: Assets/SOAssets/ActionCards/321003.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f02b86f42163c9347ac1cd58d7fec27f
+    m_Address: Assets/Sources/SummonCards/Status_112011.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f09bee0401831ce4397e6562a71b460c
+    m_Address: Assets/Sources/SupportCards/Status_321004.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f0c1a3250c137bb40ad44907624cab4a
+    m_Address: Assets/Sources/CardSnapshots/Action_Card_322012.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f1454528234e72c47a433cd4695e49fb
+    m_Address: Assets/SOAssets/ActionCards/311502.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f1564427100727e40b2c24c29c408f9c
+    m_Address: Assets/SOAssets/ActionCards/331102.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f1af2948c479aef4a87185546cd7ef79
+    m_Address: Assets/Sources/ActionCards/Action_Card_333001.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f20ca5de8673e764ab3cadd0f459cd77
+    m_Address: Assets/Sources/UI/Costs/Cost_Geo_Small.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f234eb615455a384c95c911fc971855e
+    m_Address: Assets/SOAssets/CharacterCards/1301.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f28578086f3c28047ab69266a44f2ba0
+    m_Address: Assets/Sources/CardSnapshots/Action_Card_332011.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f3d8d926cd0e3c94ab99ca72e2208735
+    m_Address: Assets/Sources/CardSnapshots/Action_Card_311102.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f3fb18d487e26734d914dfc68a6760cb
+    m_Address: Assets/Sources/UI/Tags/Camp_Eremite.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f40537bc05fe2404e9fa7f2bbf21f39c
+    m_Address: Assets/Sources/UI/Elements/Element_Electro.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f4a174fe260c8104d90eb7ead0e93d44
+    m_Address: Assets/Sources/ActionCards/Action_Card_312003.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f557bbc5c5b3ac146ac90c8ef4cb0257
+    m_Address: Assets/Sources/ActionCards/Action_Card_332002.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f5a7c9d66a5fd6c408b29805a7916e53
+    m_Address: Assets/Sources/ActionCards/Action_Card_321006.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f5a9bf7a9664c5f4e8b4f44dc97bdc0b
+    m_Address: Assets/SOAssets/CharacterCards/2501.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f5fb8edaf71a56f49a339c0b37bee692
+    m_Address: Assets/Sources/Characters/Character_Card_1104.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f63543ddf8ec01e43a24146c7a0ac72a
+    m_Address: Assets/Sources/UI/Tags/Weapon_Bow.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f680a900783cbf34cbf10baa74c63562
+    m_Address: Assets/SOAssets/ActionCards/332012.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f718ddc1ee10f564194faca2868fd5ed
+    m_Address: Assets/Sources/SummonCards/Status_134.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f72c6167f461dfa47a3b8583a6e835c4
+    m_Address: Assets/Sources/CardSnapshots/Action_Card_322011.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f7976e302a6e438429252070d2541cf7
+    m_Address: Assets/Sources/UI/Costs/Cost_Cryo.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f808ffed89df9ac4d845cf6e68a82934
+    m_Address: Assets/Sources/ActionCards/Action_Card_312001.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f82933ab63b17224aa8f38387d84a760
+    m_Address: Assets/Sources/ActionCards/Action_Card_331402.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f862dc8781fc9074ca9a95b3c2d7c8c9
+    m_Address: Assets/Sources/CardSnapshots/Action_Card_331402.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f87d4a0d9b706dd40b8b57ab4c2a4060
+    m_Address: Assets/Sources/UI/Tags/Element_Anemo.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f970ee60ee9393240986f19527513be6
+    m_Address: Assets/Sources/CardSnapshots/Action_Card_331401.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f99d3173b457f7b4f94bae6d8b68b266
+    m_Address: Assets/Sources/CardSnapshots/Action_Card_322004.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f9d1fdab198e13a499aa3f576f0d7646
+    m_Address: Assets/SOAssets/ActionCards/312401.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fa1fd2f9fb25064418995d0db647289f
+    m_Address: Assets/Sources/UI/Costs/Cost_Icon_Dendro.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fa3e4463f23c9d24ab6ad24fd8af715f
+    m_Address: Assets/SOAssets/ActionCards/332010.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fab770448782156469741e690a3a2256
+    m_Address: Assets/Sources/ActionCards/Action_Card_321003.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fb0e393dbf3a9e44b955680599b0a4ae
+    m_Address: Assets/Sources/UI/Elements/Element_Pyro.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fb3b1930689e0274d80a5f14ce0613a3
+    m_Address: Assets/Sources/ActionCards/Action_Card_312701.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fca71c9cf77913941999d2c99b3ef262
+    m_Address: Assets/Sources/Avatars/Avatar_1701.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fd3674a31fdc8c64fb107d8cd232b6e1
+    m_Address: Assets/Sources/UI/Tags/Element_Pyro.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fd48addfbeaf0634d94b45aa7db916d5
+    m_Address: Assets/Sources/CardSnapshots/Action_Card_312302.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fd6000cbd4ed43449a04ffe3881c88eb
+    m_Address: Assets/Sources/SupportCards/Status_322004.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fe1909f8cf765b642946084674d0b6c5
+    m_Address: Assets/SOAssets/ActionCards/311503.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fe6f848bb5759be46aa2033969ce2e53
+    m_Address: Assets/Sources/CardSnapshots/Action_Card_321005.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: feca56838e28d564bbb1bb4413a422fa
+    m_Address: Assets/Sources/SupportCards/Status_323002.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ffba30eb520d33b4ea3d026389ae82b7
+    m_Address: Assets/Sources/ActionCards/Action_Card_115.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: f8fbb7965a34f774f9fb84882cdb246f, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 5243bbd9392d2a04280745020ff418c9, type: 2}
+    - {fileID: 11400000, guid: c57b94891a11dea40adf4b91fc3c6737, type: 2}

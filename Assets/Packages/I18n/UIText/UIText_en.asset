@@ -1,0 +1,1219 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: UIText_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 143ba8b19672b4e40bbee4f51bf5d306, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 253916659712
+    m_Localized: Switch
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2634668321845248
+    m_Localized: Support Card
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2634670863593472
+    m_Localized: Equipment Card
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2634673199820800
+    m_Localized: Event Card
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2635679795032064
+    m_Localized: Detailed Rules
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3589365049647104
+    m_Localized: Normal Attack
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3589367008387072
+    m_Localized: Elemental Skill
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3589369034235904
+    m_Localized: <u>Elemental Burst</u>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4816961968955392
+    m_Localized: Insufficient Energy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4816964225490944
+    m_Localized: Insufficient Elemental Dice
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6495868746817536
+    m_Localized: Play Card
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6495870059634688
+    m_Localized: Elemental Tuning
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6495871288565760
+    m_Localized: 'Elemental Tuning: $[Sub]'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5906100103806976
+    m_Localized: 'Play Card: $[Sub]'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6962264979668992
+    m_Localized: '<color=#99FFFF>Cryo</color>
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6962267815018496
+    m_Localized: <color=#80C0FF>Hydro</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6962268620324864
+    m_Localized: <color=#FF9999>Pyro</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6962269446602752
+    m_Localized: <color=#FFACFF>Electro</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6962270222548992
+    m_Localized: <color=#FFE699>Geo</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6962270939774976
+    m_Localized: <color=#7EC236>Dendro</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6962273892564992
+    m_Localized: <color=#80FFD7>Anemo</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8769225562370048
+    m_Localized: Insufficient Elemental Dice
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8762307267637248
+    m_Localized: No Elemental Dice that can be converted
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8769583030317056
+    m_Localized: No Valid Entity
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6495873855479808
+    m_Localized: Gained Equipment
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6496010627538944
+    m_Localized: Gained Status
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5905268566261760
+    m_Localized: ' $[Number] $[Sub] '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5905360597680128
+    m_Localized: Switch active entity
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6496036527366144
+    m_Localized: Team Combat Status
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8773872435965952
+    m_Localized: Your Support Zone is full, you must choose a Support Card to discard
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8762305753493504
+    m_Localized: This card cannot be used for Elemental Tuning
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8762375559294976
+    m_Localized: Prerequisite(s) not met
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8993379117019136
+    m_Localized: Switch selected entity to $[Sub]
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8993379272208384
+    m_Localized: Select a target to equip with this $[Sub]
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8993379272208385
+    m_Localized: Equip this to your $[Sub]
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8993379272208386
+    m_Localized: Equip this to your active $[Sub]
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8993379272208387
+    m_Localized: Affects your active $[Sub]
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8993379276402695
+    m_Localized: Confirm
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8993379276402696
+    m_Localized: active entity
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8993379276402697
+    m_Localized: <color=#FFD780>Same Element</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8993379276402698
+    m_Localized: <color=#FFFFFF>Any Element</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8993379276402699
+    m_Localized: You cannot play an Arcane Legend card again
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8993379276402700
+    m_Localized: Pay
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5058868227432448
+    m_Localized: It is not your turn
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13601033417785344
+    m_Localized: Login Authentication
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9453969078837248
+    m_Localized: Create Room
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13843203286499328
+    m_Localized: Join
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13843204850974720
+    m_Localized: '''s Room'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13944842521542656
+    m_Localized: Card Pool Preset
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13944956292038656
+    m_Localized: Weird
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13945002790092800
+    m_Localized: Official
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13949310063476736
+    m_Localized: Dice Mode
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13949311346933760
+    m_Localized: Standard Mode
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13949509502631936
+    m_Localized: 4 Omni + 4 Any Element
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13949898071343104
+    m_Localized: All Omni
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13971928762155008
+    m_Localized: Contemplation Time Pool
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14125566822318080
+    m_Localized: 120s Total + 10s Each Action
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13972008340684800
+    m_Localized: 70s Capped + 25s Action Refill
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14127886960295936
+    m_Localized: 20s Total + 5s Each Action
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14135533734330368
+    m_Localized: 240s Fixed
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14153358012186624
+    m_Localized: Creating...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14240944881795072
+    m_Localized: Game Mode
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14240956382576640
+    m_Localized: Standard Mode
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14241128193851392
+    m_Localized: Arena Mode
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14241241112903680
+    m_Localized: Draft Mode
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14524492352192512
+    m_Localized: Lobby
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14596725099409408
+    m_Localized: Operation
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14672637589401600
+    m_Localized: Enter UID...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14667762759577600
+    m_Localized: Use Other Account
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14668188938612736
+    m_Localized: Device detecting
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14668342664048640
+    m_Localized: Do you want to log in as user "{Name}"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14669043460943872
+    m_Localized: Create a new account
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14672636830232576
+    m_Localized: Your password (at least 8 characters)...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14672636066869248
+    m_Localized: Your  username
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14899177829040128
+    m_Localized: Register
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15622203818246144
+    m_Localized: Enter password...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15625648319102976
+    m_Localized: Login
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15636057587580928
+    m_Localized: The password must be longer than 8 characters
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15636836729880576
+    m_Localized: Hint
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15636878966521856
+    m_Localized: Error
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15642640660955136
+    m_Localized: This device has a registered account, please log in directly
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15656033581137920
+    m_Localized: Invalid UID or password
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15657618180800512
+    m_Localized: This account is not exist
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15679827251167232
+    m_Localized: General
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15691161820856320
+    m_Localized: Save
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15691217873534976
+    m_Localized: Log out
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15787992009539584
+    m_Localized: No active room now
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15989327732539392
+    m_Localized: <u>Passive Skill</u>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15989327820619776
+    m_Localized: Weird
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15989327820619777
+    m_Localized: Official
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15989327820619778
+    m_Localized: Std. Dice
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15989327820619779
+    m_Localized: Half Omni
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15989327824814080
+    m_Localized: All Omni
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15989327824814081
+    m_Localized: Standard
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15989327824814082
+    m_Localized: Arena
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15989327824814083
+    m_Localized: Draft
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15989327824814084
+    m_Localized: Banned Cards
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15989327829008384
+    m_Localized: Banned Cards
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16020993284898816
+    m_Localized: Enter room number to search...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16058788711890944
+    m_Localized: Loading...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16112323453386752
+    m_Localized: The room is full
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16796037301035008
+    m_Localized: The room does not exist
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16796037355560960
+    m_Localized: Network Connection Exception
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18649103100907520
+    m_Localized: You cannot leave the room you are not in.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18718311184699392
+    m_Localized: Deck Building
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18729314693779456
+    m_Localized: Waiting Player...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18729314697973760
+    m_Localized: Preparing...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18729314697973761
+    m_Localized: Now Waiting...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18729314697973762
+    m_Localized: Now Acting
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18729314697973763
+    m_Localized: End Phase
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18782357426638848
+    m_Localized: There is still player who are not ready for the game
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18782357430833152
+    m_Localized: Start Game
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18782357430833153
+    m_Localized: Ready
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18782357430833154
+    m_Localized: Unready
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18782357430833155
+    m_Localized: Prepared
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19448712926076928
+    m_Localized: Deck List
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19448712984797184
+    m_Localized: Create New Desk
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19806190040334336
+    m_Localized: You cannot change the deck after preparing the game
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19448712984797185
+    m_Localized: Exit Room
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19806190090665984
+    m_Localized: Invite
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19806190090665985
+    m_Localized: Settings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19806190090665986
+    m_Localized: Check Rules
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19818118401835008
+    m_Localized: $[Mode] mode is created in a room, the room number is $[Room], come
+      and play together!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19819500655689728
+    m_Localized: The room information has been copied to the clipboard
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19871082232082432
+    m_Localized: Initial Deck
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20665015798464512
+    m_Localized: Double click or right click the card to add it to the deck
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20671328968376320
+    m_Localized: $[Number] Card(s) Chosen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20671328972570624
+    m_Localized: Selected
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20986771256188928
+    m_Localized: You can only have 2 of each identical card in your deck
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20986771310714880
+    m_Localized: Card limited exceeded
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20986771310714881
+    m_Localized: You can only have 1 of this card in your deck
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20986771310714882
+    m_Localized: You have not met the condition(s) to add this to the deck
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20986771310714883
+    m_Localized: You can only have 1 of each identical Character Card in your deck
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21411247397871616
+    m_Localized: Mondstadt
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21411247460786176
+    m_Localized: Liyue
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21411247460786177
+    m_Localized: Inazuma
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21411247460786178
+    m_Localized: Sumeru
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21411247460786179
+    m_Localized: Fontaine
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21411247460786180
+    m_Localized: Natlan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21411247460786181
+    m_Localized: Snezhnaya
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21411247464980480
+    m_Localized: Fatui
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21411247464980481
+    m_Localized: Monster
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21411247464980482
+    m_Localized: Consecrated Beast
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21411247464980483
+    m_Localized: Hilichurl
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21411247464980484
+    m_Localized: Eremite
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21411247464980485
+    m_Localized: Kairagi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21411247464980486
+    m_Localized: 'Arkhe: Ousia'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21411247464980487
+    m_Localized: 'Arkhe: Pneuma'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21411247464980488
+    m_Localized: Bow
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21411247464980489
+    m_Localized: Sword
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21411247464980490
+    m_Localized: Pole
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21411247464980491
+    m_Localized: Claymore
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21411247464980492
+    m_Localized: Catalyst
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21411247464980493
+    m_Localized: Other Weapons
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21411247464980494
+    m_Localized: Talent
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21411247464980495
+    m_Localized: Ally
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21411247464980496
+    m_Localized: Location
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21411247464980497
+    m_Localized: Action
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21411247464980498
+    m_Localized: Item
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21411247464980499
+    m_Localized: Food
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21411247464980500
+    m_Localized: Arcane Legend
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21411247464980501
+    m_Localized: Relic
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21411247464980502
+    m_Localized: Weapon
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21411247464980503
+    m_Localized: Elemental Resonance
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22091086649491456
+    m_Localized: Save
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22091086695628800
+    m_Localized: Clear
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22114593898889216
+    m_Localized: Confirm
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22114593903083520
+    m_Localized: Cancel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22251161796083712
+    m_Localized: Edit Deck Name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22255934511382528
+    m_Localized: Enter deck name...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22259955720650752
+    m_Localized: My Deck
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22462641816600576
+    m_Localized: Deck name cannot be empty
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22475441678974976
+    m_Localized: Exit Editor
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22475441683169280
+    m_Localized: Deck does not meet usage requirements
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22475441683169281
+    m_Localized: Save Changes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22475441683169282
+    m_Localized: Discard Changes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22475441683169283
+    m_Localized: Some changes to your deck have yet to be saved. Would you like to
+      save them first before exiting?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22475441683169284
+    m_Localized: 'This deck does not meet usage requirements.
+
+      Save?'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22475441683169285
+    m_Localized: <color=#F39000>Your deck must contain 3 Character Cards</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22475441683169286
+    m_Localized: <color=#F39000>Your deck must include 30 Action Cards</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22475441683169287
+    m_Localized: <color=#F39000>Your deck contains card(s) that cannot be played</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22790189008158720
+    m_Localized: Saved
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22793481574547456
+    m_Localized: Set as Active Deck
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22793481574547457
+    m_Localized: Deck Design Settings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22793481574547458
+    m_Localized: Preview Deck
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22793481574547459
+    m_Localized: Copy Deck
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22793481574547460
+    m_Localized: Delete Deck
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22853580326305792
+    m_Localized: Deck already selected as Active
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22853580330500096
+    m_Localized: Set as Active Deck
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22859339537711104
+    m_Localized: Entry prerequisites not met
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22871027708198912
+    m_Localized: Copied
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22910243829841920
+    m_Localized: '<size=2></size>
+
+      (<color=#FFFFFF>Only <sprite=39>Bow Characters</color>
+      can equip this. A character can equip a maximum of 1 <sprite=20>Weapon)'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22910243838230528
+    m_Localized: '<size=2></size>
+
+      (<color=#FFFFFF>Only <sprite=41>Sword Characters</color>
+      can equip this. A character can equip a maximum of 1 <sprite=20>Weapon)'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22910243838230529
+    m_Localized: '<size=2></size>
+
+      (<color=#FFFFFF>Only <sprite=42>Polearm
+      Characters</color> can equip this. A character can equip a maximum of 1 <sprite=20>Weapon)'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22910243838230530
+    m_Localized: '<size=2></size>
+
+      (<color=#FFFFFF>Only <sprite=38>Claymore
+      Characters</color> can equip this. A character can equip a maximum of 1 <sprite=20>Weapon)'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22910243838230531
+    m_Localized: '<size=2></size>
+
+      (<color=#FFFFFF>Only <sprite=40>Catalyst
+      Characters</color> can equip this. A character can equip a maximum of 1 <sprite=20>Weapon)'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22910243838230532
+    m_Localized: '<size=2></size>
+
+      (You must have at least 2 <color=#99FFFF><sprite=13>Cryo</color>
+      characters in your deck to add this card to your deck.)'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22910243838230533
+    m_Localized: '<size=2></size>
+
+      (You must have at least 2 <color=#80C0FF><sprite=16>Hydro</color>
+      characters in your deck to add this card to your deck.)'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22910243838230534
+    m_Localized: '<size=2></size>
+
+      (You must have at least 2 <color=#FF9999><sprite=18>Pyro</color>
+      characters in your deck to add this card to your deck.)'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22910243838230535
+    m_Localized: '<size=2></size>
+
+      (You must have at least 2 <color=#FFACFF><sprite=15>Electro</color>
+      characters in your deck to add this card to your deck.)'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22910243838230536
+    m_Localized: '<size=2></size>
+
+      (You must have at least 2 <color=#80FFD7><sprite=12>Anemo</color>
+      characters in your deck to add this card to your deck.)'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22910243838230537
+    m_Localized: '<size=2></size>
+
+      (You must have at least 2 <color=#FFE699><sprite=17>Geo</color>
+      characters in your deck to add this card to your deck.)'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22910243838230538
+    m_Localized: '<size=2></size>
+
+      (You must have at least 2 <color=#7EC236><sprite=14>Dendro</color>
+      characters in your deck to add this card to your deck.)'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22910243838230539
+    m_Localized: '<size=2></size>
+
+      (You must have at least 2 <sprite=44>Monster
+      characters in your deck to add this card to your deck.)'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22910243838230540
+    m_Localized: '<size=2></size>
+
+      (You must have at least 2 <sprite=43>Fatui
+      characters in your deck to add this card to your deck.)'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22910243842424832
+    m_Localized: '<size=2></size>
+
+      (A character can equip a maximum of 1 <sprite=30>Artifact)'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22910243842424833
+    m_Localized: '<size=2></size>
+
+      (A character can only equip 1 <sprite=27>Technique
+      at a time)'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22910243842424834
+    m_Localized: '<size=2></size>
+
+      (Only one <sprite=20>"Arcane Legend" card
+      can be played for the entire match. This card will be in your starting hand.)'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22910243842424835
+    m_Localized: '<size=2></size>
+
+      (A character can consume at most 1 <sprite=33>Food
+      per Round)'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22944641186922496
+    m_Localized: Invalid
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22965321433481216
+    m_Localized: The card(s) not meeting the deck conditions have been returned
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22987166639587328
+    m_Localized: Are you sure you want to delete this deck?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23017125957468160
+    m_Localized: You cannot delete your last deck
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23021624935710720
+    m_Localized: <u>Elemental Burst</u>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23021624939905024
+    m_Localized: <u>Passive Skill</u>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23703533797900288
+    m_Localized: The game has already started
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23714878006099968
+    m_Localized: Starting...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24794949135499264
+    m_Localized: You start first
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24794949202608128
+    m_Localized: Your opponent start first
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24794949202608129
+    m_Localized: Your opponent is switching card(s)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24794949202608130
+    m_Localized: Starting Hand
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24794949202608131
+    m_Localized: Switch Hand
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24794949202608132
+    m_Localized: Select card(s) to switch
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25619470587396096
+    m_Localized: Select your first character
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25619470646116352
+    m_Localized: Rolls complete, entering Action Phase
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25619470646116353
+    m_Localized: Reroll
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25619470646116354
+    m_Localized: Reroll Result
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25619470646116355
+    m_Localized: Select dice to reroll
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30491424385531904
+    m_Localized: Set Active Character
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30517619063914496
+    m_Localized: Select your first character
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30517619068108800
+    m_Localized: Select a character to take the field
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30517619076497408
+    m_Localized: Choose a Character...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31307621409107968
+    m_Localized: Your opponent declares the end of their Round
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31307621472022528
+    m_Localized: I'm ending my Round
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31307621472022529
+    m_Localized: Your Turn
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31307621472022530
+    m_Localized: Your Opponent's Turn...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31307621472022531
+    m_Localized: Your opponent will start first
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31307621472022532
+    m_Localized: Roll Phase
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31307621472022533
+    m_Localized: Action Phase
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31307621472022534
+    m_Localized: End Phase
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31307621472022539
+    m_Localized: Round $[Number]
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31307621472022540
+    m_Localized: Go First in Next Round
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31307621472022541
+    m_Localized: End Round
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30491424444252160
+    m_Localized: You may reroll $[Times] more time(s)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31307621480411136
+    m_Localized: I'm ending my Round
+    m_Metadata:
+      m_Items: []
+  - m_Id: 30886395244576768
+    m_Localized: Your opponent is choosing their first character...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31307621472022535
+    m_Localized: You start first
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31307621472022536
+    m_Localized: Your opponent starts first
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31307621472022537
+    m_Localized: You attack first
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31307621472022538
+    m_Localized: Your opponent attacks first
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32097940817444864
+    m_Localized: Affects selected character
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32097940867776512
+    m_Localized: Select a Summon and subtract from its <color=#FFD780>Usage(s)</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32097940867776513
+    m_Localized: Select a Summon and restore its <color=#FFD780>Usage(s)</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32097940867776514
+    m_Localized: Select a card in the Support Zone, and <color=#FFD780>Discard</color>
+      it
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32722269066362880
+    m_Localized: Your turn continues...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32722269133471744
+    m_Localized: Your opponent's turn continues...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 32843972815749120
+    m_Localized: Select a dice to transform
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33166761556836352
+    m_Localized: You have not used your Arcane Legend card
+    m_Metadata:
+      m_Items: []
+  - m_Id: 33166761619750912
+    m_Localized: You have already used your Arcane Legend card
+    m_Metadata:
+      m_Items: []
+  - m_Id: 37942225425006592
+    m_Localized: Melt
+    m_Metadata:
+      m_Items: []
+  - m_Id: 37942225471143936
+    m_Localized: Superconduct
+    m_Metadata:
+      m_Items: []
+  - m_Id: 37942225471143937
+    m_Localized: Frozen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 37942225471143938
+    m_Localized: Vaporize
+    m_Metadata:
+      m_Items: []
+  - m_Id: 37942225471143939
+    m_Localized: Electro-Charged
+    m_Metadata:
+      m_Items: []
+  - m_Id: 37942225471143940
+    m_Localized: Bloom
+    m_Metadata:
+      m_Items: []
+  - m_Id: 37942225471143941
+    m_Localized: Overloaded
+    m_Metadata:
+      m_Items: []
+  - m_Id: 37942225471143942
+    m_Localized: Burning
+    m_Metadata:
+      m_Items: []
+  - m_Id: 37942225471143943
+    m_Localized: Quicken
+    m_Metadata:
+      m_Items: []
+  - m_Id: 37942225471143944
+    m_Localized: Swirl
+    m_Metadata:
+      m_Items: []
+  - m_Id: 37942225471143945
+    m_Localized: Swirl
+    m_Metadata:
+      m_Items: []
+  - m_Id: 37942225471143946
+    m_Localized: Swirl
+    m_Metadata:
+      m_Items: []
+  - m_Id: 37942225471143947
+    m_Localized: Swirl
+    m_Metadata:
+      m_Items: []
+  - m_Id: 37942225471143948
+    m_Localized: Crystallize
+    m_Metadata:
+      m_Items: []
+  - m_Id: 37942225471143949
+    m_Localized: Crystallize
+    m_Metadata:
+      m_Items: []
+  - m_Id: 37942225471143950
+    m_Localized: Crystallize
+    m_Metadata:
+      m_Items: []
+  - m_Id: 37942225475338240
+    m_Localized: Crystallize
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38254822426804224
+    m_Localized: Summon
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38688117413249024
+    m_Localized: Your opponent is choosing their character...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38712484377526272
+    m_Localized: Defeat
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38712484377526273
+    m_Localized: Victory
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38712484381720576
+    m_Localized: Back to Room
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38910956145868800
+    m_Localized: Game Over
+    m_Metadata:
+      m_Items: []
+  - m_Id: 38959089676582912
+    m_Localized: Effects on your active character
+    m_Metadata:
+      m_Items: []
+  - m_Id: 39784479110332416
+    m_Localized: Select the character who will eat this <color=#FFD780>Food</color>
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

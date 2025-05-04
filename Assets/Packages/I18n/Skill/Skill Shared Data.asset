@@ -1,0 +1,209 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: Skill Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: Skill
+  m_TableCollectionNameGuidString: abaa6d90f108a604fb661712bfad4773
+  m_Entries:
+  - m_Id: 66147043041280
+    m_Key: skill_description_normal_attack
+    m_Metadata:
+      m_Items: []
+  - m_Id: 66021687877632
+    m_Key: skill_name_11011
+    m_Metadata:
+      m_Items: []
+  - m_Id: 66113710907392
+    m_Key: skill_name_11012
+    m_Metadata:
+      m_Items: []
+  - m_Id: 66116013580288
+    m_Key: skill_name_11013
+    m_Metadata:
+      m_Items: []
+  - m_Id: 66118513385472
+    m_Key: skill_name_11014
+    m_Metadata:
+      m_Items: []
+  - m_Id: 66181788655616
+    m_Key: skill_description_11012
+    m_Metadata:
+      m_Items: []
+  - m_Id: 66183743201280
+    m_Key: skill_description_11013
+    m_Metadata:
+      m_Items: []
+  - m_Id: 66186154926080
+    m_Key: skill_description_11014
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19429467003944960
+    m_Key: skill_name_12011
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19429467054276608
+    m_Key: skill_name_12012
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19429467054276609
+    m_Key: skill_name_12013
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19429467054276610
+    m_Key: skill_description_12012
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19429467054276611
+    m_Key: skill_description_12013
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1010137007448064
+    m_Key: skill_name_13011
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1010138869719040
+    m_Key: skill_name_13012
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1010139654053888
+    m_Key: skill_name_13013
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1010140643909632
+    m_Key: skill_description_13012
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1010141663125504
+    m_Key: skill_description_13013
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1008902586032128
+    m_Key: skill_name_14011
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1008942947819520
+    m_Key: skill_name_14012
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1008959016198144
+    m_Key: skill_name_14013
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1008977802485760
+    m_Key: skill_description_14012
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1008999226990592
+    m_Key: skill_description_14013
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1607973699411968
+    m_Key: skill_name_15011
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1607975372939264
+    m_Key: skill_name_15012
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1607976148885504
+    m_Key: skill_name_15013
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1608230554394624
+    m_Key: skill_description_15012
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1608232425054208
+    m_Key: skill_description_15013
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1609264727154688
+    m_Key: skill_name_16011
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1609266119663616
+    m_Key: skill_name_16012
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1609267008856064
+    m_Key: skill_name_16013
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1610024282054656
+    m_Key: skill_description_16012
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1610025812975616
+    m_Key: skill_description_16013
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1610767470780416
+    m_Key: skill_name_17011
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1610768146063360
+    m_Key: skill_name_17012
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1610783014871040
+    m_Key: skill_name_17013
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1611183940001792
+    m_Key: skill_description_17012
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1611184564953088
+    m_Key: skill_description_17013
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19429467054276612
+    m_Key: skill_name_25011
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19429467054276613
+    m_Key: skill_name_25012
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19429467054276614
+    m_Key: skill_name_25013
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19429467054276615
+    m_Key: skill_name_25014
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19429467054276616
+    m_Key: skill_description_25012
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19429467054276617
+    m_Key: skill_description_25013
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19429467054276618
+    m_Key: skill_description_25014
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 8768545227351523330
+  references:
+    version: 2
+    RefIds:
+    - rid: 8768545227351523330
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables,
+        asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1737411528557

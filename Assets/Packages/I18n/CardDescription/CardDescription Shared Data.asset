@@ -1,0 +1,981 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: CardDescription Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: CardDescription
+  m_TableCollectionNameGuidString: e2240b25014c9e348b9e15d2867bf957
+  m_Entries:
+  - m_Id: 43619497347776512
+    m_Key: card_name_115
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43619497347776513
+    m_Key: card_description_115
+    m_Metadata:
+      m_Items: []
+  - m_Id: 182873952256
+    m_Key: card_name_1101
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7461789730136064
+    m_Key: card_name_111011
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7461795673464832
+    m_Key: card_name_111012
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7462884523171840
+    m_Key: card_description_111011
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7462911463186432
+    m_Key: card_description_111012
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26784245748989952
+    m_Key: card_name_1201
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26784245807710208
+    m_Key: card_name_112011
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26784245807710209
+    m_Key: card_description_112011
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5375527161856
+    m_Key: card_name_1102
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8372286344192000
+    m_Key: card_name_1301
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8368836940193792
+    m_Key: card_name_113011
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8368840002035712
+    m_Key: card_description_113011
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8372287891890176
+    m_Key: card_name_1401
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8365747814326272
+    m_Key: card_name_114011
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8365773542187008
+    m_Key: card_description_114011
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8971177073139712
+    m_Key: card_name_1501
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8967541442609152
+    m_Key: card_name_115011
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8967754878156800
+    m_Key: card_description_115011
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8971178385956864
+    m_Key: card_name_1601
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8967542046588928
+    m_Key: card_name_116011
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8967755415027712
+    m_Key: card_description_116011
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8971183784026112
+    m_Key: card_name_1701
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8967542663151616
+    m_Key: card_name_117011
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8967755977064448
+    m_Key: card_description_117011
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26784245807710210
+    m_Key: card_name_2501
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26784245807710211
+    m_Key: card_name_125011
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26784245811904512
+    m_Key: card_description_125011
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26784245811904513
+    m_Key: card_name_125012
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26784245811904514
+    m_Key: card_description_125012
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3868991883624448
+    m_Key: card_name_321001
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3869251343269888
+    m_Key: card_description_321001
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5462956027543552
+    m_Key: card_name_321002
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5462958871281664
+    m_Key: card_description_321002
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752365973504
+    m_Key: card_name_321003
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752416305152
+    m_Key: card_description_321003
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752416305153
+    m_Key: card_name_321004
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752416305154
+    m_Key: card_description_321004
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752416305155
+    m_Key: card_name_321005
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752416305156
+    m_Key: card_description_321005
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752416305157
+    m_Key: card_name_321006
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752416305158
+    m_Key: card_description_321006
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13754102484770816
+    m_Key: card_name_322001
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13754222701912064
+    m_Key: card_description_322001
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13754107186585600
+    m_Key: card_name_322002
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13754246089351168
+    m_Key: card_description_322002
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752416305159
+    m_Key: card_name_322003
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752420499456
+    m_Key: card_description_322003
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752420499457
+    m_Key: card_name_322004
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752420499458
+    m_Key: card_description_322004
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752420499459
+    m_Key: card_name_322005
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752420499460
+    m_Key: card_description_322005
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752420499461
+    m_Key: card_name_322006
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752420499462
+    m_Key: card_description_322006
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752420499463
+    m_Key: card_name_322007
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752420499464
+    m_Key: card_description_322007
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752420499465
+    m_Key: card_name_322008
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752420499466
+    m_Key: card_description_322008
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752420499467
+    m_Key: card_name_322009
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752420499468
+    m_Key: card_description_322009
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752420499469
+    m_Key: card_name_322010
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752420499470
+    m_Key: card_description_322010
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752420499471
+    m_Key: card_name_322011
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752424693760
+    m_Key: card_description_322011
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752424693761
+    m_Key: card_name_322012
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752424693762
+    m_Key: card_description_322012
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13754220961275904
+    m_Key: card_name_323001
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13754343992795136
+    m_Key: card_description_323001
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752424693763
+    m_Key: card_name_323002
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752424693764
+    m_Key: card_description_323002
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22512262572249091
+    m_Key: card_name_332001
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22512262572249092
+    m_Key: card_description_332001
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22512262572249093
+    m_Key: card_name_332002
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22512262576443392
+    m_Key: card_description_332002
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22512262576443393
+    m_Key: card_name_332003
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22512262576443394
+    m_Key: card_description_332003
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22512262576443395
+    m_Key: card_name_332004
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22512262576443396
+    m_Key: card_description_332004
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752424693765
+    m_Key: card_name_332005
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752424693766
+    m_Key: card_description_332005
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752424693767
+    m_Key: card_name_332006
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752424693768
+    m_Key: card_description_332006
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752424693769
+    m_Key: card_name_332007
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752424693770
+    m_Key: card_description_332007
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752424693771
+    m_Key: card_name_332008
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752424693772
+    m_Key: card_description_332008
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752424693773
+    m_Key: card_name_332009
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752424693774
+    m_Key: card_description_332009
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752428888064
+    m_Key: card_name_332010
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752428888065
+    m_Key: card_description_332010
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752428888066
+    m_Key: card_name_332011
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752428888067
+    m_Key: card_description_332011
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752428888068
+    m_Key: card_name_332012
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752428888069
+    m_Key: card_description_332012
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752428888070
+    m_Key: card_name_332013
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752428888071
+    m_Key: card_description_332013
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752428888072
+    m_Key: card_name_332014
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752433082368
+    m_Key: card_description_332014
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752433082369
+    m_Key: card_name_332015
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752433082370
+    m_Key: card_description_332015
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22521650276044800
+    m_Key: card_name_333001
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22521650280239104
+    m_Key: card_description_333001
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22521650280239105
+    m_Key: card_name_333002
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22521650280239106
+    m_Key: card_description_333002
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752433082371
+    m_Key: card_name_333003
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752433082372
+    m_Key: card_description_333003
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752433082373
+    m_Key: card_name_333004
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752433082374
+    m_Key: card_description_333004
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752433082375
+    m_Key: card_name_333005
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752433082376
+    m_Key: card_description_333005
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752433082377
+    m_Key: card_name_333006
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752433082378
+    m_Key: card_description_333006
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752433082379
+    m_Key: card_name_333007
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752433082380
+    m_Key: card_description_333007
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752433082381
+    m_Key: card_name_333008
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752433082382
+    m_Key: card_description_333008
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752433082383
+    m_Key: card_name_331101
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752433082384
+    m_Key: card_name_331201
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752433082385
+    m_Key: card_name_331301
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752433082386
+    m_Key: card_name_331401
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752433082387
+    m_Key: card_name_331501
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752437276672
+    m_Key: card_name_331601
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752437276673
+    m_Key: card_name_331701
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752437276674
+    m_Key: card_description_331101
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752437276675
+    m_Key: card_description_331201
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752437276676
+    m_Key: card_description_331301
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752437276677
+    m_Key: card_description_331401
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752437276678
+    m_Key: card_description_331501
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752437276679
+    m_Key: card_description_331601
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752437276680
+    m_Key: card_description_331701
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752437276681
+    m_Key: card_name_331102
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752437276682
+    m_Key: card_name_331202
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752441470976
+    m_Key: card_name_331302
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752441470977
+    m_Key: card_name_331402
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752441470978
+    m_Key: card_name_331502
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752441470979
+    m_Key: card_name_331602
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752441470980
+    m_Key: card_name_331702
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752441470981
+    m_Key: card_description_331102
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752441470982
+    m_Key: card_description_331202
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752441470983
+    m_Key: card_description_331302
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752445665280
+    m_Key: card_description_331402
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752445665281
+    m_Key: card_description_331502
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752445665282
+    m_Key: card_description_331602
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752445665283
+    m_Key: card_description_331702
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22512262576443397
+    m_Key: card_name_312001
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22512262576443398
+    m_Key: card_description_312001
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22512262576443399
+    m_Key: card_name_312002
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22512262576443400
+    m_Key: card_description_312002
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22512262576443401
+    m_Key: card_name_312003
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22512262576443402
+    m_Key: card_description_312003
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22512262576443403
+    m_Key: card_name_312004
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22512262576443404
+    m_Key: card_description_312004
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752445665284
+    m_Key: card_name_312005
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752445665285
+    m_Key: card_description_312005
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752449859584
+    m_Key: card_name_312006
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752449859585
+    m_Key: card_description_312006
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752449859586
+    m_Key: card_name_312101
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752449859587
+    m_Key: card_description_312101
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752449859588
+    m_Key: card_name_312102
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752449859589
+    m_Key: card_description_312102
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752449859590
+    m_Key: card_name_312201
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752449859591
+    m_Key: card_description_312201
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752449859592
+    m_Key: card_name_312202
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752449859593
+    m_Key: card_description_312202
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752454053888
+    m_Key: card_name_312301
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752454053889
+    m_Key: card_description_312301
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752454053890
+    m_Key: card_name_312302
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752454053891
+    m_Key: card_description_312302
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752454053892
+    m_Key: card_name_312401
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752454053893
+    m_Key: card_description_312401
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752454053894
+    m_Key: card_name_312402
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752454053895
+    m_Key: card_description_312402
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752454053896
+    m_Key: card_name_312501
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752454053897
+    m_Key: card_description_312501
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752454053898
+    m_Key: card_name_312502
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752454053899
+    m_Key: card_description_312502
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752454053900
+    m_Key: card_name_312601
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752458248192
+    m_Key: card_description_312601
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752458248193
+    m_Key: card_name_312602
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752458248194
+    m_Key: card_description_312602
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752458248195
+    m_Key: card_name_312701
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752458248196
+    m_Key: card_description_312701
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752458248197
+    m_Key: card_name_312702
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752458248198
+    m_Key: card_description_312702
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22512262576443405
+    m_Key: card_name_311101
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22512262576443406
+    m_Key: card_description_311101
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752458248199
+    m_Key: card_name_311102
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752458248200
+    m_Key: card_description_311102
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752458248201
+    m_Key: card_name_311103
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752458248202
+    m_Key: card_description_311103
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22512262576443407
+    m_Key: card_name_311201
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22512262576443408
+    m_Key: card_description_311201
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752458248203
+    m_Key: card_name_311202
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752458248204
+    m_Key: card_description_311202
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752458248205
+    m_Key: card_name_311203
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752458248206
+    m_Key: card_description_311203
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22512262576443409
+    m_Key: card_name_311301
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22512262576443410
+    m_Key: card_description_311301
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752462442496
+    m_Key: card_name_311302
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752462442497
+    m_Key: card_description_311302
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752462442498
+    m_Key: card_name_311303
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752466636800
+    m_Key: card_description_311303
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752466636801
+    m_Key: card_name_311304
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25751997436264448
+    m_Key: card_description_311304
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22512262576443411
+    m_Key: card_name_311401
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22512262576443412
+    m_Key: card_description_311401
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752466636802
+    m_Key: card_name_311403
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752466636803
+    m_Key: card_description_311403
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22512262576443413
+    m_Key: card_name_311501
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22512262576443414
+    m_Key: card_description_311501
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752466636804
+    m_Key: card_name_311502
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752466636805
+    m_Key: card_description_311502
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752466636806
+    m_Key: card_name_311503
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752466636807
+    m_Key: card_description_311503
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752466636808
+    m_Key: card_name_311504
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25717752466636809
+    m_Key: card_description_311504
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43613764120084480
+    m_Key: card_name_303000
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43613764195581952
+    m_Key: card_name_303001
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43613764195581953
+    m_Key: card_name_303002
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43613764195581954
+    m_Key: card_name_303003
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43613764195581955
+    m_Key: card_name_303004
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43613764195581956
+    m_Key: card_name_303007
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43613764195581957
+    m_Key: card_name_303008
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43615999889637376
+    m_Key: card_description_303000
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43613764195581958
+    m_Key: card_description_303001
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43613764199776256
+    m_Key: card_description_303002
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43613764199776257
+    m_Key: card_description_303003
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43613764199776258
+    m_Key: card_description_303004
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43613764199776259
+    m_Key: card_description_303007
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43613764199776260
+    m_Key: card_description_303008
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43613764199776261
+    m_Key: card_name_301102
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43613764199776262
+    m_Key: card_name_301302
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43613764199776263
+    m_Key: card_name_301502
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43613764199776264
+    m_Key: card_name_301602
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43613764199776265
+    m_Key: card_name_301702
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43613764199776266
+    m_Key: card_description_301102
+    m_Metadata:
+      m_Items: []
+  - m_Id: 43613764199776267
+    m_Key: card_description_301302
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 2253219999606898688
+  references:
+    version: 2
+    RefIds:
+    - rid: 2253219999606898688
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables,
+        asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1735657688787

@@ -1,0 +1,733 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Keyword_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 198f511de70bfa54b9ab8f4a85e8d43a, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 1631790292852740
+    m_Localized: 'Spend the <color=#FFACFF><sprite=0>Electro</color> Dice you have
+      rolled to pay for this cost.
+
+      (<sprite=9>Omni Dice may also be used to
+      pay for this.)'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1631790292852736
+    m_Localized: <color=#FFFFFF><sprite=9>Omni Element</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1624193347149824
+    m_Localized: <sprite=11>Arcane Edict
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1624120659861504
+    m_Localized: <color=#FFACFF><sprite=0>Electro</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1624112187367424
+    m_Localized: <color=#FF9999><sprite=1>Pyro</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1623577430384640
+    m_Localized: <color=#80C0FF><sprite=5>Hydro</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1623572711792640
+    m_Localized: <color=#99FFFF><sprite=2>Cryo</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19873464876924939
+    m_Localized: '<sprite=14><sprite=16><color=#FFFFFF>Bloom</color>: DMG +1, creates
+      1 <color=#FFFFFF>Dendro Core</color>
+
+      <sprite=14><sprite=18><color=#FFFFFF>Burning</color>:
+      DMG +1, summons 1 <color=#FFFFFF>Burning Flame</color>
+
+      <sprite=14><sprite=15><color=#FFFFFF>Quicken</color>:
+      DMG +1, creates 1 <color=#FFFFFF>Catalyzing Field</color>'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19873464876924938
+    m_Localized: '<sprite=17><sprite=13><color=#FFFFFF>Cryo Crystallize</color>:
+      DMG +1, creates 1 <color=#FFFFFF>Crystallize</color>
+
+      <sprite=17><sprite=16><color=#FFFFFF>Hydro
+      Crystallize</color>: DMG +1, creates 1 <color=#FFFFFF>Crystallize</color>
+
+      <sprite=17><sprite=18><color=#FFFFFF>Pyro
+      Crystallize</color>: DMG +1, creates 1 <color=#FFFFFF>Crystallize</color>
+
+      <sprite=17><sprite=15><color=#FFFFFF>Electro
+      Crystallize</color>: DMG +1, creates 1 <color=#FFFFFF>Crystallize</color>'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19873464876924937
+    m_Localized: '<sprite=12><sprite=13><color=#FFFFFF>Cryo Swirl</color>: Deals
+      1 Cryo DMG to adjacent characters
+
+      <sprite=12><sprite=16><color=#FFFFFF>Hydro
+      Swirl</color>: Deals 1 Hydro DMG to adjacent characters
+
+      <sprite=12><sprite=18><color=#FFFFFF>Pyro
+      Swirl</color>: Deals 1 Pyro DMG to adjacent characters
+
+      <sprite=12><sprite=15><color=#FFFFFF>Electro
+      Swirl</color>: Deals 1 Electro DMG to adjacent characters'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19873464876924936
+    m_Localized: '<sprite=15><sprite=18><color=#FFFFFF>Overloaded</color>: DMG +2,
+      the target is forcibly switched to the next character
+
+      <sprite=15><sprite=13><color=#FFFFFF>Superconduct</color>:
+      DMG +1, deal 1 Piercing DMG to adjacent characters
+
+      <sprite=15><sprite=16><color=#FFFFFF>Electro-Charged</color>:
+      DMG +1, deal 1 Piercing DMG to adjacent characters
+
+      <sprite=15><sprite=14><color=#FFFFFF>Quicken</color>:
+      DMG +1, creates 1 <color=#FFFFFF>Catalyzing Field</color>
+
+      <sprite=15><sprite=12><color=#FFFFFF>Electro
+      Swirl</color>: Deals 1 Electro DMG to adjacent characters
+
+      <sprite=15><sprite=17><color=#FFFFFF>Electro
+      Crystallize</color>: DMG +1, creates 1 <color=#FFFFFF>Crystallize</color>'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1631790292852739
+    m_Localized: 'Spend the <color=#FF9999><sprite=1>Pyro</color> Dice you have rolled
+      to pay for this cost.
+
+      (<sprite=9>Omni Dice may also be used to pay for
+      this.)'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1631790292852738
+    m_Localized: 'Spend the <color=#80C0FF><sprite=5>Hydro</color> Dice you have
+      rolled to pay for this cost.
+
+      (<sprite=9>Omni Dice may also be used to
+      pay for this.)'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1631790292852737
+    m_Localized: 'Spend the <color=#99FFFF><sprite=2>Cryo</color> Dice you have rolled
+      to pay for this cost.
+
+      (<sprite=9>Omni Dice may also be used to pay for
+      this.)'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1624178226683904
+    m_Localized: <color=#FFFFFF><sprite=10>Energy</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1624168357486592
+    m_Localized: <color=#FFFFFF><sprite=8>Unaligned Element</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19873464876924931
+    m_Localized: <color=#FFE699>Geo-Related Reactions</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19873464876924934
+    m_Localized: '<sprite=16><sprite=18><color=#FFFFFF>Vaporize</color>: DMG +2
+
+      <sprite=16><sprite=15><color=#FFFFFF>Electro-Charged</color>:
+      DMG +1, deal 1 Piercing DMG to adjacent characters
+
+      <sprite=16><sprite=13><color=#FFFFFF>Frozen</color>:
+      DMG +1, the target character receives <color=#FFFFFF>Frozen</color>
+
+      <sprite=16><sprite=14><color=#FFFFFF>Bloom</color>:
+      DMG +1, creates 1 <color=#FFFFFF>Dendro Core</color>
+
+      <sprite=16><sprite=12><color=#FFFFFF>Hydro
+      Swirl</color>: Deals 1 Hydro DMG to adjacent characters
+
+      <sprite=16><sprite=17><color=#FFFFFF>Hydro
+      Crystallize</color>: DMG +1, creates 1 <color=#FFFFFF>Crystallize</color>'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19873464876924933
+    m_Localized: '<sprite=13><sprite=18><color=#FFFFFF>Melt</color>: DMG +2
+
+      <sprite=13><sprite=15><color=#FFFFFF>Superconduct</color>:
+      DMG +1, deal 1 Piercing DMG to adjacent characters
+
+      <sprite=13><sprite=16><color=#FFFFFF>Frozen</color>:
+      DMG +1, the target character receives <color=#FFFFFF>Frozen</color>
+
+      <sprite=13><sprite=12><color=#FFFFFF>Cryo
+      Swirl</color>: Deals 1 Cryo DMG to adjacent characters
+
+      <sprite=13><sprite=17><color=#FFFFFF>Cryo
+      Crystallize</color>: DMG +1, creates 1 <color=#FFFFFF>Crystallize</color>'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19873464876924932
+    m_Localized: <color=#7EC236>Dendro-Related Reactions</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19873464876924928
+    m_Localized: <color=#FF9999>Pyro-Related Reactions</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19873464876924929
+    m_Localized: <color=#FFACFF>Electro-Related Reactions</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19873464876924930
+    m_Localized: <color=#80FFD7>Anemo-Related Reactions</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19873464876924935
+    m_Localized: '<sprite=18><sprite=13><color=#FFFFFF>Melt</color>: DMG +2
+
+      <sprite=18><sprite=16><color=#FFFFFF>Vaporize</color>:
+      DMG +2
+
+      <sprite=18><sprite=15><color=#FFFFFF>Overloaded</color>: DMG
+      +2, the target is forcibly switched to the next character
+
+      <sprite=18><sprite=14><color=#FFFFFF>Burning</color>:
+      DMG +1, summons 1 <color=#FFFFFF>Burning Flame</color>
+
+      <sprite=18><sprite=12><color=#FFFFFF>Pyro
+      Swirl</color>: Deals 1 Pyro DMG to adjacent characters
+
+      <sprite=18><sprite=17><color=#FFFFFF>Pyro
+      Crystallize</color>: DMG +1, creates 1 <color=#FFFFFF>Crystallize</color>'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1624140763160576
+    m_Localized: <color=#FFE699><sprite=4>Geo</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 675678255886336
+    m_Localized: <color=#FFFFFF>Usage(s)</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 675680097185792
+    m_Localized: 'After the effect of this card or status is triggered, 1 <color=#FFFFFF>Usage</color>
+      of it will be consumed. When replayed, unless otherwise specified, the <color=#FFFFFF>Usages</color>
+      will be refreshed instead of accumulated.
+
+      This card or status will be
+      discarded immediately once it has 0 <color=#FFFFFF>Usages</color> remaining.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 675398911045632
+    m_Localized: <color=#FFFFFF>Fast Action</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 675401465376768
+    m_Localized: You can continue with other actions after conducting 1 <color=#FFFFFF>Fast
+      Action</color>.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 682869142630400
+    m_Localized: <color=#FFFFFF>Duration (Rounds)</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 682883810111488
+    m_Localized: 'Each time you reach the end of a Round, <color=#FFFFFF>Duration
+      (Rounds)</color> -1. When replayed, unless otherwise specified, the <color=#FFFFFF>Duration
+      (Rounds)</color> will be refreshed instead of accumulated.
+
+      This card
+      or status will be discarded immediately once <color=#FFFFFF>Duration (Rounds)</color>
+      runs out.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1578730279460864
+    m_Localized: <color=#FFFFFF>Piercing DMG</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1578861213048832
+    m_Localized: <color=#FFFFFF>Piercing DMG</color> cannot be increased by any bonuses,
+      but cannot be defended against using <sprite=36><color=#FFFFFF>Shields</color>
+      or DMG Immunity either.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1578863045959680
+    m_Localized: <sprite=36><color=#FFFFFF>Shield</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1578868800544768
+    m_Localized: This <sprite=36><color=#FFFFFF>Shield</color> will be consumed to
+      protect the character who equips it from DMG.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1560078897438720
+    m_Localized: <sprite=19><color=#FFFFFF>Physical DMG</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1560484356612096
+    m_Localized: <sprite=13><color=#99FFFF>Cryo DMG</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1560512231956480
+    m_Localized: <sprite=16><color=#80C0FF>Hydro DMG</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1560532515610624
+    m_Localized: <sprite=18><color=#FF9999>Pyro DMG</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1560556976791552
+    m_Localized: <sprite=15><color=#FFACFF>Electro DMG</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1560578241912832
+    m_Localized: <sprite=12><color=#80FFD7>Anemo DMG</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1563215024676864
+    m_Localized: 'Applies <sprite=18>Pyro and can trigger the following Elemental
+      Reactions:
+
+      <sprite=18><sprite=13><color=#FFFFFF>Melt</color>: DMG +2
+
+      <sprite=18><sprite=16><color=#FFFFFF>Vaporize</color>:
+      DMG +2
+
+      <sprite=18><sprite=15><color=#FFFFFF>Overloaded</color>: DMG
+      +2, the target is forcibly switched to the next character
+
+      <sprite=18><sprite=14><color=#FFFFFF>Burning</color>:
+      DMG +1, summons 1 <color=#FFFFFF>Burning Flame</color>'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1563232527507456
+    m_Localized: 'Applies <sprite=15>Electro and can trigger the following Elemental
+      Reactions:
+
+      <sprite=15><sprite=18><color=#FFFFFF>Overloaded</color>:
+      DMG +2, the target is forcibly switched to the next character
+
+      <sprite=15><sprite=13><color=#FFFFFF>Superconduct</color>:
+      DMG +1, deal 1 Piercing DMG to adjacent characters
+
+      <sprite=15><sprite=16><color=#FFFFFF>Electro-Charged</color>:
+      DMG +1, deal 1 Piercing DMG to adjacent characters
+
+      <sprite=15><sprite=14><color=#FFFFFF>Quicken</color>:
+      DMG +1, creates 1 <color=#FFFFFF>Catalyzing Field</color>'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1563245911531520
+    m_Localized: 'If the target are already applied <sprite=13>Cryo, <sprite=16>Hydro,
+      <sprite=18>Pyro or <sprite=15>Electro, can trigger the following Elemental
+      Reactions:
+
+      <sprite=12><sprite=13><color=#FFFFFF>Cryo Swirl</color>:
+      Deals 1 Cryo DMG to adjacent characters
+
+      <sprite=12><sprite=16><color=#FFFFFF>Hydro
+      Swirl</color>: Deals 1 Hydro DMG to adjacent characters
+
+      <sprite=12><sprite=18><color=#FFFFFF>Pyro
+      Swirl</color>: Deals 1 Pyro DMG to adjacent characters
+
+      <sprite=12><sprite=15><color=#FFFFFF>Electro
+      Swirl</color>: Deals 1 Electro DMG to adjacent characters'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1563258049847296
+    m_Localized: 'If the target are already applied <sprite=13>Cryo, <sprite=16>Hydro,
+      <sprite=18>Pyro or <sprite=15>Electro, can trigger the following Elemental
+      Reactions:
+
+      <sprite=17><sprite=13><color=#FFFFFF>Cryo Crystallize</color>:
+      DMG +1, creates 1 <color=#FFFFFF>Crystallize</color>
+
+      <sprite=17><sprite=16><color=#FFFFFF>Hydro
+      Crystallize</color>: DMG +1, creates 1 <color=#FFFFFF>Crystallize</color>
+
+      <sprite=17><sprite=18><color=#FFFFFF>Pyro
+      Crystallize</color>: DMG +1, creates 1 <color=#FFFFFF>Crystallize</color>
+
+      <sprite=17><sprite=15><color=#FFFFFF>Electro
+      Crystallize</color>: DMG +1, creates 1 <color=#FFFFFF>Crystallize</color>'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1563272763465728
+    m_Localized: 'Applies <sprite=14>Pyro and can trigger the following Elemental
+      Reactions:
+
+      <sprite=14><sprite=16><color=#FFFFFF>Bloom</color>: DMG +1,
+      creates 1 <color=#FFFFFF>Dendro Core</color>
+
+      <sprite=14><sprite=18><color=#FFFFFF>Burning</color>:
+      DMG +1, summons 1 <color=#FFFFFF>Burning Flame</color>
+
+      <sprite=14><sprite=15><color=#FFFFFF>Quicken</color>:
+      DMG +1, creates 1 <color=#FFFFFF>Catalyzing Field</color>'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2586890297466880
+    m_Localized: Frozen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2586890435878912
+    m_Localized: Crystallize
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1563201594515456
+    m_Localized: 'Applies <sprite=16>Hydro and can trigger the following Elemental
+      Reactions:
+
+      <sprite=16><sprite=18><color=#FFFFFF>Vaporize</color>: DMG
+      +2
+
+      <sprite=16><sprite=15><color=#FFFFFF>Electro-Charged</color>: DMG
+      +1, deal 1 Piercing DMG to adjacent characters
+
+      <sprite=16><sprite=13><color=#FFFFFF>Frozen</color>:
+      DMG +1, the target character receives <color=#FFFFFF>Frozen</color>
+
+      <sprite=16><sprite=14><color=#FFFFFF>Bloom</color>:
+      DMG +1, creates 1 <color=#FFFFFF>Dendro Core</color>'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1563172850950144
+    m_Localized: 'Applies <sprite=13>Cryo and can trigger the following Elemental
+      Reactions:
+
+      <sprite=13><sprite=18><color=#FFFFFF>Melt</color>: DMG +2
+
+      <sprite=13><sprite=15><color=#FFFFFF>Superconduct</color>:
+      DMG +1, deal 1 Piercing DMG to adjacent characters
+
+      <sprite=13><sprite=16><color=#FFFFFF>Frozen</color>:
+      DMG +1, the target character receives <color=#FFFFFF>Frozen</color>'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1563140483506176
+    m_Localized: Physical DMG will not apply any Elements, nor can it engage in Elemental
+      Reactions.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1560591974064128
+    m_Localized: <sprite=17><color=#FFE699>Geo DMG</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1560627076194304
+    m_Localized: <sprite=14><color=#7EC236>Dendro DMG</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1624158886748160
+    m_Localized: <color=#FFFFFF><sprite=7>Matching Element</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1624149759942656
+    m_Localized: <color=#7EC236><sprite=3>Dendro</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1624129950244864
+    m_Localized: <color=#80FFD7><sprite=6>Anemo</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19873464872730625
+    m_Localized: <color=#80C0FF>Hydro-Related Reactions</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19873464872730624
+    m_Localized: <color=#99FFFF>Cryo-Related Reactions</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2586890440073218
+    m_Localized: '<color=#FFFFFF>When you deal <sprite=15><color=#FFACFF>Electro
+      DMG</color> or <sprite=18><color=#FF9999>Pyro DMG</color> to an opposing active
+      character: </color>DMG +2.
+
+      <color=#FFFFFF>Usage(s): </color>1 (Can stack.
+      Max 2 stacks.)'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2586890440073217
+    m_Localized: '<color=#FFFFFF>End Phase:</color> Deal 1 <sprite=18><color=#FF9999>Pyro
+      DMG</color>.
+
+      <color=#FFFFFF>Usage(s): </color>2'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2586890440073216
+    m_Localized: '<color=#FFFFFF>When you deal <sprite=15><color=#FFACFF>Electro
+      DMG</color> or <sprite=14><color=#7EC236>Dendro DMG</color> to an opposing
+      active character: </color>DMG +1.
+
+      <color=#FFFFFF>Usage(s): </color>2'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2586890435878917
+    m_Localized: Grants 1 <sprite=36><color=#FFFFFF>Shield</color> point to your
+      active character. (Can stack. Max 2 points.)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2586890435878916
+    m_Localized: "\u2460Character to which this is attached cannot use Skills and
+      <sprite=27>Techniques.\n\u2461<color=#FFFFFF>When the character to which this
+      is attached takes DMG: </color>If it is <sprite=19><color=#FFFFFF>Physical
+      DMG</color> or <sprite=18><color=#FF9999>Pyro DMG</color>, removes this status
+      and increases DMG taken by 2.\n<color=#FFFFFF>Duration (Rounds): </color>1"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2586890435878915
+    m_Localized: Dendro Core
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2586890435878914
+    m_Localized: Burning Flame
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2586890435878913
+    m_Localized: Catalyzing Field
+    m_Metadata:
+      m_Items: []
+  - m_Id: 659821056274432
+    m_Localized: 'After you finish 1 <color=#FFFFFF>Combat Action</color>, it will
+      be your opponent''s turn.
+
+      Playing a card from your Hand with this rule
+      is also a <color=#FFFFFF>Combat Action</color> rather than a Fast Action.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 659726185312256
+    m_Localized: <color=#FFFFFF>Combat Action</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1631790292852741
+    m_Localized: 'Spend the <color=#80FFD7><sprite=6>Anemo</color> Dice you have
+      rolled to pay for this cost.
+
+      (<sprite=9>Omni Dice may also be used to
+      pay for this.)'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1631790292852742
+    m_Localized: 'Spend the <color=#FFE699><sprite=4>Geo</color> Dice you have rolled
+      to pay for this cost.
+
+      (<sprite=9>Omni Dice may also be used to pay for
+      this.)'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1631790292852743
+    m_Localized: 'Spend the <color=#7EC236><sprite=3>Dendro</color> Dice you have
+      rolled to pay for this cost.
+
+      (<sprite=9>Omni Dice may also be used to
+      pay for this.)'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1631790292852744
+    m_Localized: 'You must use Elemental Dice that match the number and element featured
+      here to pay this type of cost.
+
+      (An <sprite=9>Omni Die can be considered
+      of any Element.)'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1631790292852745
+    m_Localized: You may use Elemental Dice of any element to pay this type of cost.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1631790292852746
+    m_Localized: 'Characters must consume <sprite=10>Energy to use their Elemental
+      Bursts.
+
+      When characters use an Elemental Skill or a Normal Attack, they
+      will gain 1 <sprite=10>Energy.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1631790292852747
+    m_Localized: "An <sprite=34>Arcane Legend card can only be played should an <sprite=11>Arcane
+      Edict still be present. \nAfter an <sprite=34>Arcane Legend card is played,
+      the current match's <sprite=11>Arcane Edict use will be consumed."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1631790292852748
+    m_Localized: The <sprite=9>Omni Element can be considered as any kind of element,
+      and can be used to pay for costs of various kinds.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1632056119451648
+    m_Localized: <color=#D3BC8E>Elemental Burst</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1632058665394176
+    m_Localized: <color=#D3BC8E>Passive Skill</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1632119461830656
+    m_Localized: When the character's <sprite=10>Energy is enough, you can consume
+      that <sprite=10>Energy to use a powerful Elemental Burst.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1632140773089280
+    m_Localized: This Skill is constantly in effect and need not to be activated.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7913012796006400
+    m_Localized: <color=#FFFFFF>Basic Elemental Dice</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7913031846535168
+    m_Localized: 'Elemental dice other than <sprite=9>Omni Element.
+
+      When multiple
+      are generated at the same time, each elemental dice is of a different type.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19873464881119232
+    m_Localized: <color=#FFFFFF>Search</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19873464881119233
+    m_Localized: Randomly draw a card of the specified type or name from your deck
+      and add it to your Hand.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19873464881119234
+    m_Localized: Hilichurl Summon
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19873464885313536
+    m_Localized: "There are 4 kinds of Hilichurl Summons in total:\n<size=2>\u200B</size>\n\u2460Cryo
+      Hilichurl Shooter\n<color=#FFFFFF>End Phase: </color>Deal 1 <sprite=13><color=#99FFFF>Cryo
+      DMG</color>.\n<color=#FFFFFF>Usage(s): </color>2\n<size=2>\u200B</size>\n\u2461Hydro
+      Samachurl\n<color=#FFFFFF>End Phase: </color>Deal 1 <sprite=16><color=#80C0FF>Hydro
+      DMG</color>.\n<color=#FFFFFF>Usage(s): </color>2\n<size=2>\u200B</size>\n\u2462Hilichurl
+      Berserker\n<color=#FFFFFF>End Phase: </color>Deal 1 <sprite=18><color=#FF9999>Pyro
+      DMG</color>.\n<color=#FFFFFF>Usage(s): </color>2\n<size=2>\u200B</size>\n\u2463Electro
+      Hilichurl Shooter\n<color=#FFFFFF>End Phase: </color>Deal 1 <sprite=15><color=#FFACFF>Electro
+      DMG</color>.\n<color=#FFFFFF>Usage(s): </color>2"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20940190439833600
+    m_Localized: <color=#99FFFF>Cryo Application</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20940190477582336
+    m_Localized: <color=#80C0FF>Hydro Application</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20940190477582337
+    m_Localized: <color=#FF9999>Pyro Application</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20940190477582338
+    m_Localized: <color=#FFACFF>Electro Application</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20940190477582339
+    m_Localized: <color=#80FFD7>Anemo Application</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20940190477582340
+    m_Localized: <color=#FFE699>Geo Application</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20940190477582341
+    m_Localized: <color=#7EC236>Dendro Application</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20940190477582342
+    m_Localized: 'When <sprite=13>Cryo is applied without dealing any DMG, the Elemental
+      Reaction triggered will ignore DMG-dealing effects:
+
+      <sprite=13><sprite=18><color=#FFFFFF>Melt</color>:
+      No effect
+
+      <sprite=13><sprite=15><color=#FFFFFF>Superconduct</color>:
+      No effect
+
+      <sprite=13><sprite=16><color=#FFFFFF>Frozen</color>: The target
+      character receives <color=#FFFFFF>Frozen</color>'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20940190477582343
+    m_Localized: 'When <sprite=16>Hydro is applied without dealing any DMG, the Elemental
+      Reaction triggered will ignore DMG-dealing effects:
+
+      <sprite=16><sprite=18><color=#FFFFFF>Vaporize</color>:
+      No effect
+
+      <sprite=16><sprite=15><color=#FFFFFF>Electro-Charged</color>:
+      No effect
+
+      <sprite=16><sprite=13><color=#FFFFFF>Frozen</color>: The target
+      character receives <color=#FFFFFF>Frozen</color>
+
+      <sprite=16><sprite=14><color=#FFFFFF>Bloom</color>:
+      Creates 1 <color=#FFFFFF>Dendro Core</color> on opposing field'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20940190477582344
+    m_Localized: 'When <sprite=18>Pyro is applied without dealing any DMG, the Elemental
+      Reaction triggered will ignore DMG-dealing effects:
+
+      <sprite=18><sprite=13><color=#FFFFFF>Melt</color>:
+      No effect
+
+      <sprite=18><sprite=16><color=#FFFFFF>Vaporize</color>: No
+      effect
+
+      <sprite=18><sprite=15><color=#FFFFFF>Overloaded</color>: The
+      target is forcibly switched to the next character
+
+      <sprite=18><sprite=14><color=#FFFFFF>Burning</color>:
+      Summons 1 <color=#FFFFFF>Burning Flame</color> on opposing field'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20940190477582345
+    m_Localized: 'When <sprite=15>Electro is applied without dealing any DMG, the
+      Elemental Reaction triggered will ignore DMG-dealing effects:
+
+      <sprite=15><sprite=18><color=#FFFFFF>Overloaded</color>:
+      The target is forcibly switched to the next character
+
+      <sprite=15><sprite=13><color=#FFFFFF>Superconduct</color>:
+      DMG +1, deal 1 Piercing DMG to adjacent characters
+
+      <sprite=15><sprite=16><color=#FFFFFF>Electro-Charged</color>:
+      DMG +1, deal 1 Piercing DMG to adjacent characters
+
+      <sprite=15><sprite=14><color=#FFFFFF>Quicken</color>:
+      Creates 1 <color=#FFFFFF>Catalyzing Field</color> on opposing field'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20940190481776640
+    m_Localized: 'When <sprite=14>Dendro is applied without dealing any DMG, the
+      Elemental Reaction triggered will ignore DMG-dealing effects:
+
+      <sprite=14><sprite=16><color=#FFFFFF>Bloom</color>:
+      Creates 1 <color=#FFFFFF>Dendro Core</color> on opposing field
+
+      <sprite=14><sprite=18><color=#FFFFFF>Burning</color>:
+      Summons 1 <color=#FFFFFF>Burning Flame</color> on opposing field
+
+      <sprite=14><sprite=15><color=#FFFFFF>Quicken</color>:
+      Creates 1 <color=#FFFFFF>Catalyzing Field</color> on opposing field'
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

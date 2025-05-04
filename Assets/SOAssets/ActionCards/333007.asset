@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b7573eb496a745778d8917f2fd458576, type: 3}
+  m_Name: 333007
+  m_EditorClassIdentifier: 
+  cardName: card_name_333007
+  description: card_description_333007
+  bannerHint: use_food_card_banner
+  cardSnapshot: {fileID: 21300000, guid: 5a2ca90a2517f8547b39e1cdc9208250, type: 3}
+  cardImage: {fileID: 21300000, guid: 383e366687fe7c54fb65a63633d08561, type: 3}
+  cardType: 2
+  buildCondition:
+  - rid: 37412325134696534
+  properties: 22000000
+  costs:
+  - type: 9
+    count: 1
+  useCondition:
+    evaluation: 0
+    count: 0
+    preposedIndex: 0
+    factors: []
+  effects: []
+  isValid: 0
+  references:
+    version: 2
+    RefIds:
+    - rid: 37412325134696534
+      type: {class: EmptyBuildCondition, ns: Client.Logic.BuildCondition, asm: Assembly-CSharp}
+      data:
+        conditionDescription: build_limit_food
