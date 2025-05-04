@@ -1,0 +1,8 @@
+name: Sylvester
+socket:
+  server_key: elementalduelkey
+runtime:
+  http_key: elementalhttpkey
+console:
+  username: Sylvester
+  password: naka0314ma
