@@ -113,7 +113,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 8769583030317056
-    m_Localized: No Valid Entity
+    m_Localized: No Valid Targets
     m_Metadata:
       m_Items: []
   - m_Id: 6495873855479808
@@ -129,7 +129,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 5905360597680128
-    m_Localized: Switch active entity
+    m_Localized: Switch active charatcer
     m_Metadata:
       m_Items: []
   - m_Id: 6496036527366144
@@ -149,7 +149,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 8993379117019136
-    m_Localized: Switch selected entity to $[Sub]
+    m_Localized: Switch selected character to $[Sub]
     m_Metadata:
       m_Items: []
   - m_Id: 8993379272208384
@@ -173,7 +173,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 8993379276402696
-    m_Localized: active entity
+    m_Localized: active character
     m_Metadata:
       m_Items: []
   - m_Id: 8993379276402697
@@ -1212,6 +1212,18 @@ MonoBehaviour:
       m_Items: []
   - m_Id: 39784479110332416
     m_Localized: Select the character who will eat this <color=#FFD780>Food</color>
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41119176767909888
+    m_Localized: Language
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41119176835018752
+    m_Localized: Simplified Chinese
+    m_Metadata:
+      m_Items: []
+  - m_Id: 41119176835018753
+    m_Localized: English
     m_Metadata:
       m_Items: []
   references:

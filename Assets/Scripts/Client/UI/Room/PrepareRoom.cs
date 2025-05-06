@@ -71,8 +71,8 @@ public class PrepareRoom : MonoBehaviour
         _room = FindObjectOfType<NetworkRoom>();
         
         menuDropList.SetSubButtonCallback("invite", InviteRoom);
-        menuDropList.SetSubButtonCallback("setting", OpenSettings);
-        menuDropList.SetSubButtonCallback("rules", OpenCheckRules);
+        // menuDropList.SetSubButtonCallback("setting", OpenSettings);
+        // menuDropList.SetSubButtonCallback("rules", OpenCheckRules);
         menuDropList.SetSubButtonCallback("exit", ExitRoom);
 
         menuButton.Callback = menuDropList.SwitchStatus;

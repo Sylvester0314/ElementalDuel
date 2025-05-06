@@ -1,4 +1,6 @@
-﻿using UnityEngine;
+﻿using System.Linq;
+using UnityEngine;
+using UnityEngine.Localization.Settings;
 
 public class DetectSubItem : AbstractBookPage
 {
@@ -8,6 +10,13 @@ public class DetectSubItem : AbstractBookPage
     
     public async void OnEnable()
     {
+        var lang = PlayerPrefs.GetString("Language");
+        var locale = LocalizationSettings.AvailableLocales.Locales
+            .FirstOrDefault(l => l.Identifier.Code == lang);
+        
+        if (locale != null)
+            LocalizationSettings.SelectedLocale = locale;
+        
         waitingText.Active("device_detecting");
         
         await NakamaManager.Instance.CheckDeviceAccount();

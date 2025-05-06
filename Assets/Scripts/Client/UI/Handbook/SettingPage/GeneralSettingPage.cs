@@ -1,5 +1,7 @@
+using System.Linq;
 using Unity.Netcode;
 using UnityEngine;
+using UnityEngine.Localization.Settings;
 
 public class GeneralSettingPage : AbstractSettingPage
 {
@@ -9,7 +11,21 @@ public class GeneralSettingPage : AbstractSettingPage
     {
         settingLogic = new SettingLogic(settingsContainer, scroll);
 
-        button.Callback = () => {};
+        button.Callback = () =>
+        {
+            if (!settingLogic.Settings.TryGetValue("language", out var setting))
+                return;
+
+            var lang = setting.choosing.key;
+            var locale = LocalizationSettings.AvailableLocales.Locales
+                .FirstOrDefault(l => l.Identifier.Code == lang);
+
+            if (locale == null)
+                return;
+
+            PlayerPrefs.SetString("Language", lang);
+            LocalizationSettings.SelectedLocale = locale;
+        };
 
         logoutButton.Callback = () =>
         {

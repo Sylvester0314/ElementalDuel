@@ -54,9 +54,9 @@ public class DeckItem : MonoBehaviour,
         };
         
         dropdown.SetSubButtonCallback("active", SetDeckActive);
-        dropdown.SetSubButtonCallback("edit", EditDeckName);
-        dropdown.SetSubButtonCallback("design", EditDeckDesign);
-        dropdown.SetSubButtonCallback("preview", PreviewDeck);
+        // dropdown.SetSubButtonCallback("edit", EditDeckName);
+        // dropdown.SetSubButtonCallback("design", EditDeckDesign);
+        // dropdown.SetSubButtonCallback("preview", PreviewDeck);
         dropdown.SetSubButtonCallback("copy", CopyDeck);
         dropdown.SetSubButtonCallback("delete", DeleteDeck);
     }

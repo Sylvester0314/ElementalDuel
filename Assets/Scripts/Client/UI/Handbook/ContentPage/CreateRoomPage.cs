@@ -11,7 +11,7 @@ using UnityEngine.SceneManagement;
 public class CreateRoomPage : AbstractSettingPage, IRoomJoinedCallbackHandler
 {
     [Header("Self Components")]
-    public LobbyContentContainer parent;
+    public LobbyContentContainer contentContainer;
     
     [Header("Create Room Buttons")]
     public Transform loading;
@@ -22,7 +22,7 @@ public class CreateRoomPage : AbstractSettingPage, IRoomJoinedCallbackHandler
     {
         settingLogic = new SettingLogic(settingsContainer, scroll);
 
-        parent.logic = settingLogic;
+        contentContainer.logic = settingLogic;
         button.Callback = CreateRoom;
     }
 
